@@ -2,15 +2,15 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router';
 import { Text } from 'react-dom';
-import styles from './Window1.css';
+import styles from './Window2.css';
 
-class Window1 extends Component {
+class Window2 extends Component {
   render() {
     const { currentSearch, updateSearch } = this.props;
     return (
-      <div className="window1">
+      <div className="window2">
         <div className={styles.btnGroup}>
-          Search: <input type="text" defaultValue="search" onChange={updateSearch} />
+        here are some details
         </div>
         <div className={`counter ${styles.counter}`}>
           {currentSearch}
@@ -20,4 +20,4 @@ class Window1 extends Component {
   }
 }
 
-export default Window1;
+export default Window2;
