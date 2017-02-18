@@ -18,11 +18,11 @@ class SearchResultItem extends Component {
     const boldedPreviewText = boldTerms(previewText, currentSearch);
     const boldedTitle = boldTerms(title, currentSearch);
     return (
-      <div className="searchResultItem">
-        {boldedTitle}
-        {authors}
-        {year}
-        {boldedPreviewText}
+      <div className="searchResultItem" >
+        {boldedTitle}<br/>
+        {authors}<br/>
+        {year}<br/>
+        {boldedPreviewText}<br/><br/>
       </div>
     );
   }
