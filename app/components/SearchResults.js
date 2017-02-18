@@ -12,7 +12,7 @@ class SearchResults extends Component {
         {ALL_DATA.filter(
           (el)=>el.title.indexOf(currentSearch) > -1
         ).map(
-          (el)=><SearchResultItem key={el.id} {...el}></SearchResultItem>)
+          (el)=><SearchResultItem currentSearch={currentSearch} key={el.id} {...el}></SearchResultItem>)
         }
       </div>
     );
