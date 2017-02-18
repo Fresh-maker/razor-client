@@ -1,5 +1,6 @@
 const ALL_DATA = [
   {
+    id: 1,
     title: "Absence of nigral degeneration in aged parkin/DJ‐1/PINK1 triple knockout mice",
     previewText: "Abstract Recessively inherited loss-of-function mutations in the parkin, DJ-1, or PINK1 gene are linked to familial cases of early-onset Parkinson's diseases (PD), and heterozygous mutations are associated with increased incidence of late-onset PD. We previously reported ",
     authors: [
@@ -9,6 +10,7 @@ const ALL_DATA = [
     journal: "Wiley Online Library",
   },
   {
+    id: 2,
     title: "Alpha-synuclein-induced neurodegeneration is exacerbated in PINK1 knockout mice",
     previewText: "Abstract Loss-of-function mutations in the PINK1 gene lead to recessive forms of Parkinson's disease. Animal models with depleted PINK1 expression have failed to reproduce significant nigral dopaminergic neurodegeneration and clear alpha-synuclein pathology, main ",
     authors: [
@@ -18,6 +20,7 @@ const ALL_DATA = [
     journal: "Elsevier",
   },
   {
+    id: 3,
     title: "Quantitative expression proteomics and phosphoproteomics profile of brain from PINK1 knockout mice: insights into mechanisms of familial Parkinson's …",
     previewText: "Abstract Parkinson's disease (PD) is an age-related, neurodegenerative motor disorder characterized by progressive degeneration of dopaminergic neurons in the substantia nigra pars compacta and presence of α-synuclein-containing protein aggregates. Mutations in the ",
     authors: [
