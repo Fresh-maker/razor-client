@@ -5,7 +5,7 @@ const FULLTEXT_BY_ID = [
   \n
   \n####Institute of Biomedicine of the University of Barcelona (IBUB), Barcelona, Spain.Center for Regenerative Medicine in Barcelona, Barcelona, Spain.3Department of Biomedical Science and Biotechnology, University of Brescia, Brescia, Italy. Control of Stem Cell Potency Group, Institute for Bioengineering of Catalonia (IBEC), Barcelona, Spain.Networking Center of Biomedical Research in Bioengineering, Biomaterials and Nanomedicine (CIBER-BBN), Barcelona, Spain. Neurodegenerative Diseases Research Group, Vall d’Hebron Research Institute, Barcelona, Spain.Networking Center of Biomedical Research on Neurodegenerative Diseases (CIBERNED),Barcelona, Spain.
   \n
-  \nInstitut des Maladies Neurodégeneratives, Universite de Bordeaux and CNRS,UMR 5293, F-33000 Bordeaux, France.Research Institute of Hospital Vall d’Hebron and Banc de Sang i Teixits, Advanced Cell Therapies and Immunology, Barcelona, Spain.
+  \nInstitut [2](/window2/2) des Maladies Neurodégeneratives, Universite de Bordeaux and CNRS,UMR 5293, F-33000 Bordeaux, France.Research Institute of Hospital Vall d’Hebron and Banc de Sang i Teixits, Advanced Cell Therapies and Immunology, Barcelona, Spain.
   \nCatalan Institution for Research and Advanced Studies (ICREA), Barcelona, Spain.
   \nGene Expression Laboratory, Salk Institute for Biological Studies, La Jolla, CA.
   \n

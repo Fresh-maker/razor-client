@@ -4,7 +4,7 @@ import { Link } from 'react-router';
 import { Text } from 'react-dom';
 import styles from './Window1.css';
 import SearchResults from './SearchResults.js';
-import Facets from './Facets.js';
+import FacetPage from '../containers/FacetPage.js';
 
 
 class Window1 extends Component {
@@ -21,7 +21,7 @@ class Window1 extends Component {
       </div>
       <div className="row">
         <div className="eight columns"> <SearchResults currentSearch={currentSearch}> </SearchResults> </div>
-        <div className="four columns"> <Facets/> </div>
+        <div className="four columns"> <FacetPage /> </div>
       </div>
 
     </div>
