@@ -20,7 +20,7 @@ class Window2 extends Component {
               function(word){
                 i++;
                 if (word.indexOf('<Link>') > -1) {
-                  const [,url,text]= word.split('|');
+                  const [,url,text] = word.split('|');
                   return <Link key={i} to={url}>{text}</Link>
                 } else {
                   return word+' '
@@ -38,7 +38,7 @@ class Window2 extends Component {
       <div className="window2">
       <div className="row">
         <p>Window2</p>
-        {fullText}
+        <pre className="fullDetails" >{fullText}</pre>
       </div>
 
     </div>

@@ -59,3 +59,11 @@ background-color: black;
 .navBar .green{
    background-color: #059c09;
 }
+
+pre.fullDetails {
+  margin-left:-50px;
+  /*TODO use calc or the like to fix*/
+  height:1260px;
+  overflow:scroll;
+
+}
