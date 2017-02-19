@@ -60,7 +60,7 @@ background-color: black;
    background-color: #059c09;
 }
 
-pre.fullDetails {
+.fullDetails {
   margin-right:20px;
   /*TODO use calc or the like to fix*/
   height:1260px;
