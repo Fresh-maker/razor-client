@@ -21,6 +21,7 @@ h2 {
 
 p {
   font-size: 24px;
+  color: rgb(240,230,140);
 }
 
 li {
@@ -37,4 +38,24 @@ a:hover {
   opacity: 1;
   text-decoration: none;
   cursor: pointer;
+}
+
+.navBar .margin {
+  margin: 5px;
+
+}
+
+.lookup{
+    float: left;
+    width: 480px;
+    text-overflow: clip;
+border:none !important;
+background-color: black;
+ font-size:24px;
+ font-style: normal;
+
+}
+
+.navBar .green{
+   background-color: #059c09;
 }
