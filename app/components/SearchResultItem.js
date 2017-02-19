@@ -7,22 +7,25 @@ class SearchResultItem extends Component {
   render() {
     const { id, title, previewText, authors, year, currentSearch} = this.props;
     const boldTerms = function(text, term){
+      let i =0;
       return text.split(' ').map(function(word){
           if(word === term) {
-            return (<b>{word} </b>);
+            return (<b key={i++}>{word} </b>);
           } else {
-            return (<span>{word} </span>);
+            return (<span key={i++}>{word} </span>);
           }
         });
     }
     const boldedPreviewText = boldTerms(previewText, currentSearch);
     const boldedTitle = boldTerms(title, currentSearch);
     return (
-      <div className="searchResultItem" >
-        {boldedTitle}<br/>
-        {authors}<br/>
-        {year}<br/>
-        {boldedPreviewText}<br/><br/>
+      <div key={id} className="searchResultItem" >
+        <Link to={'/window2/'+id}>
+          {boldedTitle}<br/>
+          {authors}<br/>
+          {year}<br/>
+          {boldedPreviewText}<br/><br/>
+        </Link>
       </div>
     );
   }
