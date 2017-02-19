@@ -12,14 +12,16 @@ const ALL_DATA_BY_ID = _.indexBy(ALL_DATA, 'id');
 class Window2 extends Component {
   render() {
     function linkify(text){
+      let i=0;
       return (
         <div className="fullText">
           {
             text.split(' ').map(
               function(word){
+                i++;
                 if (word.indexOf('<Link>') > -1) {
                   const [,url,text]= word.split('|');
-                  return <Link to={url}>{text}</Link>
+                  return <Link key={i} to={url}>{text}</Link>
                 } else {
                   return word+' '
                 }
