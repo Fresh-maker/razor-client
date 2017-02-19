@@ -11,7 +11,7 @@ export default class Home extends Component {
       <div >
         <div className="home-page">
           <Window1Page />
-          <Window2Page />
+          {(typeof this.props.children !== "undefined") && this.props.children}
         </div>
       </div>
     );
