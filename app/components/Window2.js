@@ -8,6 +8,7 @@ import ALL_DATA from '../fixtures/alldata.js';
 const ALL_DATA_BY_ID = _.indexBy(ALL_DATA, 'id');
 
 
+
 class Window2 extends Component {
   render() {
     function linkify(text){
@@ -33,10 +34,12 @@ class Window2 extends Component {
     const { currentSearch, updateSearch } = this.props;
     return (
       <div className="window2">
-        <div className={styles.btnGroup}>
+      <div className="row">
+        <p>Window2</p>
         {fullText}
-        </div>
       </div>
+
+    </div>
     );
   }
 }

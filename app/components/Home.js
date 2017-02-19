@@ -10,10 +10,24 @@ export default class Home extends Component {
     return (
       <div >
         <div className="home-page">
-          <Window1Page />
-          {(typeof this.props.children !== "undefined") && this.props.children}
+          <div className="styles.container">
+            <div className="row">
+              <div className="navBar">
+                <button className="button-primary green">History</button>
+                <button className="button-primary margin">Peop</button>
+                <button className="button-primary ">Anti</button>
+                <button className="button-primary margin" >Mthd</button>
+                <button className="button-primary" >Tisu</button>
+                <button className="button-primary margin">Gene</button>
+              </div>
+            </div>
+            <div className="row">
+              <div className="six columns"> <Window1Page /> </div>
+              <div className="six columns"> {(typeof this.props.children !== "undefined") && this.props.children} </div>
+            </div>
         </div>
       </div>
+    </div>
     );
   }
 }
