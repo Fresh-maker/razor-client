@@ -61,9 +61,10 @@ background-color: black;
 }
 
 pre.fullDetails {
-  margin-left:-50px;
+  margin-right:20px;
   /*TODO use calc or the like to fix*/
   height:1260px;
   overflow:scroll;
+  white-space:pre-wrap;
 
 }
