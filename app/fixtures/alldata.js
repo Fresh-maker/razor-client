@@ -1,3 +1,4 @@
+import FULLTEXT_BY_ID from './fulltext.js';
 const ALL_DATA = [
   {
     id: 1,
@@ -8,7 +9,7 @@ const ALL_DATA = [
     ],
     year: "2009",
     journal: "Wiley Online Library",
-    fulltext: "here is the fulltext 1",
+    fullText: FULLTEXT_BY_ID[0]
   },
   {
     id: 2,
@@ -19,7 +20,7 @@ const ALL_DATA = [
     ],
     year: "2014",
     journal: "Elsevier",
-    fulltext: "here is the fulltext 2",
+    fullText: "here is the fullText 2",
   },
   {
     id: 3,
@@ -30,7 +31,7 @@ const ALL_DATA = [
     ],
     year: "2015",
     journal: "Wiley Online Library",
-    fulltext: "here is the fulltext 3",
+    fullText: "here is the fullText 3",
   }
 ]
 
