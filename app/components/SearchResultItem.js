@@ -22,7 +22,7 @@ class SearchResultItem extends Component {
       <div key={id} className="searchResultItem" >
         <Link to={'/window2/'+id}>
           {boldedTitle}<br/>
-          {authors}<br/>
+          {authors.join(' ')}<br/>
           {year}<br/>
           {boldedPreviewText}<br/><br/>
         </Link>
