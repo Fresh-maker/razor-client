@@ -12,7 +12,7 @@ class Facets extends Component {
             const jlc = journal.toLowerCase();
             return (<div key={jlc}>
                       <input onChange={updateFacet} id={"journal-"+jlc}
-                        value={jlc} name={"journal-"+jlc} type="checkbox"/>
+                        value={jlc} name={"journal"} type="checkbox"/>
                       <label htmlFor={"journal-"+jlc}>{journal}</label>
                     </div>)
           })

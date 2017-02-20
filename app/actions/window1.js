@@ -2,7 +2,7 @@
 import type { window1StateType } from '../reducers/window1';
 
 export const UPDATE_SEARCH = 'UPDATE_SEARCH';
-export const UPDATE_FACETS= 'UPDATE_FACET:';
+export const UPDATE_FACETS= 'UPDATE_FACET';
 
 export function updateSearch(e) {
   return {
@@ -14,13 +14,21 @@ export function updateSearch(e) {
 export function updateFacet(e) {
   let payload = {};
   if(e.target.type === 'checkbox'){
-    payload[e.target.name] = e.target.checked;
+    payload = {
+      prop: e.target.name,
+      value: e.target.value,
+      action: e.target.checked ? 'add' : 'remove'
+    };
   } else if (e.target.type ==='radio'){
-    payload[e.target.name] = e.target.value;
+    payload = {
+      prop: e.target.name,
+      value: e.target.value,
+      action: 'replace'
+    };
   }
   return {
     type: UPDATE_FACETS,
-    payload: payload
+    payload
   };
 }
 
