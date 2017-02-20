@@ -9,7 +9,7 @@ const ALL_DATA = [
     ],
     year: "2009",
     journal: "Wiley Online Library",
-    fullText: FULLTEXT_BY_ID[0]
+    fullText: FULLTEXT_BY_ID[1]
   },
   {
     id: 2,
