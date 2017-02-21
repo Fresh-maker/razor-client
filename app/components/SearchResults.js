@@ -10,7 +10,7 @@ class SearchResults extends Component {
     const { currentSearch } = this.props;
     const getFilteredResults = function(allTerms){
         return allTerms.filter(
-          (el)=>(el.title + ' ' + el.previewText).indexOf(currentSearch) > -1
+          (el)=>(el.title.toLowerCase() + ' ' + el.previewText.toLowerCase()).indexOf(currentSearch.toLowerCase()) > -1
         ).map(
           (el)=><div><SearchResultItem currentSearch={currentSearch} key={el.id} {...el}></SearchResultItem><br/></div>)
     }
