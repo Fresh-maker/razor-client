@@ -10,7 +10,7 @@ const IMAGES_BY_PAPER_ID = [
     id: 4,
     directory: 'paper2',
     imageNames: [
-      'fig1.png'
+      'fig1.png','fig2.png'
     ]
   },
   {

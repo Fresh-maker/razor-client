@@ -21,7 +21,6 @@ class DetailMetadata extends Component {
         {
           imageNames.map(function(imageName){
             console.log('image',imageName);
-            //<img style={{width:'40px'}} src={`../resources/figures/${directory}/${imageName}.png`}/>
             return (<p key={directory+ '/' + imageName}>{imageName}</p>)
           })
         }
