@@ -18,6 +18,7 @@ class DetailMetadata extends Component {
       <div className="detailMetadata four columns">
       <div className="row">
         <p>Text Details</p>
+            //<img style={{width:'40px'}} src={`../resources/figures/${directory}/${imageName}.png`}/>
         {
           imageNames.map(function(imageName){
             console.log('image',imageName);
