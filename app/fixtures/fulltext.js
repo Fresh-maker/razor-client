@@ -1292,6 +1292,235 @@ const FULLTEXT_BY_ID = {
 
   `,
   10:`# Alterations of mitochondrial dynamics allow retrograde propagation of locally initiated axonal insults
+\n## Benjamin Lassus1,2, Sebastien Magnifico1,2, Sandra Pignon1,2, Pascale Belenguer3, Marie-Christine Miquel3,* & Jean-Michel Peyrin1,2,*
+\n
+\n### In chronic neurodegenerative syndromes, neurons progressively die through a generalized retraction pattern triggering retrograde axonal degeneration toward the cell bodies, which molecular mechanisms remain elusive. Recent observations suggest that direct activation of pro-apoptotic signaling in axons triggers local degenerative events associated with early alteration of axonal mitochondrial dynamics. This raises the question of the role of mitochondrial dynamics on both axonal vulnerability stress and their implication in the spreading of damages toward unchallenged parts of the neuron. Here, using micro uidic chambers, we assessed the consequences of interfering with OPA1 and DRP1 proteins
+\n
+\nAxonal and synaptic degeneration are key processes in neurodegenerative diseases. Neurons degenerate through a protracted Dying-Back pattern, sequentially it involves collapse of synaptic ends, dismantling of axonal tracts and, ultimately, degeneration of the cell body1. While the mechanisms involved in neuronal soma destruction have been extensively studied, the molecular cues leading to axonal degeneration remain elusive. Seminal studies on Wallerian Degeneration and Wallerian Degeneration Slow (WLD(s)) spontaneous mutant mice, have sug- gested that axons and somas degenerate through distinct mechanisms2. Indeed, upon axotomy, while retrograde degeneration of the axons towards the cell body entails apoptotic signaling, the destruction of the distal part of axons implicates an orchestrated process involving important modi cations of NAD+-associated signaling pathways3. Once proposed to be mediated through nuclear production of NAD+ 4, increasing evidence indi- cates that cytoplasmic or even mitochondrial production of NAD+ mediates a strong axo-protective e ect5,6. Consistent with these notions, axonal transport conveys NAD+ producing enzymes to the distal part of the axons7,8. Moreover, axotomy, peripheral microtubule destabilization or apoptosis signaling have all been shown to trigger axonal NAD+ depletion associated with mitochondrial transport impairment and mitochondrial dysfunc- tions such as mitochondrial transition Pore (mPTP) opening in axonal endings9. We and others have shown that NAD+ cross talks with local apoptotic pathways and apoptosome in axons10,11, partially through mitochondrial SirT3 activation12,13.  is is in line with evidence showing that e ectors of the pro-apoptotic modules control degenerative processes in axons triggered during the neurodevelopmental phase14–16 a period associated with extreme vulnerability of neurons toward apoptosis17,18 and that the modality of apoptotic modules activation is itself compartmentalized19.  erefore, several lines of evidence point toward axonal mitochondria playing a cru- cial role in gate-keeping axonal vulnerability toward stressors which involve subtle adjustments of mitochondrial functions. Mitochondrial dynamics and quality control regulate these functions, including local energy supply and sequestration of pro-apoptotic factors.
+\n
+\nMitochondria are complex versatile organelles, forming networks that are constantly remodeled through signi cant fusion and  ssion events, which are tightly controlled by several key proteins with GTPase activity. Dynamin-related protein 1 (DRP1) manages  ssion while Mitofusins (MFN1, MFN2) and OPA1 handle fusion of mitochondria20–23.  is dynamics is greatly modi ed during apoptosis, and  ssion of the mitochondrial net- work is considered an early event of apoptosis24–26. Consequently, several studies have shown that an increase of mitochondrial  ssion, through DRP1 overexpression or by Mitofusins and/or OPA1 inhibition, enhances cell vulnerability toward apoptosis, or sensitizes cells to stress24,27–29, particularly neurons30,31. Moreover, MFN2 is necessary for axonal mitochondrial transport and positioning32,33, and alteration of mitochondrial  ssion through DRP1 inactivation or OPA1 inactivation leads to abnormal mitochondria positioning in neurites34,35. Alteration of mitochondrial dynamics has been associated to the early stage of neurodegenerative conditions20,36,37; and inhibiting DRP1 proved to be a promising strategy in order to delay neuronal demise31,38. However, the exact role of mitochondrial dynamics in axonal susceptibility and/or resistance to direct focalized insults remains a poorly documented question. While inhibition of MFN2 was reported to lead to spontaneous axonal degeneration in peripheral neurons33, direct axonal insults such as abnormal calcium in ux, or pro in ammatory conditions were shown to trigger local mitochondrial and axonal alteration in vitro30. Importantly, these alterations were demonstrated to be reversible39. While this suggests that the spread of mitochondrial alteration may be bu ered by unchallenged parts of the axons, the question remains whether damaged fragmented mitochondria can convey dysfunction/pro-apoptotic signals to distant, unchallenged areas of the neuron.
+\n
+\nHere, we aim to study the consequences of mitochondrial dynamics alteration on axonal vulnerability to axonal pro-apoptotic stress. Using primary neurons in compartmented culture devices, we applied rotenone, a mitochondrial stressor, on the distal parts of axons. We evaluated the in uence of mitochondrial dynamics alter- ations on axonal vulnerability through pharmacological inhibition of mitochondrial  ssion with Mdivi-1, as well as overexpression of wild type or mutant DRP1 or OPA1 proteins. Finally, this paradigm allowed us to analyze the impact of mitochondrial  ssion on the retrograde spreading of apoptotic signals along axons.
+\n
+\n## Results
+\n
+\n### Genetic manipulation of mitochondrial dynamics does not trigger spontaneous axonal degeneration.
+\n
+\nMitochondrial  ssion is an early event preceding axonal tubulin dismantlement a er either somatic or axonal insults. In previous studies we showed that axo-protective molecules impaired both mitochondrial  ssion and axonal degeneration processes13,40. Here, in order to assess whether  ssion could be a cause or a con- sequence of ongoing axonal degeneration, we investigated the direct role of mitochondrial dynamics on spon- taneous axonal degeneration. We used a previously developed model of Cerebellar Granule Neurons (CGN) grown in micro uidic chambers which allowed the compartmentalization of axons and somas in two separate chambers. Because mitochondrial fragmentation can be a result an impaired fusion and/or an increase in  ssion, we used genetic manipulation of two key proteins that control mitochondrial dynamics: (1) the profusion protein OPA1 and (2) the pro- ssion protein DRP1. Prior to seeding in the micro uidic devices, CGN neurons were electroporated with constructs encoding either wild type OPA1, or OPA1G330E, a dominant negative mutant of OPA141, or wild type DRP1. Co-transfection with the MitoDsRed expression vector allowed for direct visuali- zation of mitochondrial morphology35. Quantitative analysis of axonal mitochondrial morphology 10 days a er transfection showed that in control condition, small  ssionned mitochondria (≤2 μm long), represented approx- imately 40% of the mitochondrial population, while the remaining ≈60% consisted of  lamentous (2–4 μm) and hyper- lamentous (≥4 μm) mitochondria (Fig. 1a,d). Overexpression of OPA1 did not modify these per- centages to statistical signi cance, although slightly displacing the repartition toward longer forms. As expected, forcing  ssion by inactivation of OPA1 through overexpression of OPA1G300E or by overexpression of the pro- s- sion protein DRP1 led to a dramatic increase in fragmented mitochondria that accounted for almost 70% of the total mitochondria (Fig. 1a,d).  e impact of these mitochondrial dynamics modulations on mitochondrial mobility was then studied through kymograph analysis (Fig. 1b). In the control condition, approximately 80% of mitochondria are immobile and approximately 30% have anterograde or retrograde mobility with an average speed of 0.1μm.s−1 (Fig. 1e,f). Neither OPA1G300E nor DRP1 overexpression did modify the percentage of motile mitochondria or the average speed of mitochondria (Fig. 1e,f). Accordingly, the repartition of fragmented mito- chondria in OPA1G300E or DRP1 conditions was homogeneous in both the somato-dendritic compartment and axonal endings of CGN, and no major change was observed as compared to the control neurons (data not shown). To test whether altered fragmented mitochondria could be engaged in the apoptotic pathway, the distribution of cytochrome c was compared to MitoDsRed, allowing detection of potentially deleterious cytochrome c leaks from mitochondria. As shown in Fig. 1a,g, the MitoDsRed and cytochrome c signals were co-localized, even in fragmented mitochondria following OPA1G300E or DRP1 overexpression, thus indicating that mitochondria were not engaged in a pro-apoptotic process. Furthermore, analysis of CGN morphology showed that none of the conditions impacted neuronal survival as assessed by nuclear condensation in the somatic chamber and axonal beta3-tubulin staining (Fig. 1c,h). In conclusion, our data show that increasing mitochondrial  ssion through overexpression of OPA1G300E or DRP1, results in an increase to 80% of fragmented mitochondria in both soma- to-dendritic and axonal compartments, as compared to 40% in control conditions. However this did not signi - cantly impact axonal fate nor lead to spontaneous activation of apoptotic pathways in CGN.
+\n
+\n### Local pharmacological inhibition of mitochondrial  ssion prevented axonal damage.
+\n
+\nWhile increasing mitochondrial  ssion per se did not lead to spontaneous axonal degeneration, mitochondrial  ssion could sensitize axons toward stressors such as rotenone.  is mitochondrial poison promotes neuronal apop- tosis and primarily targets the Complex I of the mitochondrial respiratory chain, triggers mitochondrial ROS production. Due to micro uidic barriers and axons occluding the micro channels, molecular di usion between axonal and somatic chambers is highly limited42,43. Using this to our advantage, we tested whether mitochondrial  ssion modi es the vulnerability of axons toward susceptibility to pro apoptotic stressor. Rotenone was selectively applied to CGN axonal compartments in order to initiate local degenerative events. Axonal application of up to 5 μM of rotenone in High Glucose (HG) condition had no visible e ect on both axonal mitochondrial mor- phology and axonal degeneration (Fig. 2a–d,m,n).
+\n
+\nHowever, as previously observed13, in glycolytically impaired conditions (i.e. in Low Glucose (LG) conditions), rotenone induced extensive axonal mitochondrial  ssion and axonal degeneration (Fig. 2e–h,m,n). A striking observation was that while rotenone treatment of axonal endings in glycolytically impaired conditions triggers complete axonal degeneration in the distal (treated) chambers, there is almost no observable retrograde spreading of the axonal damage toward the cell body, as assessed by nuclear integrity staining a er 24 hours (Fig. 2g). Yet, careful examination and morphological analysis of GFP-transfected at a later time point (axons treated for 48 hours) showed evidence of a slow and partial retrograde degeneration (Sup Fig. 1).
+\n
+\nWe then evaluated the efficiency of pharmacological inhibition of mitochondrial fission in impeding rotenone-induced axonal degeneration. While application of SP600125, a JNK inhibitor showed no protec- tive e ect (Fig. 2n,k–l,m), application of Mdivi-1, an inhibitor of DRP144,45, in the axonal chamber prevented both mitochondrial fragmentation and axonal degeneration induced by rotenone in LG medium (Fig. 2n,i,j,m). Cumulatively, these data demonstrate that preventing mitochondrial alteration at the DRP1 level is su cient to prevent rotenone-induced axonal degeneration.
+\n
+\n### Increasing  ssion enhanced axonal vulnerability to rotenone and restricts retrograde spreading toward the cell body.
+\n
+\nAlteration of mitochondrial dynamics by genetic means may lead to subtle axonal alterations in mitochondrial physiology, which although non-lethal per se, have been proposed to sensitize cells to further stress28,41. In order to assess whether fragmented axonal mitochondria are associated with increased vulnerability to axonal rotenone, we exposed the axons of OPA1-, OPA1G300E- and DRP1-transfected neurons to 5 μM rotenone in HG cell culture medium, a sub-threshold condition in which rotenone has no deleterious e ect. As shown in Fig. 3a–d,q, in HG medium, the expression of control and Mito-DsRed vectors, alone or in combination with rotenone (5 μM) axonal application, had no e ect on mitochondrial morphology or axonal integrity. Overexpression of OPA1 did not modify axonal integrity or the overall mitochondrial morphology with or without rotenone (Fig. 3e–h). However, application of rotenone in HG medium of both OPA1G300E (Fig. 3i–l) and DRP1 (Fig. 3m–p) treated axons resulted in 30% axonal fragmentation a er a 24 h treatment (Fig. 3q). It can be concluded that mitochondrial  ssion signi cantly enhances axonal vulnerability to rotenone and allows to overcome the inhibitory e ect of high glycolytic environment. Interestingly, at time points where axons show no sign of degeneration (6h), rotenone treatment of axonal segment triggered a decrease in both mitochondria movement (from 33% to 12% ) and speed (0.95 to 0.04 μm/s−1).  is e ect was even more pronounced under DRP1 overexpression condition where mitochondria virtually halted in the treated segments (motility drops from 30% to 1.8% and speed from 0.05 to 0.015 μm/s−1).
+\n
+\nAs described in Fig. 2, axonal application of rotenone triggers destruction of the treated axonal endings asso- ciated with a minor and very slow retrograde degeneration pro le inside the micro-channel area. A plausible scenario would be that mitochondria lying in the unchallenged parts of the axons may act as bu er, limiting the retrograde spread of locally imitated insults. In order to assess whether mitochondrial  ssion may modify retrograde degeneration, together with OPA1G300E or DRP1 plasmids CGN neurons were co-transfected with a GFP encoding vector allowing visualization of the complete neuronal morphology. DIV10 GCN, grown in HG conditions, were treated with rotenone applied on the axonal chamber. Morphological integrity of both distal and proximal parts of the axons individualized in the micro-channels was then recorded. As shown in Fig. 4a,b, under these high glucose culture conditions, rotenone treatment did not result in a signi cant axonal degeneration in control CGN, with very few fragmentation events observed only inside the distal part of the micro-channels. Strikingly, axons from neurons transfected with OPA1G300E (Fig. 4c,d) and DRP1 (Fig. 4e,f) and treated with rote- none, show extensive signs of degeneration in the distal parts of the micro-channel. In DRP1-overexpressing neu- rons, and to a lesser extent for OPA1G300E expressing neurons, this is associated with further signs of retrograde degeneration toward the proximal part of the micro-channels (Fig. 4c–f) and somatic degeneration in the somatic chamber (not shown). Quanti cation of the axonal degeneration index in the micro-channels clearly indicates that both DRP1 and OPA1G300E promote a fast retrograde degeneration process (Fig. 4g,h).
+\n
+\nOverall, these results showed that modi cation of mitochondrial dynamics through either impairment of mitochondrial fusion (OPA1G300E) or promotion of mitochondrial  ssion (DRP1) dramatically increased axonal vulnerability toward exogenous stress, suggesting that mitochondrial dynamics is a key player in controlling dif- fusion of deleterious signals in neuronal axonal cytoplasm towards the cell body.
+\n
+\n## Discussion
+\n
+\nIncreasing research shows that mitochondrial dynamics, which controls mitochondrial morphology and func- tions, plays a crucial part in the regulation of cellular processes ranging from bioenergetics control to apoptosis related degeneration20–23. As such, mitochondrial functions and dysfunctions are key processes in the context of neurodegenerative diseases.  e impairment of mitochondrial transport, respiration and dynamics, have all been shown to be early events in neuronal dysfunction46. However, since more than 90% of the neuronal cyto- plasm is located in neuronal extensions that extend far from the cell body, focal neurotoxic aggressions (protein aggregates, stroke...) a ecting only a portion of neuronal cytoplasm could potentially initiate local degenera- tive events.  erefore, local control of mitochondrial functions likely plays an important role in gate keeping early events in neuronal degeneration. However, its exact role in the Dying Back retraction process and axonal degeneration remains poorly documented1. Cumulatively, our results show that mitochondrial  ssion is an early and crucial event in axonal degeneration triggered by axonal rotenone application, which only occurs upon local and concomitant glycolytic impairment.  us, this suggests that unchallenged axons have high axo-protective endogenous signaling capabilities. Arti cially forcing mitochondrial dynamics toward fragmentation by impair- ing fusion or activating  ssion greatly increases axonal vulnerability toward exogenous stressors like rotenone by itself. Strikingly, increase in mitochondrial  ssion is also associated with the retrograde spreading of degeneration toward axonal proximal parts. Our results thus suggest that mitochondrial dynamics tightly controls both axonal vulnerability under local stress and the spreading of deleterious signals toward neuronal cell bodies.
+\n
+\nInitial works on the role of mitochondrial dynamics in apoptotic processes led to propose a model where shi ing its balance towards fusion drives cell resistance to stress whereas cell vulnerability is observed if the bal- ance is shi ed towards  ssion24,27,29,47. Surprisingly, in our experimental conditions overexpression of wtOPA1 had no signi cant consequences on CGN mitochondrial morphology.  is may be linked to the fact that CGN already have highly elongated mitochondrial networks when compared to cortical neurons in basal condition. Inactivating fusion or activating  ssion, through overexpression of OPA1G300E or DRP1 respectively, led to mito- chondrial fragmentation without spontaneous apoptosis and axonal degeneration.  is is in line with data show- ing that inducing fragmentation through DRP1 or OPA1 pathways does not systematically promote spontaneous cellular death, a process that depends both on the cell type and cellular stress27,28,35,47.  e deleterious e ects of mitochondrial complex-I inhibitory molecules were previously shown to be inhibited by high glycolytic envi- ronments13,48–51. Interestingly, our results show that inducing fragmentation through DRP1 activation or OPA1 inactivation leads to axonal degeneration under these protective conditions and may thus indicate that mito- chondrial  ssion in axons reproduces the supplemental stress provided by glycolytic impairment in presence of rotenone.  is indeed suggests that the alteration of mitochondrial dynamics and glycolytic impairment may have overlapping consequences resulting in axonal degeneration. It is noteworthy that although OPA1 and DRP1 have di erent functions, their opposing modulation leading to increased mitochondrial fragmentation with sim- ilar consequences on axonal sensitization to apoptosis. Within the mitochondria, OPA1 inactivation destabilizes cristae junctions leading to inner membrane space mobilization of cytochrome c as a bona  de preparation for apoptosis52–55. DRP1 has also been proposed to play a role in cristae remodeling and could participate in the execution of apoptosis56. In addition to a direct impact on apoptosis, the consequences of mitochondrial frag- mentation can modify ROS levels57,58 and/or Ca2+ bu ering capacities59 together with alterations in energetic states60,61. Short, fragmented mitochondria may favor an uncoupled state and/or maximal respiration and/or increased protons conductance, leading to a decreased ATP production62. Interestingly, while a local decrease in ATP could a ect microtubule stability63, this was recently shown to lead to axonal fragmentation through a mitochondrial Sirt3 pathway, an enzyme that mitigates rotenone-induced axonal degeneration, as we and others have previously demonstrated12,13.
+\n
+\nIn neurons, several studies reported that early mitochondrial  ssion is triggered by neurodegenerative con- ditions36,64 and is linked to an enhanced vulnerability toward apoptosis. In our experimental paradigm of axonal degeneration, pharmacological inhibition of mitochondrial  ssion by Mdivi-1, which is described to inhibit direct apoptotic signaling through mitochondrial  ssion and cytochrome c release caused by BAX signaliza- tion44,45, protects axons from the deleterious e ects of rotenone.  is suggests that DRP1 is primarily involved in the early phase of axonal degeneration. While retrograde propagation of axonally initiated insults, coined as the “Dying Back” process, is a common event in neurodegenerative diseases, the mechanisms underlying such ret- rograde events have been poorly studied in mature CNS neurons. Apoptosis being considered as an autocatalytic event, one could therefore postulate that local activation of pro-apoptotic signaling in axons may lead to a fast retrograde spreading toward the cell body. A surprising observation was that upon axonal rotenone insults in low glucose conditions, although the treated axonal segments degenerate through a caspase-dependent pathway13, no signi cant retrograde spreading toward the cell body was evidenced in basal conditions. Interestingly, while our previous observations suggested that axons have high intrinsic resistance toward direct apoptosis activation13,65, a recent report showed that direct axonal apoptotic degeneration is gated by a somatic apoptotic signaling19. Collectively these  ndings support the notion that unchallenged parts of the neurons may bu er the spreading of toxic signals in the cytoplasm as previously hypothesized66 and suggested by experimental results showing that locally induced mitochondrial damages in vivo are due to a local and reversible process39. Our results show that pushing mitochondrial dynamics toward fragmentation through an increase of DRP1 activity and, to a lesser extent, by a diminution of OPA1 activity, signi cantly modi es the spatial degeneration pro le triggered by axonal application of rotenone under protective glucose conditions.  is therefore experimentally indicates, for the  rst time, that mitochondrial dynamics is a critical process that allows bu ering pathological signal spreading in axons.
+\n
+\nThis further raises the fundamental question of the spatial spreading of pro-apoptotic signaling modules in the cytoplasm. Some studies have evidenced that, upon apoptosis in cell lines, cytochrome c release from mitochon- dria occurs through spatial waves in the cytoplasm67 thus suggesting that apoptosis may occur as an orchestrated spatial pattern. Interestingly, spatial propagation events of mitochondrial membrane permeabilization in cell lines, have been recently shown to be promoted by the dispersion of free radicals leading to the opening of the transition pore68. While spreading of degenerative signal may be caused by damaged mitochondria moving to unchallenged, our results showing that rotenone induces a dramatic slowdown of mitochondrial movement and speed are not in favor of that scenario. Interestingly, theoretical studies have shown that spreading of apoptosis signals may occur through di usion of locally-activated executive apoptotic proteins69,70. Although not address- ing directly these speci c questions, our data suggest that mitochondrial integrity is crucial in the axonal di usion of executive apoptotic factors, as  ssionned mitochondria lose their capacity to prevent retrograde propagation of apoptotic factors in axons in the case of intercurrent stress.
+\n
+\nAltogether, our data highlight the essential role of mitochondrial dynamics in axonal apoptosis signal ampli-  cation. Our results showing that either OPA1 inactivation or DRP1 overexpression is su cient to overcome speci c axonal resistance toward apoptosis by sensitizing mitochondria to sub-threshold rotenone, suggest that mitochondrial priming e ect in axons is a key process of axonal degeneration. In the neurodegenerative diseases context where neuronal degeneration can be due to many converging causes71, our results could indicate that circumstances inducing mitochondria fragmentation are not su cient to cause neuronal degeneration. However, reminiscent of progressive ageing process, intercurrent and cumulative events such as protein aggregation, muta- tion, loss of synaptic signalization could hasten neuronal death and initiate spatial dispersion of locally induced degenerative events.
+\n
+\n## Methods
+\n
+\n### Micro uidic Chip Production.
+\n
+\nMicro uidic chips are made up of two elements: 55 mm-high macro-cham- bers for cell or  uid injection, separated by narrowing arrays of 3 mm-high micro-channels allowing directional axonal outgrowth.  e two-compartmented chips were constructed as previously described. Brie y, micro uidic positives masters were produced trough spin coating and UV insulation of SU-8 photolithographic resin on silicon wafers.
+\n
+\nPolydimethylsiloxane (Sylgard 184, PDMS, Dow Corning) was mixed with a curing agent (9:1 ratio) and degassed under vacuum.  e resulting preparation was poured on micro uidic masters and reticulated at 70 °C for 2 hours.  e elastomeric polymer print was detached and two reservoirs were punched manually for each macro-channel.  e resulting piece was cleaned with isopropanol and dried.  e polymer print and a glass cover slip were treated for 200 seconds in an air plasma generator (100% power, 0.6mBar, Diener Electronic) and bonded together.  e chips were placed under UV for 20 minutes and then coated with a solution of poly-D-lysine (10 μg/mL, Sigma) overnight and washed with PBS before cell seeding.
+\n
+\n### Primary Neuronal Cultures.
+\n
+\nPostnatal P5 Swiss mice were purchased from René Janvier (Le Genest Saint Isle, France) and cared for by the animal care facility at University Pierre et Marie Curie (IFR83). Animal care was conducted in accordance with standard ethical guidelines (U.S. National Institutes of Health publication no. 85–24, revised 1985, and European Committee Guidelines on the Care and Use of Laboratory Animals) and the local, IBPS and UPMC, ethics committee approved the experiments. Mouse pups were decapitated and cerebella were micro-dissected. All steps of dissection were conducted in ice cold phosphate bu er saline w/o calcium and Magnesium (DPBS) and supplemented with 0.1% glucose (Life Technologies). Dissected structures were digested with trypsin-EDTA (Life Technologies) for 10 minutes at 37 °C. A er tryspin inactivation with Heat Inactivated fetal bovine serum (FBS, PAA), structures were mechanically dissociated in DMEM glutamax (Life Technologies) with plastic pipettes in presence of 104 U/mL DNAse (Sigma Aldrich). A er several rinses, cells were re-suspended in DMEM, to a  nal density of 45 million cells/mL. Cells were then seeded in the somatic compartment by introducing 1.7 μL of the cell suspension into the upper reservoir. Cells  owed into the chamber and adhered within 1–2 minutes. Cell culture medium was then added to the four reservoirs (60 μL/reservoir). Neurons were grown in High Glucose (25 mM) DMEM glutamax containing sodium pyruvate supplemented with streptomycin/penicillin ( ermo sher, Gibco), 10% Fetal Bovine Serum (FBS), N2 and B27 without antioxidant neuronal supplements (Life Technologies). Micro uidic chips were placed in plastic Petri dishes containing H2O to prevent evaporation and incubated at 37 °C in a humid 5% C02 atmosphere.  e culture medium was renewed six days a er seeding. Upon di erentiation, 2 or 3 days a er seeding, CGN axons entered the micro-channels and reached the second chamber a er 5 to 6 days.
+\n
+\n### Primary Neurons transfection.
+\n
+\nOPA1, OPA1G300E or DRP1, and Mito-DsRed plasmids were co-transfected using electroporation according to manufacturer’s recommendation (Microporator, Invitrogen). Brie y, a er cell dissociation, cells were washed in PBS centrifuged at low speed. Neurons were re-suspended in electroporation bu er (120 μL for 3 million of cells, Invitrogen) containing 15 μg of plasmids constructs. For co-transfection, a ratio of 2/3 for OPA-1 or DRP-1 plasmids and 1/3 for Mito-DsRed plasmid was used.  e electroporator settings were 1350 Volt with 30mseconds for 1 pulse. A er the pulse, cells were re-suspended in recovery medium (900 μL of DMEM with 100 μL of FBS). Cells were centrifuged at 1000 rpm for 3 minutes, and were further re-suspended in complete medium and seeded as described above. A transfection e ciency of 40–60% was routinely obtained with a >90% co-transfection e ciency.
+\n
+\n### Pharmacological Treatment.
+\n
+\nAll chemicals were prepared as concentrated solutions according to the rec- ommendations of the di erent manufacturers. Compounds were aliquoted in Eppendorf tubes and used once, to avoid repeated freezing/thawing processes. Aliquots were stored at −80 °C for no longer than two months. Care was taken to protect photosensitive molecules from light by wrapping the test tubes in aluminum foil. Drugs were extemporaneously diluted at their respective  nal concentration in DMEM containing 10% FBS+ N2+ B27 minus Anti-Oxidant (AO). In order to study the impact of Glucose on rotenone induced toxicity, two dis- tinct DMEM formulations di ering only in their glucose concentration were used. HG conditions correspond to DMEM, high glucose, Glutamax Supplement, Pyruvate ( ermo sher, Gibco, Cat ref 10569010) contain- ing 4.5 g.L−1 (25 mM) of glucose. LG condition corresponds to DMEM, low glucose, Glutamax Supplement, Pyruvate ( ermo sher, Gibco Cat ref 10567014) containing 1 g.L−1 (5 mM) of glucose. Ten days a er seeding, Rotenone (5 μM, Sigma-Aldrich) with or without mdivi-1 (20 μM, Tocris) or SP 600125 (10 μM) diluted in LG or HG DMEM were applied for 24 or 48 h according to the treatment. A er treatment, neurons were  xed with Paraformaldehyde 4% (Sigma-Aldrich) for 10 minutes at room temperature then washed with PBS.
+\n
+\n### Immuno uorescence.
+\n
+\nCells were washed twice with D-PBS for 5 minutes and permeabilized for 30 minutes with 0.2% Triton X-100 and 1% BSA in PBS. Primary antibodies PBS solutions were then added and incubated at 4 °C overnight. A er, two PBS rinses, cells were further incubated with solutions of the corresponding sec- ondary antibodies for two hours at room temperature.  e chips were then rinsed once with PBS and mounted in Mowiol-based medium.  e following primary antibodies and dilutions were as follows: alpha-tubulin-FITC (Sigma); Microtubule Associated Protein -2 (Sigma; MAP-2, mouse or rabbit monoclonal (1/500); beta3-tubulin (Sigma; mouse monoclonal 1/500); cytochrome c (Cell Signaling 1/300). Species-speci c secondary antibodies coupled to Alexa 350, 488, or 555 were used (1/500, Life Technologies,) to visualize bound primary antibodies.
+\n
+\nImage Acquisition. Images were acquired with an Axio-observer Z1 (Zeiss)  tted with a cooled CCD camera (CoolsnapHQ2, Ropert Scientific).  e microscope was controlled with Metamorph so ware (Molecular Imaging) and images were analyzed using ImageJ so ware (ImageJ, U.S. National Institutes of Health, Bethesda, Maryland, USA).
+\n
+\n### Quantification of axonal degeneration and neuronal survival.
+\n
+\nAxonal degeneration was assessed through beta3-tubulin staining as previously described in ref. 13. Briefly, while beta3-tubulin immunostaining was continuous and homogenous in healthy axons, it appeared punctiform in fragmented axons.  e percentage of fragmented axons was calculated by computing the area ratio of circular fragmented axons segments over the total area of axons (six images per axonal chamber). For each condition, cell survival was estimated in the somatic chamber by calculating the percentage of condensed nuclei a er Hoechst labeling. Reported values are means of at least three independent experiments, each performed in triplicate. Retrograde axonal degeneration was assessed on CGN co-transfected with a plasmid encoding EGFPN1 (Clontech) and plasmids encoding Empty, OPA1G300E or DRP1. Ten days a er electroporation, axonal endings were challenged with 5 μM rotenone for 18 hours. Overlapping images were capture on live neurons, in order to recreate a mosaic image encompassing the somatic, micro-channel and distal areas. Axonal degeneration was assessed by computing the fragmentation index in 2 contiguous micro-channel areas, namely proximal ( first half of the micro-channel) and distal (second half of the microchannel).
+\n
+\n###Mitochondrial morphology analysis and mitochondria speed analysis.
+\n
+\nMitochondrial morphol- ogy was assessed from cytochrome c or TOM20  uorescent immunostaining or transfected Mito-DsRed  uo- rescent signal. Images were acquired using 63X and mitochondrial morphological analysis was performed with Image J. Based on length, mitochondria were grouped in three classes: spherical mitochondria or mitochondria with a size under or equal at 2 μm,  lamentous mitochondria between 2 and 4 μm and hyper- lamentous above 4 μm. Mitochondria speed analysis was carried out by video-microscopy with an incubation chamber at 37 °C. We captured 10 minute movies with 12 frames per minute using a 63X oil-objective.  en kymographs are extracted with Image J (plugin Kymograph) and the mitochondria speed is calculated with the kymograph slope.
+\n
+\n### Statistical Analysis.
+\n
+\nDifferences were monitored by 1 way ANOVA and a two way ANOVA for mito- chondrial size (Fig. 2c), followed by a post-hoc Bonferoni test. For all analyses: *p-value, 0.05; **p-value, 0.01; ***p-value, 0.001.
+\n
+\n## References
+\n
+\n1. Adalbert, R. & Coleman, M. P. Review: Axon pathology in age-related neurodegenerative disorders. Neuropathol Appl Neurobiol 39, 90–108 (2013).
+\n2. Ra , M. C., Whitmore, A. V. & Finn, J. T. Axonal self-destruction and neurodegeneration. Science 296, 868–871 (2002).
+\n3. Coleman, M. P. & Freeman, M. R. Wallerian degeneration, wld(s), and nmnat. Annu Rev Neurosci 33, 245–267 (2010).
+\n4. Araki, T., Sasaki, Y. & Milbrandt, J. Increased nuclear NAD biosynthesis and SIRT1 activation prevent axonal degeneration. Science
+\n305, 1010–1013 (2004).
+\n5. Babetto, E. et al. Targeting NMNAT1 to axons and synapses transforms its neuroprotective potency in vivo. J Neurosci 30,
+\n13291–13304 (2010).
+\n6. O’Donnell, K. C., Vargas, M. E. & Sagasti, A. WldS and PGC-1alpha regulate mitochondrial transport and oxidation state a er
+\naxonal injury. J Neurosci 33, 14778–14790 (2013).
+\n7. Fang, C., Decker, H. & Banker, G. Axonal transport plays a crucial role in mediating the axon-protective e ects of NmNAT.
+\nNeurobiol Dis 68, 78–90 (2014).
+\n8. Gilley, J. & Coleman, M. P. Endogenous Nmnat2 is an essential survival factor for maintenance of healthy axons. PLoS Biol 8,
+\ne1000300 (2010).
+\n9. Park, J. Y. et al. Mitochondrial swelling and microtubule depolymerization are associated with energy depletion in axon
+\ndegeneration. Neuroscience 238, 258–269 (2013).
+\n10. Cusack, C. L., Swahari, V., Hampton Henley, W., Michael Ramsey, J. & Deshmukh, M. Distinct pathways mediate axon degeneration
+\nduring apoptosis and axon-speci c pruning. Nat Commun 4, 1876 (2013).
+\n11. Schoenmann, Z. et al. Axonal degeneration is regulated by the apoptotic machinery or a NAD+-sensitive pathway in insects and
+\nmammals. J Neurosci 30, 6375–6386 (2010).
+\n12. Brown, K. D. et al. Activation of SIRT3 by the NAD(+) precursor nicotinamide riboside protects from noise-induced hearing loss.
+\nCell Metab 20, 1059–1068 (2014).
+\n13. Magni co, S. et al. NAD+ acts on mitochondrial SirT3 to prevent axonal caspase activation and axonal degeneration. FASEB J 27,
+\n4712–4722 (2013).
+\n14. Cosker, K. E., Pazyra-Murphy, M. F., Fenstermacher, S. J. & Segal, R. A. Target-derived neurotrophins coordinate transcription and
+\ntransport of bclw to prevent axonal degeneration. J Neurosci 33, 5195–5207 (2013).
+\n15. Courchesne, S. L., Karch, C., Pazyra-Murphy, M. F. & Segal, R. A. Sensory neuropathy attributable to loss of Bcl-w. J Neurosci 31,
+\n1624–1634 (2011).
+\n16. Nikolaev, A., McLaughlin, T., O’Leary, D. D. & Tessier-Lavigne, M. APP binds DR6 to trigger axon pruning and neuron death via
+\ndistinct caspases. Nature 457, 981–989 (2009).
+\n17. Deshmukh, M., Kuida, K. & Johnson, E. M., Jr. Caspase inhibition extends the commitment to neuronal death beyond cytochrome
+\nc release to the point of mitochondrial depolarization. J Cell Biol 150, 131–143 (2000).
+\n18. Saxena, S. & Caroni, P. Mechanisms of axon degeneration: from development to disease. Prog Neurobiol 83, 174–191 (2007).
+\n19. Simon, D. J. et al. Axon Degeneration Gated by Retrograde Activation of Somatic Pro-apoptotic Signaling. Cell 164, 1031–1045
+\n(2016).
+\n20. Bertholet, A. M. et al. Mitochondrial fusion/ ssion dynamics in neurodegeneration and neuronal plasticity. Neurobiol Dis 90, 3–19 (2016).
+\n21. Chan, D. C. Fusion and  ssion: interlinked processes critical for mitochondrial health. Annu Rev Genet 46, 265–287 (2012).
+\n22. Labbe, K., Murley, A. & Nunnari, J. Determinants and functions of mitochondrial behavior. Annu Rev Cell Dev Biol 30, 357–391
+\n(2014).
+\n23. Pernas, L. & Scorrano, L. Mito-Morphosis: Mitochondrial Fusion, Fission, and Cristae Remodeling as Key Mediators of Cellular
+\nFunction. Annu Rev Physiol 78, 505–531 (2016).
+\n24. Frank, S. et al.  e role of dynamin-related protein 1, a mediator of mitochondrial  ssion, in apoptosis. Dev Cell 1, 515–525 (2001).
+\n25. Landes, T. & Martinou, J. C. Mitochondrial outer membrane permeabilization during apoptosis: the role of mitochondrial  ssion.
+\nBiochim Biophys Acta 1813, 540–545 (2011).
+\n26. Suen, D. F., Norris, K. L. & Youle, R. J. Mitochondrial dynamics and apoptosis. Genes Dev 22, 1577–1590 (2008).
+\n27. Lee, M. J., Kim, J. Y., Suk, K. & Park, J. H. Identi cation of the hypoxia-inducible factor 1 alpha-responsive HGTD-P gene as a
+\nmediator in the mitochondrial apoptotic pathway. Mol Cell Biol 24, 3918–3927 (2004).
+\n28. Millet, A. et al. Loss of functional OPA1 unbalances redox state: implications in dominant optic atrophy pathogenesis. Annals of
+\nClinical and Translational Neurology 3, 408–421 (2016).
+\n29. Sugioka, R., Shimizu, S. & Tsujimoto, Y. Fzo1, a protein involved in mitochondrial fusion, inhibits apoptosis. J Biol Chem 279,
+\n52726–52734 (2004).
+\n30. Chiang, H. et al. Mitochondrial  ssion augments capsaicin-induced axonal degeneration. Acta Neuropathol 129, 81–96 (2015).
+\n31. Grohm, J. et al. Inhibition of Drp1 provides neuroprotection in vitro and in vivo. Cell Death Di er 19, 1446–1458 (2012).
+\n32. Misko, A., Jiang, S., Wegorzewska, I., Milbrandt, J. & Baloh, R. H. Mitofusin 2 is necessary for transport of axonal mitochondria and
+\ninteracts with the Miro/Milton complex. J Neurosci 30, 4232–4240 (2010).
+\n33. Misko, A. L., Sasaki, Y., Tuck, E., Milbrandt, J. & Baloh, R. H. Mitofusin2 mutations disrupt axonal mitochondrial positioning and
+\npromote axon degeneration. J Neurosci 32, 4145–4155 (2012).
+\n34. Berthet, A. et al. Loss of mitochondrial fission depletes axonal mitochondria in midbrain dopamine neurons. J Neurosci 34,
+\n14304–14317 (2014).
+\n35. Bertholet, A. M. et al. OPA1 loss of function a ects in vitro neuronal maturation. Brain 136, 1518–1533 (2013).
+\n36. Shirendeb, U. et al. Abnormal mitochondrial dynamics, mitochondrial loss and mutant huntingtin oligomers in Huntington’s
+\ndisease: implications for selective neuronal damage. Hum Mol Genet 20, 1438–1455 (2011).
+\n37. Wong, H. et al. RCAN1 overexpression promotes age-dependent mitochondrial dysregulation related to neurodegeneration in
+\nAlzheimer’s disease. Acta Neuropathol 130, 829–843 (2015).
+\n38. Guo, X. et al. Inhibition of mitochondrial fragmentation diminishes Huntington’s disease-associated neurodegeneration. J Clin
+\nInvest 123, 5371–5388 (2013).
+\n39. Nikic, I. et al. A reversible form of axon damage in experimental autoimmune encephalomyelitis and multiple sclerosis. Nat Med 17,
+\n495–499 (2011).
+\n40. Szelechowski, M. et al. A viral peptide that targets mitochondria protects against neuronal degeneration in models of Parkinson’s
+\ndisease. Nat Commun 5, 5181 (2014).
+\n41. Olichon, A. et al. E ects of OPA1 mutations on mitochondrial morphology and apoptosis: relevance to ADOA pathogenesis. J Cell
+\nPhysiol 211, 423–430 (2007).
+\n42. Kilinc, D. et al. Wallerian-like degeneration of central neurons a er synchronized and geometrically registered mass axotomy in a
+\nthree-compartmental micro uidic chip. Neurotox Res 19, 149–161 (2010).
+\n43. Paul, D. et al. A “dry and wet hybrid” lithography technique for multilevel replication templates: Applications to micro uidic neuron
+\nculture and two-phase global mixing. Biomicro uidics 5, 24102 (2011).
+\n44. Cassidy-Stone, A. et al. Chemical inhibition of the mitochondrial division dynamin reveals its role in Bax/Bak-dependent
+\nmitochondrial outer membrane permeabilization. Dev Cell 14, 193–204 (2008).
+\n45. Lackner, L. L. & Nunnari, J. Small molecule inhibitors of mitochondrial division: tools that translate basic biological research into
+\nmedicine. Chem Biol 17, 578–583 (2010).
+\n46. Bertholet, A. M. et al. Mitochondrial fusion/ ssion dynamics in neurodegeneration and neuronal plasticity. Neurobiol Dis (2015).
+\n47. Olichon, A. et al. Loss of OPA1 perturbates the mitochondrial inner membrane structure and integrity, leading to cytochrome c
+\nrelease and apoptosis. J Biol Chem 278, 7743–7746 (2003).
+\n48. Agarwal, N. R., Maurya, N., Pawar, J. S. & Ghosh, I. A combined approach against tumorigenesis using glucose deprivation and
+\nmitochondrial complex 1 inhibition by rotenone. Cell Biol Int 40, 821–831 (2016).
+\n49. Han, G., Wood, J. P., Chidlow, G., Mammone, T. & Casson, R. J. Mechanisms of neuroprotection by glucose in rat retinal cell cultures
+\nsubjected to respiratory inhibition. Invest Ophthalmol Vis Sci 54, 7567–7577 (2013).
+\n50. Lannuzel,A.etal. emitochondrialcomplexIinhibitorannonacinistoxictomesencephalicdopaminergicneuronsbyimpairment
+\nof energy metabolism. Neuroscience 121, 287–296 (2003).
+\n51. Marey-Semper, I., Gelman, M. & Levi-Strauss, M. A selective toxicity toward cultured mesencephalic dopaminergic neurons is
+\ninduced by the synergistic e ects of energetic metabolism impairment and NMDA receptor activation. J Neurosci 15, 5912–5918
+\n(1995).
+\n52. Frezza, C. et al. OPA1 controls apoptotic cristae remodeling independently from mitochondrial fusion. Cell 126, 177–189 (2006).
+\n53. Landes, T. et al.  e BH3-only Bnip3 binds to the dynamin Opa1 to promote mitochondrial fragmentation and apoptosis by distinct
+\nmechanisms. EMBO Rep 11, 459–465 (2010).
+\n54. Mattson, M. P., Partin, J. & Begley, J. G. Amyloid beta-peptide induces apoptosis-related events in synapses and dendrites. Brain Res
+\n807, 167–176 (1998).
+\n55. Yamaguchi, R. et al. Opa1-mediated cristae opening is Bax/Bak and BH3 dependent, required for apoptosis, and independent of Bak
+\noligomerization. Mol Cell 31, 557–569 (2008).
+\n56. Germain, M., Mathai, J. P., McBride, H. M. & Shore, G. C. Endoplasmic reticulum BIK initiates DRP1-regulated remodelling of
+\nmitochondrial cristae during apoptosis. EMBO J 24, 1546–1556 (2005).
+\n57. Picard, M., Shirihai, O. S., Gentil, B. J. & Burelle, Y. Mitochondrial morphology transitions and functions: implications for retrograde
+\nsignaling? Am J Physiol Regul Integr Comp Physiol 304, R393–R406 (2013).
+\n58. Willems, P. H., Rossignol, R., Dieteren, C. E., Murphy, M. P. & Koopman, W. J. Redox Homeostasis and Mitochondrial Dynamics.
+\nCell Metab 22, 207–218 (2015).
+\n59. Naon, D. & Scorrano, L. At the right distance: ER-mitochondria juxtaposition in cell life and death. Biochim Biophys Acta 1843,
+\n2184–2194 (2014).
+\n60. Liesa, M. & Shirihai, O. S. Mitochondrial dynamics in the regulation of nutrient utilization and energy expenditure. Cell Metab 17,
+\n491–506 (2013).
+\n61. Westermann, B. Bioenergetic role of mitochondrial fusion and  ssion. Biochim Biophys Acta (2011).
+\n62. Molina, A. J. et al. Mitochondrial networking protects beta-cells from nutrient-induced apoptosis. Diabetes 58, 2303–2315 (2009).
+\n63. Harkcom, W. T. et al. NAD+ and SIRT3 control microtubule dynamics and reduce susceptibility to antimicrotubule agents. Proc
+\nNatl Acad Sci USA 111, E2443–E2452 (2014).
+\n64. Shirendeb, U. P. et al. Mutant huntingtin’s interaction with mitochondrial protein Drp1 impairs mitochondrial biogenesis and causes
+\ndefective axonal transport and synaptic degeneration in Huntington’s disease. Hum Mol Genet 21, 406–420 (2012).
+\n65. Deleglise, B. et al. beta-amyloid induces a dying-back process and remote trans-synaptic alterations in a microfluidic-based reconstructed neuronal network. Acta Neuropathol Commun 2, 145 (2014).
+\n66. Court, F. A. & Coleman, M. P. Mitochondria as a central sensor for axonal degenerative stimuli. Trends Neurosci 35, 364–372 (2012).
+\n67. Lartigue, L. et al. An intracellular wave of cytochrome c propagates and precedes Bax redistribution during apoptosis. J Cell Sci 121,
+\n3515–3523 (2008).
+\n68. Garcia-Perez, C. et al. Bid-induced mitochondrial membrane permeabilization waves propagated by local reactive oxygen species
+\n(ROS) signaling. Proc Natl Acad Sci USA 109, 4497–4502 (2012).
+\n69. Huber, H. J., Laussmann, M. A., Prehn, J. H. & Rehm, M. Di usion is capable of translating anisotropic apoptosis initiation into a
+\nhomogeneous execution of cell death. BMC Syst Biol 4, 9 (2010).
+\n70. Jacob, S. F., Wurstle, M. L., Delgado, M. E. & Rehm, M. An Analysis of the Truncated Bid- and ROS-dependent Spatial Propagation
+\nof Mitochondrial Permeabilization Waves during Apoptosis. J Biol Chem 291, 4603–4613 (2016).
+\n71. Herrup, K. Reimagining Alzheimer’s disease–an age-based hypothesis. J Neurosci 30, 16755–16762 (2010).
+\n
+\n## Acknowledgements
+\nThis work was supported by a grant from the European Commission: MicroDEG, ERA-NET Neuron JTC2012 “Novel Methods”, http://www. neuron-eranet.eu/en/317.php. French ANR grant “PrionSensiTNF: Blan-1312-02” 2011–14 » and “PRIONTRAF” ANR-09-BLAN-0122, and d by Association Française contre les Myopathies- Téléthon. We thank Vanessa Tan for careful revision and proof reading of the manuscript.
+\n
+\n## Author Contributions
+\nJ.-M.P. and M.-C.M. designed the study and wrote the manuscript. B.L., S.M. and S.P. performed the experiments. B.L., S.P., J.-M.P. and M.-C.M. analyzed the data. M.-C.M. and P.B. contributed reagents. P.B. gave critical feedback on the manuscript. All authors approved its  nal version.
+\n
+\n## Additional Information
+\n
+\n### Supplementary information accompanies this paper at http://www.nature.com/srep Competing  nancial interests:
+\nThe authors declare no competing  nancial interests.
+\n### How to cite this article:
+\nLassus, B. et al. Alterations of mitochondrial dynamics allow retrograde propagation of locally initiated axonal insults. Sci. Rep. 6, 32777; doi: 10.1038/srep32777 (2016).
+\n
+\nThis work is licensed under a Creative Commons Attribution 4.0 International License.  The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in the credit line; if the material is not included under the Creative Commons license, users will need to obtain permission from the license holder to reproduce the material. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
+\n©  e Author(s) 2016
+\n
+\n
+  `,
+  11: `# Alterations of mitochondrial dynamics allow retrograde propagation of locally initiated axonal insults
 \n
 \n## Benjamin Lassus1,2, Sebastien Magnifico1,2, Sandra Pignon1,2, Pascale Belenguer3, Marie-Christine Miquel3,* & Jean-Michel Peyrin1,2,*
 \n
@@ -1520,9 +1749,1558 @@ const FULLTEXT_BY_ID = {
 \n©  e Author(s) 2016
 \n
 \n
+\n`,
+  11: `
+\n  #Alpha-synuclein-induced neurodegeneration is exacerbated in PINK1 knockout mice
+\n##Marusela Oliveras-Salvá , Francesca Macchi,  Valérie Coessens,
+\nAngélique Deleersnijder, Melanie Gérard, Anke Van der Perren,
+\nChris Van den Haute,  Veerle Baekelandt,
+\n##Laboratory for Neurobiology and Gene Therapy, Department of Neurosciences, KU Leuven, Leuven, Belgium  Laboratory of Biochemistry, Interdisciplinary Research Centre KU Leuven-Kortrijk, Kortrijk, Belgium Leuven Viral Vector Core, KU Leuven, Leuven, Belgium
+\n
+\nE-mail address: veerle.baekelandt@med.kuleuven.be
+\nhttp://dx.doi.org/10.1016/j.neurobiolaging.2014.04.032
+\n
+\n
+\n###Keywords:
+\nParkinson’s disease
+\na-Synuclein
+\nPINK1
+\nKnockout
+\nKnockdown
+\nMouse
+\nAAV
+\nNeurodegeneration
+\nAggregation
+\nPhosphorylation
+\n
+\n
+\n#a b s t r a c t
+\nLoss-of-function mutations in the PINK1 gene lead to recessive forms of Parkinson’s disease. Animal
+\nmodels with depleted PINK1 expression have failed to reproduce significant nigral dopaminergic neurodegeneration
+\nand clear alpha-synuclein pathology, main characteristics of the disease. In this study, we
+\ninvestigated whether alpha-synuclein pathology is altered in the absence of PINK1 in cell culture and
+\nin vivo.We observed that downregulation of PINK1 enhanced alpha-synuclein aggregation and apoptosis
+\nin a neuronal cell culture model for synucleinopathy. Silencing of PINK1 expression in mouse substantia
+\nnigra using recombinant adeno-associated viral vectors did not induce dopaminergic neurodegeneration
+\nin a long-term study up to 10 months, nor did it enhance or accelerate dopaminergic neurodegeneration
+\nafter alpha-synuclein overexpression. However, in PINK1 knockout mice, overexpression of alphasynuclein
+\nin the substantia nigra resulted in enhanced dopaminergic neurodegeneration as well as
+\nsignificantly higher levels of alpha-synuclein phosphorylation at serine 129 at 4 weeks postinjection. In
+\nconclusion, our results demonstrate that total loss of PINK1 leads to an increased sensitivity to alphasynuclein-
+\ninduced neuropathology and cell death in vivo.
+\n
+\n
+\n#1. Introduction
+\nParkinson’s disease (PD) is the most prevalent human neurodegenerative
+\nmovement disorder, affecting 1%e2% of the worldwide
+\npopulation aged older than 65 years. PD is characterized by
+\nthe selective and progressive loss of the dopaminergic neurons of
+\nthe substantia nigra (SN), which results in major motor symptoms
+\nsuch as bradykinesia, muscular rigidity, resting tremor, and gait
+\ndisturbances. Another neuropathologic cardinal feature of the disease
+\nis the presence of alpha-synuclein (a-synuclein)-rich inclusions,
+\nnamed Lewy bodies (LBs), in the surviving neurons
+\n(Spillantini et al., 1997).
+\nPD was long considered a sporadic disease with aging and
+\nenvironmental toxins as its main risks factors. However, over the
+\npast decade, mutations in several genes, among which a-synuclein
+\n
+\nand PINK1, have been identified in inherited PD (Farrer, 2006;
+\nGasser, 2009). These genetic forms of the disease account for
+\n5%e10% of the total cases of PD and share features with the sporadic
+\nforms of the disease. Although the etiology of PD remains unclear,
+\nmounting evidence suggests a similar mechanistic pathway leading
+\nto the dopaminergic cell death at the origin of both idiopathic and
+\nfamilial forms of PD, including protein misfolding, mitochondrial
+\ndysfunction, and oxidative stress (Dawson and Dawson, 2003). For
+\nthis reason, gaining knowledge into the molecular basis of the
+\nmonogenic forms of PD may facilitate the understanding of the
+\nmore common sporadic forms of the disease.
+\nLoss-of-function mutations in the gene encoding PINK1 (PTENinduced
+\nkinase 1) lead to autosomal recessive PD and have also
+\nbeen identified as a cause of sporadic PD (Valente et al., 2004a,
+\n2004b). The PINK1 gene is located in the PARK6 locus and encodes
+\na highly conserved putative serine and/or threonine kinase.
+\nBecause of the presence of an N-terminal mitochondrial targeting
+\nmotif, the protein localizes predominantly to the mitochondria,
+\npossibly with its kinase domain facing the cytoplasm, allowing
+\npossible interactions with cytosolic proteins (Zhou et al., 2008).
+\nPINK1 exerts a neuroprotective effect under situations of severe
+\noxidative stress. It has been shown in cells that overexpression of
+\nwild-type (WT) PINK1, but not of its PD-associated mutants, protects
+\nagainst apoptosis induced by proteasome inhibition, oxidative
+\nstress, and mitochondrial toxins (Deng et al., 2005; Haque et al.,
+\n2008; Klinkenberg et al., 2010; Plun-Favreau et al., 2007; Pridgeon
+\net al., 2007; Sandebring et al., 2009; Valente et al., 2004b). More
+\nrecently, PINK1 was demonstrated to play a crucial role in
+\nmitophagy, a cellular process by which mitochondrial structural
+\nunity is maintained through selective autophagic clearance of
+\ndamaged mitochondria (Geisler et al., 2010; Matsuda et al., 2010;
+\nNarendra et al., 2010).
+\nSince the exact molecular mechanism by which PINK1-related
+\neffects occur remains largely elusive, several PINK1 lossof-
+\nfunction animal models have been developed in the past years
+\nto contribute to the understanding of human PD. Intriguingly,
+\nalthough fly models lacking PINK1 expression display a drastic
+\nphenotype, ranging from mitochondrial dysfunction to significant
+\ndopaminergic neurodegeneration and motor deficits (Clark et al.,
+\n2006; Park et al., 2006), the PINK1 knockout and knockdown
+\nmouse models developed so far display mild neurodegenerative
+\nchanges (see, Oliveras-Salvá et al., 2011 for a review). Furthermore,
+\nthey do not reproduce the main hallmarks of PDd the progressive
+\ndopaminergic cell loss in the SN and the presence of LB-like pathology.
+\nIn this context, increased a-synuclein aggregation was
+\nreported in synucleinopathy cell culture models in which PINK1
+\nwas silenced via RNA interference (Liu et al., 2009) but an elaborate
+\nstudy of a-synuclein toxicity in rodents is still missing.
+\nIn the present study, we investigated whether a-synuclein pathology
+\ndiffers in the absence of PINK1 in cell culture and in vivo.
+\nFirst, we showed that the downregulation of PINK1 enhances
+\na-synuclein aggregation and cell death in our synucleinopathy cell
+\nculture model. Next, we generated PINK1 knockdown mice by local
+\ndelivery of a rAAV2/7-mediated, microRNA-based, short-hairpin
+\nRNA against PINK1, which we have recently optimized to achieve
+\nthe most potent knockdown (Heeman et al., 2011; Osorio et al.,
+\n2014). We observed that the prolonged downregulation of PINK1
+\nin mouse SN did not induce dopaminergic cell death in a long-term
+\nstudy up to 10 months.We examined the vulnerability of the nigral
+\ndopaminergic neurons to a-synuclein toxicity when the PINK1
+\nlevels were reduced or absent. For this approach, we delivered a
+\nrAAV2/7-a-synuclein WT vector to the SN of both PINK1 knockdown
+\nand PINK1 knockout mice. Our data show that a-synucleininduced
+\nneurodegeneration and neuropathology is enhanced in the
+\nPINK1 knockout mice but not after local knockdown in mouse SN.
+\n
+\n#2. Methods
+\n##2.1. Lentiviral vector design and production
+\n
+\nLentiviral (LV) vectors encoding for a-synuclein, PINK1 knockdown,
+\nor the empty plasmid pCHMWS-blasticidin (control), under
+\nthe control of the cytomegalovirus promoter, were prepared inhouse
+\nas described earlier with the triple transfection method
+\n(Geraerts et al., 2005). The knockdown construct was generated
+\nusing 2 repeats of a microRNA-based, short-hairpin RNA, hereafter
+\nreferred to as miR, against PINK1 messenger RNA (mRNA). The
+\nartificial multiple-miR hairpins were generated using a micro-
+\nRNA30 scaffold as previously described (Sun et al., 2006), in which
+\nthe target sequence was replaced by 2 miR repeats of a functional
+\nshort-hairpin sequence against PINK1 previously published (Zhou
+\net al., 2007). Detailed cloning, efficiency, and functionality of the
+\nnewly generated PINK1 knockdown construct in cell culture has
+\nbeen shown elsewhere (Heeman et al., 2011; Osorio et al., 2014).
+\nThe LV vectors induced co-expression of the hygromycin selection marker (for a-synuclein) from the same transcript via an internal
+\nribosome entry site or blasticidin (for PINK1 knockdown and
+\ncontrol).
+\n
+\n## 2.2. Generation of polyclonal stable overexpression cell lines using
+\nLV vectors
+\n
+\nHuman neuroblastoma SH-SY5Y cells were grown in Dulbecco
+\nmodified Eagle medium (DMEM, Invitrogen) supplemented with
+\n15% heat-inactivated fetal calf serum (Sigma), 50 mg/mL gentamycin
+\n(Invitrogen), and 1% nonessential amino acids (Invitrogen) referred
+\nto herein as DMEM-complete, at 37 C and 5% CO2 in a humidified
+\natmosphere. Transduction was performed as previously described
+\n(Deleersnijder et al., 2011).
+\n
+\n##2.3. Synucleinopathy cell culture model
+\nWe used the cell culture model described by Ostrerova-Golts
+\net al. (2000) with minor modifications as previously described
+\n(Gerard et al., 2010). Briefly, cells were treated for 72 hours with
+\n100 mMH2O2 and 5 mM freshly prepared FeCl2 in DMEM-complete
+\nand filtered through a 0.20-mm filter (Corning Inc, New York, NY,
+\nUSA). After 3 days, cells were washed with phosphate-buffered
+\nsaline (PBS) and fixed with 4% formaldehyde for 15 minutes. Cells
+\nwere stored in PBS until analysis.
+\n
+\n##2.4. High-content analysis of a-synuclein aggregation and cell
+\ndeath
+\nTo quantify a-synuclein aggregation and apoptosis in our synucleinopathy
+\ncell culture model, we used the IN Cell Analyzer 1000
+\nand IN Cell Investigator software (GE Healthcare) as described
+\nbefore (Gerard et al., 2010).
+\n
+\n##2.5. Recombinant adeno-associated viral vector design and
+\nproduction
+\nThe plasmids for the rAAV vector production were previously
+\ndescribed (Gao et al., 2005). These plasmids include the construct
+\nfor the AAV2/7 serotype, the AAV transfer plasmid, and the pAdv-
+\nDeltaF6 adenoviral helper plasmid. The transfer plasmid encoded
+\neither 2 miR repeats against the monomeric red fluorescent protein
+\n(miR-ctrl) or against PINK1 (miR-PINK1) preceded by the enhanced
+\ngreen fluorescent protein (eGFP), or the human WT a-synuclein
+\ntransgene. The transfer plasmid also contained the CMVieenhanced
+\nsynapsin1 promoter to drive transgene expression and
+\nthe woodchuck hepatitis posttranscriptional regulatory element.
+\nThe viral vectors were produced at the Leuven Viral Vector Core
+\nfrom the KU Leuven (Leuven, Belgium). Vector production and
+\npurification were performed as described in detail elsewhere (Van
+\nder Perren et al., 2011). The final titers of the concentrated vector
+\nstocks ranged between 6.4 1011 and 2.4 1012 genome copies per
+\nmilliliter (GC/mL) as determined by quantitative polymerase chain
+\nreaction.
+\n
+\n##2.6. Stereotactic surgery
+\nHousing and handling of mice was done in compliance with the
+\nEuropean Communities Council Directive of November 24, 1986
+\n(86/609/EEC) and approved by the Bioethical Committee of the KU
+\nLeuven. We have previously described the generation of PINK1
+\nknockout mice (PINK1/) and their control littermates (PINK1./.)
+\n(Heeman et al., 2011). Female, 8-week-old, C57BL/6 mice were
+\ninjected with rAAV2/7-miR-ctrl or rAAV2/7-miR-PINK1 vector
+\ndiluted at 1.5  1011 GC/mL. The human WT a-synuclein rAAV2/7
+\ntransduced the SH-SY5Y cells overexpressing a-synuclein with an
+\nLV vector encoding a control plasmid or 2 miRNA-based, shorthairpin
+\nRNA repeats (miR) against PINK1 (PINK1 knockdown).
+\nKnockdown of PINK1 expression was confirmed using a quantitative
+\nreal-time polymerase chain reaction (Fig.1A).We observed that
+\nthe downregulation of PINK1 by means of an LV vector significantly
+\nincreased the aggregation of a-synuclein in the synucleinopathy
+\ncell culture model when compared with control (Fig. 1B). In addition,
+\nwe determined the effect of PINK1 knockdown on nucleus
+\ncondensation and fragmentation as a measure for cell death
+\n(Fig. 1C). Similarly, to the effect on a-synuclein aggregation, the
+\ndownregulation of PINK1 enhanced the number of late apoptotic
+\ncells when compared with control.
+\n
+\n##3.2. rAAV2/7 vector-mediated knockdown of PINK1 in mouse SN
+\ndoes not cause behavioral deficits or dopaminergic cell death
+\nTo examine whether the downregulation of PINK1 influences asynuclein
+\nneuropathology in vivo, we first studied PINK1 knockdown
+\nby itself in adult mouse brain. For this approach, we used the
+\nsame PINK1 knockdown construct as previously developed in an LV
+\nvector for the cell culture assay but now delivered it in mouse SN in
+\nthe context of a rAAV2/7 vector.
+\nTo evaluate the efficacy of our viral vector to silence PINK1
+\nexpression in mouse STR and SN, we used ISH because of the lack of
+\nreliable and sensitive PINK1 antibodies available for immunohistochemical
+\ndetection of endogenous mouse PINK1. At 2 weeks after
+\ninjection of the rAAV2/7-miR-PINK1 or rAAV2/7-miR-ctrl in mouse
+\nSTR or SN, brain tissues were processed for ISH. We observed a
+\nrobust reduction in the PINK1 signal with the rAAV2/7-miR-PINK1
+\nwhen compared with the contralateral side or the injected side of
+\nrAAV2/7-miR-ctrl (Fig. 2A). Only 23% of PINK1 mRNA in the STR and
+\n9% in the SN remained at 2 weeks after injection when transgene
+\nexpression is known to be maximal (Fig. 2B).
+\nNext, we performed a long-term follow-up study of the downregulation
+\nof PINK1 in mouse SN. We assessed behavioral performance
+\nin the cylinder test at 1, 4, 6, 8, and 10 months postinjection
+\n(Fig. 2C). All groups performed similarly and no impairment was
+\nobserved. We also monitored the weight of these animals and no
+\ndifferences were observed between groups (data not shown). In
+\naddition, we stained the nigral dopaminergic neurons for the
+\ndopaminergic marker TH, to evaluate their survival upon PINK1
+\nsilencing (Fig. 2E). Stereological quantification of the number of THpositive
+\nneurons in the SN showed no differences over time between
+\ngroups (Fig. 2D), indicating that PINK1 downregulation by
+\nitself does not induce dopaminergic neurodegeneration. Because
+\nboth knockdown viral vectors contained the same reporter gene,
+\nwe performed immunohistochemical stainings for GFP, which
+\nenabled us to demonstrate stable transgene expression in the
+\ninjected area over time (Fig. 2F).
+\n
+\n##3.3. Local PINK1 knockdown in mouse SN does not enhance
+\na-synuclein-induced neuropathology
+\nWe have previously characterized the delivery of a rAAV2/7-asynucleinWT
+\nvector in adult mouse SN (Oliveras-Salva et al., 2013).
+\nWe observed that the overexpression of a-synuclein led to a strong
+\nand progressive dopaminergic neuron loss in mouse SN, which
+\nranged from 19% to 57% cell death at 4 weeks after injection,
+\ndepending on the vector dose. In the present study, we used the
+\nintermediate vector dilution of the past study for the overexpression
+\nof a-synuclein (4.0  1011 GC/mL) that induced 45% THpositive
+\ncell loss at 4 weeks postinjection. We chose this dose
+\nbecause we reasoned that a slow progression of the neurodegeneration
+\nmight easily allow us to distinguish possible differences
+\nbetween groups.
+\nTo investigate whether a-synuclein-induced dopaminergic
+\nneurodegeneration differs when PINK1 is downregulated, we
+\nunilaterally coinjected the rAAV2/7-a-synuclein WT vector
+\ntogether with the rAAV2/7-miR-ctrl vector or rAAV2/7-miR-PINK1
+\nvector in mouse SN. We performed fluorescent triple immunostainings
+\nto assess the expression of both transgenes. At 5 days
+\npostinjection, we observed a widespread expression of both asynuclein
+\nand GFP proteins in the injected area (Fig. 3A). Colocalization
+\nof a-synuclein and GFP with TH indicated an efficient
+\ntransduction of the targeted nigral dopaminergic neurons distributed
+\nthroughout the SN pars compacta.
+\nWe assessed the behavioral performance of the mice in the
+\ncylinder test at 5 days and 4 weeks postinjection (Fig. 3B). All
+\ngroups behaved similarly and no clear impairments were observed.
+\nNext, we performed immunohistochemical stainings for TH in the
+\nSN (Fig. 3C). We observed a progressive and significant dopaminergic
+\ncell loss over time in both groups, which is consistent with
+\nthe localized overexpression of rAAV2/7-a-synuclein in mouse SN
+\n(Fig. 3D). However, no clear differences in the percentage of
+\nremaining TH-positive neurons were observed when PINK1 was
+\ndownregulated compared with controls (miR-ctrl: 23% at 2 weeks
+\nand 46% at 4 weeks; miR-PINK1: 26% at 2 weeks and 49% at
+\n4 weeks) (Fig. 3E). To confirm the dopaminergic cell loss and not a
+\nTH downregulation we performed a staining for VMAT, another
+\ndopaminergic marker. This marker also showed a reduced staining
+\nin the SN of the injected side compared with the non-injected side
+\n(Supplementary Fig. 3).
+\nTo evaluate the expression of the transgene over time in the
+\ninjected region, we performed immunohistochemical stainings for
+\nhuman a-synuclein. We observed a clear increase in a-synuclein
+\nexpression at 2 weeks postinjection, followed by a significant
+\ndecrease at 4 weeks postinjection to a similar extent for both
+\nknockdown viral vectors (Fig. 4A). Quantification of the total
+\nnumber a-synuclein-positive cells in the SN did not reveal significant
+\ndifferences in a-synuclein expression between groups at any of
+\nthe 3 different time points (Fig. 4C).
+\nIn parallel, we performed immunohistochemical stainings for
+\nP-S129 a-synuclein (Fig. 4B). This phosphorylated form of asynuclein
+\nat serine residue at position 129 (P-S129) mainly accumulates
+\nin the LBs (Anderson et al., 2006; Fujiwara et al.,
+\n2002), thus, it is considered as a neuropathologic marker for asynuclein.
+\nOverall, we observed a net increase in the number of
+\nP-S129 a-synuclein-positive cells in the SN at 4 weeks postinjection
+\nfor both knockdown conditions without clear
+\ndifferences between groups (Fig. 4D). When calculating the
+\npercentage of P-S129 a-synuclein-positive cells in the SN by
+\ndetermining the ratio between the number of P-S129 a-synuclein-
+\npositive cells (Fig. 4D) and the total number of a-synucleinpositive
+\ncells (Fig. 4C) estimated in the SN, the PINK1 knockdown
+\ncondition displayed an enhanced increase in the percentage of PS129
+\na-synuclein-positive cells in the SN, although this was not
+\nsignificant (Fig. 4E). In conclusion, these results indicate that asynuclein-
+\ninduced dopaminergic neurotoxicity is not significantly
+\naltered when PINK1 is downregulated. Also, at a later time
+\npoint of 4 months postinjection, no significant differences in
+\nbehavioral performance, dopaminergic cell survival, or a-synuclein
+\nexpression were observed between groups (data not
+\nshown).
+\n
+\n##3.4. Enhanced a-synuclein-induced dopaminergic cell death and
+\nphosphorylation in PINK1 knockout mice
+\nNext to the simultaneous delivery of rAAV2/7-a-synuclein with
+\nthe PINK1 knockdown vector, we unilaterally injected the a-synuclein
+\noverexpressing viral vector in the SN of PINK1 knockout mice
+\n(PINK1/) and theirWT age-matched control littermates (PINK1./.),
+\nwhich were previously developed by our group (Heeman et al.,
+\n2011). To examine the susceptibility of the PINK1 knockout
+\nmice to a-synuclein-induced toxicity, we performed immunohistochemical
+\nstainings for TH at 5 days, 2 weeks, 4 weeks, and
+\n9 weeks after injection (Fig. 5A). In agreement with the rate of
+\nneurodegeneration induced in the PINK1 knockdown or control
+\ngroups described previously, we observed a progressive and
+\nsignificant loss of the nigral dopaminergic neurons over time in
+\nboth groups (Fig. 5B). Stereological quantification of the
+\nremaining TH-positive neurons showed a differential degree of
+\nTH cell loss between groups (Fig. 5C). At 4 weeks after injection,
+\nstereological counts revealed a 36% TH-positive neuron loss
+\nrespective to the contralateral side in WT mice, whereas 49% of
+\nthe TH-positive nigral cells were lost in the PINK1 knockout
+\nmice. A similar trend was observed at 9 weeks postinjection,
+\nalthough this difference was not significant (PINK1./.: 53%;
+\nPINK1/: 60%).
+\n
+\nNext, we stained the nigral sections for human a-synuclein to
+\nevaluate the expression of the transgene over time in the injected
+\nregion. As expected, we observed an increase in expression until
+\n2 weeks postinjection, followed by a significant decrease at 4 weeks
+\nafter injection (Fig. 6A and E). Similarly to the dopaminergic cell
+\ncounts, we observed a more pronounced loss of a-synuclein-positive
+\ncells in PINK1 knockout mice when compared with their control
+\nlittermates at 4 weeks postinjection (PINK1./.: 3350  359;
+\nPINK1/: 2781  449). A similar trend was observed at 9 weeks
+\npostinjection, yet not significant (PINK1./.: 2968  206; PINK1/:
+\n2120  403). Interestingly, a-synuclein expression significantly
+\ndeclined in PINK1 knockout mice at 9 weeks postinjection, whereas
+\nthe total number of a-synuclein-positive cells did not substantially
+\ndiffer from 4 to 9 weeks postinjection in the WT group.
+\nTo investigate the pathologic nature of the remaining a-synucleinpositive
+\ncells,we performed fluorescent double immunostainings for
+\na-synuclein and ubiquitin because immunohistochemical studies
+\nhave shown that ubiquitin is amajor constituent of the LB (Spillantini
+\net al., 1997). At 4 weeks postinjection, we visualized a clear colocalization
+\nof a-synuclein and ubiquitin (Fig. 6D). In addition, we
+\nexamined a-synuclein-related pathology by means of 2 stereological
+\nquantification methods. Firstly, we estimated the percentage of asynuclein-
+\npositive cells containing aggregates in the SN (Fig. 6FeH).
+\nFor this approach, we visually scored the nigral a-synuclein-positive
+\ncells for the presence of LB-like inclusions in their cytoplasm at high
+\nmagnification. Examples of an a-synuclein-positive cell without and
+\nwith aggregates are displayed in Fig. 6B and C, respectively. We
+\nobserved a progressive increase over time in the percentage of
+\naggregate-positive cells inthe SNfor bothconditions. Thiswas slightly
+\nenhanced in PINK1 knockoutmice throughout thewhole time course
+\nof the experiment (PINK1./.: 18% at 5 days, 22% at 2 weeks, 37% at
+\n4weeks, and 50% at 9weeks; PINK1/: 21% at 5 days, 32% at 2weeks,
+\n42% at 4 weeks, and 56% at 9 weeks) (Fig. 6F).
+\nSubsequently, we stained for P-S129 a-synuclein in the SN and
+\nwe observed a progressive increase over time for both groups up to
+\n4 weeks after injection (Fig. 7A and B). Likewise, the estimation of
+\nthe percentage of P-S129 a-synuclein-positive cells in the SN
+\nrevealed a gradual increase over time for both groups up to 4 weeks
+\npostinjection (Fig. 7C). Interestingly, the 9 weeks time point
+\nexhibited less P-S129 a-synuclein-positive cells for both conditions,
+\nbut it was more substantially reduced in the PINK1 knockout mice.
+\nWe have previously reported that a maximum is reached in the
+\nnumber of P-S129 a-synuclein-positive cells following delivery of
+\nthis rAAV2/7-a-synuclein vector in mice, after which the vast cell
+\ndeath (over 50% dopaminergic neuron loss) affects the P-S129 asynuclein
+\ncounts (Oliveras-Salvá M. et al., 2013). The total number
+\nand the percentage of phosphorylated S129 a-synuclein-positive
+\ncells was significantly higher in the SN of PINK1 knockout mice
+\ncompared with WT mice at 4 weeks postinjection. In addition,
+\nPINK1 knockout mice showed a trend to an enhanced increase in
+\nthe percentage of phosphorylated S129 a-synuclein-positive cells at
+\nall time points (Fig. 7C). Taken together, these results indicate that
+\ncomplete in vivo depletion of PINK1 sensitizes the dopaminergic
+\nneurons to a-synuclein-induced cell death and neuropathology.
+\n
+\n#4. Discussion
+\nThe goal of the present study was to investigate whether asynuclein
+\nneuropathology differs in the absence of PINK1 in cell
+\nculture and in vivo. We showed that the downregulation of
+\nPINK1 enhanced a-synuclein aggregation and apoptotic cell
+\ndeath in a neuronal cell culture model for synucleinopathy. This
+\nresult is in agreement with a previous study reporting that the
+\nloss of PINK1 leads to increased detergent-insoluble aggregates
+\nin a neuronal cell culture model overexpressing either WT or
+\nA53T a-synuclein (Liu et al., 2009). In vivo, we reported
+\nthat PINK1 knockdown does not lead to dopaminergic cell death
+\nby itself nor enhance the dopaminergic neurodegeneration
+\ninduced by rAAV2/7 vector-mediated overexpression of WT asynuclein.
+\nIn contrast, we observed that PINK1 knockout mice
+\nare more vulnerable to a-synuclein-induced cell death and
+\nneuropathology.
+\nThe identification of gene mutations leading to rare Mendelian
+\nforms of PD has impelled the development of several animal
+\nmodels. In the case of PINK1, fly, worm, and fish models exhibit a
+\nrobust phenotype with neurodegeneration, motor deficits, mitochondrial
+\nimpairment, and vulnerability to toxins (Anichtchik et al.,
+\n2008; Park et al., 2006; Sallinen et al., 2010; Samann et al., 2009; Xi
+\net al., 2010; Yang et al., 2006). Conversely, PINK1 knockout and
+\nknockdown mice developed so far are characterized by a mild
+\nphenotype with mitochondrial deficits and sensitivity to oxidative
+\nstress-inducing toxins (Oliveras-Salvá et al., 2011). They do not
+\nreproduce the main features of PDd the progressive degeneration
+\nof the nigral dopaminergic neurons and the presence of cytoplasmic
+\na-synuclein-rich inclusions. Only a nonsignificant increase
+\nin a-synuclein protein levels but in contrast, a relevant decrease in
+\nmRNA levels has been reported in the brain stem and midbrain of 2-
+\nyear-old PINK1 knockout mice (Gispert et al., 2009). These results
+\nsuggest that a-synuclein degradation and resynthesis might be
+\nimpaired, indicating a hurdle in protein clearance. In patients with
+\nsporadic PD and PD associated with heterozygous PINK1 mutations,
+\nPINK1 has been detected in LBs (Gandhi et al., 2006; Murakami
+\net al., 2007). The sole neuropathologic report from a PD patient
+\nwith homozygous PARK6 mutations showed that PINK1-linked PD
+\ninduces LB pathology (Samaranch et al., 2010).
+\nWe reasoned that adult knockdownof PINK1might induce amore
+\nsevere phenotype because of the acute nature of the knockdownwith
+\nless opportunity for compensatory changes. Indeed, adult local loss of
+\nparkin function was shown to result in dopaminergic cell loss after
+\n10 months (Shin et al., 2011). In the past, we have used lentiviral
+\nvectors for stable and long-term silencing of target genes in the central
+\nnervous system using short-hairpin RNAs (Van den Haute et al.,
+\n2003). RNA interference is a mechanism present in all eukaryotic
+\ncells to halt the expression of targeted genes, which involves processing
+\nof so-called microRNA structures (He and Hannon, 2004).
+\nThus, the use of artificial microRNAs might provide a better tool for
+\ntargeted gene silencing studies in vivo as they mimic the natural
+\nprocess ongoing in the cell (McBride et al., 2008). In addition,we have
+\nshown that rAAV vectors efficiently transduce nigral dopaminergic
+\nneurons (Van der Perren et al., 2011). Based on this, we selected the
+\nrAAV2/7 serotype because of its high transduction efficiency of the
+\ndopaminergic neurons invivo, andwe combined itwith an optimized
+\nmiR-based construct (Heeman et al., 2011) (Osório et al., 2014). Here,
+\nwe reported the development and characterization of a PINK1
+\nknockdownmouseby deliveryof a specificmiR-basedrAAV2/7vector.
+\nWe have successfully shown efficient knockdown of PINK1 both in
+\nSTR and SN of adult mouse. However, this did not induce dopaminergic
+\nneurodegeneration in the time scope of our study. Previous
+\nstudies have reported the absence of neurodegeneration in the SN of
+\nPINK1 knockoutmice upto 19months old (Akundi et al., 2011;Gispert
+\net al., 2009; Glasl et al., 2012; Kitada et al., 2007). A recent report
+\nmimicking PINK1 loss-of-function via short-hairpin RNA adenoviral
+\nvectordelivery inmouse striatumalsofailedto reproduce a significant
+\ndopaminergic neurodegeneration (Haque et al., 2012). Taking into
+\naccount the role of PINK1inmitochondrial stability,we cannot discard
+\nthat the depletion of PINK1 expression might induce subtle cellular
+\nmodifications not visible at the phenotypic level.
+\nPINK1 knockout mice have shown susceptibility to oxidative
+\nstress and vulnerability to neurotoxins (Gautier et al., 2008; Haque
+\net al., 2008; Wang et al., 2011). In the present study, we evaluated
+\nthe effect of a-synuclein neurotoxicity in the absence of PINK1
+\nin vivo via 2 parallel approaches.We injected a rAAV2/7-a-synuclein
+\nvector in the SN of both PINK1 knockout and knockdown mice. We
+\nhave previously shown that delivery of rAAV2/7-a-synuclein vector
+\nin mouse SN triggers a robust and progressive loss of dopaminergic
+\nneurons, as well as marked a-synuclein-related neuropathology
+\n(Oliveras-Salvá et al., 2013). We now report that the complete
+\nablation of PINK1 sensitizes the nigral neurons to a-synuclein
+\ntoxicity. Because rAAV2/7-a-synuclein induced the same rate of
+\nneurodegeneration after local PINK1 knockdown as in the control
+\ngroup, we suggest that the remaining PINK1 is sufficient to maintain
+\nthe dopaminergic cell function within the time frame of our study.
+\nOver the last years, much attention has been dedicated to the
+\nstudy of mitochondrial dysfunction as an important cause of the
+\ndopaminergic cell death seen in PD patients. To date, it is still unknown
+\nhow a-synuclein mediates its cytotoxic effects, but it has been reported that a-synuclein causes cytochrome c release
+\nand reduces mitochondrial complex I activity, indicating that asynuclein
+\nalso regulates mitochondrial function and dynamics
+\n(Devi et al., 2008; Parihar et al., 2008). Although the link between asynuclein
+\npathology and mitochondrial dysfunction remains
+\nunclear, several groups have demonstrated that, in pathologic
+\nconditions, a-synuclein can translocate to the mitochondria via an
+\nN-terminal mitochondrial targeting sequence, suggesting that it
+\nmight interfere with mitochondrial function (Cole et al., 2008; Devi
+\net al., 2008). In worms, mitochondrial fragmentation induced by
+\nexpression of a-synuclein is rescued by co-expression of PINK1
+\n(Kamp et al., 2010). In flies, overexpression of PINK1 rescues motor
+\nand developmental defects induced by a-synuclein (Todd and
+\nStaveley, 2008, 2012). PINK1 plays a crucial role in mitochondrial
+\nviability by the selective clearance of damaged mitochondria in
+\nconcert with parkin in a cellular autophagic process called
+\nmitophagy (Geisler et al., 2010; Matsuda et al., 2010; Narendra et al.,
+\n2010). In addition, PINK1 has been described to exert a neuroprotective
+\nand pro-survival effect under situations of oxidative
+\nstress-induced cell death via several proteins and pathways. Recent
+\nfindings have shown that the mitochondrial chaperone protein
+\nTRAP1, substrate of PINK1, mitigates motor deficits and dopaminergic
+\nneurodegeneration in A53T a-synuclein-expressing flies
+\n(Butler et al., 2012). Phosphorylation of TRAP1 by PINK1 protects
+\nthe mitochondria against cell death induced by oxidative stress and
+\nprevents cytochrome c release from the mitochondria (Pridgeon
+\net al., 2007).
+\nTaken together, we have shown that a-synuclein neuropathology
+\nis exacerbated in the absence of PINK1. Whether there is a
+\ndirect interaction of PINK1 and a-synuclein awaits further research,
+\nbut our findings might help to elucidate the link between mitochondrial
+\ndysfunction and a-synucleinopathy in mammalian brain
+\nand provide new therapeutic targets.
+\n
+\n#References
+\nAkundi, R.S., Huang, Z., Eason, J., Pandya, J.D., Zhi, L., Cass, W.A., Sullivan, P.G.,
+\nBueler, H., 2011. Increased mitochondrial calcium sensitivity and abnormal
+\nexpression of innate immunity genes precede dopaminergic defects in Pink1-
+\ndeficient mice. PLoS One 6, e16038.
+\nAnderson, J.P., Walker, D.E., Goldstein, J.M., de Laat, R., Banducci, K., Caccavello, R.J.,
+\nBarbour, R., Huang, J., Kling, K., Lee, M., Diep, L., Keim, P.S., Shen, X., Chataway, T.,
+\nSchlossmacher, M.G., Seubert, P., Schenk, D., Sinha, S., Gai, W.P., Chilcote, T.J.,
+\n2006. Phosphorylation of Ser-129 is the dominant pathological modification of
+\nalpha-synuclein in familial and sporadic Lewy body disease. J. Biol. Chem. 281,
+\n29739e29752.
+\nAnichtchik, O., Diekmann, H., Fleming, A., Roach, A., Goldsmith, P., Rubinsztein, D.C.,
+\n2008. Loss of PINK1 function affects development and results in neurodegeneration
+\nin zebrafish. J. Neurosci. 28, 8199e8207.
+\nButler, E.K., Voigt, A., Lutz, A.K., Toegel, J.P., Gerhardt, E., Karsten, P., Falkenburger, B.,
+\nReinartz, A., Winklhofer, K.F., Schulz, J.B., 2012. The mitochondrial chaperone
+\nprotein TRAP1 mitigates alpha-synuclein toxicity. PLoS Genet. 8, e1002488.
+\nClark, I.E., Dodson, M.W., Jiang, C., Cao, J.H., Huh, J.R., Seol, J.H., Yoo, S.J., Hay, B.A.,
+\nGuo, M., 2006. Drosophila pink1 is required for mitochondrial function and
+\ninteracts genetically with parkin. Nature 441, 1162e1166.
+\nCole, N.B., Dieuliis, D., Leo, P., Mitchell, D.C., Nussbaum, R.L., 2008. Mitochondrial
+\ntranslocation of alpha-synuclein is promoted by intracellular acidification. Exp.
+\nCell Res. 314, 2076e2089.
+\nDawson, T.M., Dawson, V.L., 2003. Molecular pathways of neurodegeneration in
+\nParkinson’s disease. Science 302, 819e822.
+\nDeleersnijder, A., Van Rompuy, A.S., Desender, L., Pottel, H., Buee, L., Debyser, Z.,
+\nBaekelandt, V., Gerard, M., 2011. Comparative analysis of different peptidylprolyl
+\nisomerases reveals FK506-binding protein 12 as the most potent
+\nenhancer of alpha-synuclein aggregation. J. Biol. Chem. 286, 26687e26701.
+\nDeng, H., Jankovic, J., Guo, Y., Xie, W., Le, W., 2005. Small interfering RNA targeting
+\nthe PINK1 induces apoptosis in dopaminergic cells SH-SY5Y. Biochem. Biophys.
+\nRes. Commun. 337, 1133e1138.
+\nDevi, L., Raghavendran, V., Prabhu, B.M., Avadhani, N.G., Anandatheerthavarada, H.K.,
+\n2008. Mitochondrial import and accumulation of alpha-synuclein impair complex
+\nI in human dopaminergic neuronal cultures and Parkinson disease brain.
+\nJ. Biol. Chem. 283, 9089e9100.
+\nFarrer, M.J., 2006. Genetics of Parkinson disease: paradigm shifts and future prospects.
+\nNat. Rev. Genet. 7, 306e318.
+\nFujiwara, H., Hasegawa, M., Dohmae, N., Kawashima, A., Masliah, E., Goldberg, M.S.,
+\nShen, J., Takio, K., Iwatsubo, T., 2002. Alpha-synuclein is phosphorylated in
+\nsynucleinopathy lesions. Nat. Cell Biol. 4, 160e164.
+\nGandhi, S., Muqit, M.M., Stanyer, L., Healy, D.G., Abou-Sleiman, P.M., Hargreaves, I.,
+\nHeales, S., Ganguly, M., Parsons, L., Lees, A.J., Latchman, D.S., Holton, J.L.,
+\nWood, N.W., Revesz, T., 2006. PINK1 protein in normal human brain and Parkinson’s
+\ndisease. Brain 129, 1720e1731.
+\nGao, G., Vandenberghe, L.H., Wilson, J.M., 2005. New recombinant serotypes of AAV
+\nvectors. Curr. Gene Ther. 5, 285e297.
+\nGasser, T., 2009. Mendelian forms of Parkinson’s disease. Biochim. Biophys. Acta
+\n1792, 587e596.
+\nGautier, C.A., Kitada, T., Shen, J., 2008. Loss of PINK1 causes mitochondrial functional
+\ndefects and increased sensitivity to oxidative stress. Proc. Natl. Acad. Sci. U.S.A
+\n105, 11364e11369.
+\nGeisler, S., Holmstrom, K.M., Skujat, D., Fiesel, F.C., Rothfuss, O.C., Kahle, P.J.,
+\nSpringer, W., 2010. PINK1/Parkin-mediated mitophagy is dependent on VDAC1
+\nand p62/SQSTM1. Nat. Cell Biol. 12, 119e131.
+\nGeorge, S., Mok, S.S., Nurjono, M., Ayton, S., Finkelstein, D.I., Masters, C.L., Li, Q.X.,
+\nCulvenor, J.G., 2010. Alpha-synuclein transgenic mice reveal compensatory increases
+\nin Parkinson’s disease-associated proteins DJ-1 and parkin and have
+\nenhanced alpha-synuclein and PINK1 levels after rotenone treatment. J. Mol.
+\nNeurosci. 42, 243e254.
+\nGeraerts, M., Michiels, M., Baekelandt, V., Debyser, Z., Gijsbers, R., 2005. Upscaling of
+\nlentiviral vector production by tangential flowfiltration. J.GeneMed. 7,1299e1310.
+\nGerard, M., Deleersnijder, A., Daniëls, V., Schreurs, S., Munck, S., Reumers, V., Pottel, H.,
+\nEngelborghs, Y., Van den Haute, C., Taymans, J.M., Debyser, Z., Baekelandt, V., 2010.
+\nInhibition of FK506 binding proteins reduces alpha-synuclein aggregation and
+\nParkinson’s disease-like pathology. J. Neurosci. 30, 2454e2463.
+\nGispert, S., Ricciardi, F., Kurz, A., Azizov, M., Hoepken, H.H., Becker, D., Voos, W.,
+\nLeuner, K., Müller, W.E., Kudin,, A.P., Kunz, W.S., Zimmermann, A., Roeper, J.,
+\nWenzel, D., Jendrach, M., García-Arencíbia, M., Fernández-Ruiz, J., Huber, L.,
+\nRohrer,, H., Barrera,, M., Reichert, A.S., Rüb, U., Chen, A., Nussbaum, R.L.,
+\nAuburger, G., 2009. Parkinson phenotype in aged PINK1-deficient mice is
+\naccompanied by progressive mitochondrial dysfunction in absence of neurodegeneration.
+\nPLoS One 4, e5777.
+\nGlasl, L., Kloos, K., Giesert, F., Roething, A., Di Benedetto,, B., Huhn, R., Zhang, J.,
+\nHafen, U., Zerle, J., Hofmann, A., de Angelis, M.H., Winklhofer, K.F., Hölter, S.M.,
+\nVogt Weisenhorn, D.M., Wurst, W., 2012. Pink1-deficiency in mice impairs gait,
+\nolfaction and serotonergic innervation of the olfactory bulb. Exp. Neurol. 235,
+\n214e227.
+\nGundersen, H.J., Jensen, E.B., 1987. The efficiency of systematic sampling in stereology
+\nand its prediction. J. Microsc. 147, 229e263.
+\nHaque, M.E., Thomas, K.J., D’Souza, C., Callaghan, S., Kitada, T., Slack, R.S., Fraser, P.,
+\nCookson, M.R., Tandon, A., Park, D.S., 2008. Cytoplasmic Pink1 activity protects
+\nneurons from dopaminergic neurotoxin MPTP. Proc. Natl. Acad. Sci. U.S.A 105,
+\n1716e1721.
+\nHaque, M.E., Mount, M.P., Safarpour, F., Abdel-Messih, E., Callaghan, S., Mazerolle, C.,
+\nKitada, T., Slack, R.S., Wallace, V., Shen, J., Anisman, H., Park, D.S., 2012. Inactivation
+\nof Pink1 gene in vivo sensitizes dopamine-producing neurons to 1-
+\nmethyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) and can be rescued by
+\nautosomal recessive Parkinson disease genes, Parkin or DJ-1. J. Biol. Chem. 287,
+\n23162e23170.
+\n
+\nHe, L., Hannon, G.J., 2004. MicroRNAs: small RNAs with a big role in gene regulation.
+\nNat. Rev. Genet. 5, 522e531.
+\nHeeman,, B., Van den Haute, C., Aelvoet, S.A., Valsecchi, F., Rodenburg, R.J.,
+\nReumers, V., Debyser, Z., Callewaert, G., Koopman, W.J., Willems, P.H.,
+\nBaekelandt, V., 2011. Depletion of PINK1 affects mitochondrial metabolism,
+\ncalcium homeostasis and energy maintenance. J. Cell Sci. 124, 1115e1125.
+\nKamp, F., Exner, N., Lutz, A.K., Wender, N., Hegemann, J., Brunner, B., Nuscher, B.,
+\nBartels, T., Giese, A., Beyer, K., Eimer, S., Winklhofer, K.F., Haass, C., 2010. Inhibition
+\nof mitochondrial fusion by alpha-synuclein is rescued by PINK1, Parkin
+\nand DJ-1. EMBO J. 29, 3571e3589.
+\nKitada, T., Pisani, A., Porter, D.R., Yamaguchi, H., Tscherter, A., Martella, G., Bonsi, P.,
+\nZhang, C., Pothos, E.N., Shen, J., 2007. Impaired dopamine release and synaptic
+\nplasticity in the striatum of PINK1-deficient mice. Proc. Natl. Acad. Sci. U.S.A
+\n104, 11441e11446.
+\nKlinkenberg, M., Thurow, N., Gispert, S., Ricciardi, F., Eich, F., Prehn, J.H., Auburger, G.,
+\nKogel, D., 2010. Enhanced vulnerability of PARK6 patient skin fibroblasts to
+\napoptosis induced by proteasomal stress. Neuroscience 166, 422e434.
+\nLiu, W., Vives-Bauza, C., Acín-Peréz, R., Yamamoto, A., Tan, Y., Li, Y., Magrané, J.,
+\nStavaranche, M.A., Shaffer, S., Chang, S., Kaplitt, M.G., Huang, X.Y., Beal, M.F.,
+\nManfredi, G., Li, C., 2009. PINK1 defect causes mitochondrial dysfunction, proteasomal
+\ndeficit and alpha-synuclein aggregation in cell culture models of
+\nParkinson’s disease. PLoS One 4, e4597.
+\nMatsuda, N., Sato, S., Shiba, K., Okatsu, K., Saïsho, K., Sou, Y.S., Saiki, S., Kawajiri, S.,
+\nSato, F., Kimura, M., Komatsu, M., Hattori, N., Tanaka, K., 2010. PINK1 stabilized
+\nby mitochondrial depolarization recruits Parkin to damaged mitochondria and
+\nactivates latent Parkin for mitophagy. J. Cell Biol. 189, 211e221.
+\nMcBride, J.L., Boudreau, R.L., Harper, S.Q., Staber, P.D., Monteys, A.M., Martins, I.,
+\nGilmore, B.L., Burstein, H., Peluso, R.W., Polisky, B., Carter, B.J., Davidson, B.L.,
+\n2008. Artificial miRNAs mitigate shRNA-mediated toxicity in the brain: implications
+\nfor the therapeutic development of RNAi. Proc. Natl. Acad. Sci. U.S.A 105,
+\n5868e5873.
+\nMurakami, T., Moriwaki, Y., Kawarabayashi, T., Nagai, M., Ohta, Y., Geduchi, K.,
+\nKurata, T., Moromoto, N., Takehisa, Y., Matsubara, E., Ikeda, M., Harigaya, Y.,
+\nShoji, M., Takahashi, R., Abe, K., 2007. PINK1, a gene product of PARK6, accumulates
+\nin alpha-synucleinopathy brains. J. Neurol. Neurosurg. Psychiatry 78,
+\n653e654.
+\nNarendra, D.P., Jin, S.M., Tanaka, A., Suen, D.F., Gautier, C.A., Shen, J., Cookson, M.R.,
+\nYoule, R.J., 2010. PINK1 is selectively stabilized on impaired mitochondria to
+\nactivate Parkin. PLoS Biol. 8, e1000298.
+\nOliveras-Salvá, M., Van Rompuy, A.S., Heeman, B., Van den Haute, C., Baekelandt, V.,
+\n2011. Loss-of-function rodent models for Parkin and PINK1. J. Parkinson’s Dis. 1,
+\n229e251.
+\nOliveras-Salva, M., Van der Perren, A., Casadei, N., Stroobants, S., Nuber, S.,
+\nD’Hooge, R., Van den Haute, C., Baekelandt, V., 2013. rAAV2/7 vector-mediated
+\noverexpression of alpha-synuclein in mouse substantia nigra induces protein
+\naggregation and progressive dose-dependent neurodegeneration. Mol. Neurodegener.
+\n8, 44.
+\nOsorio, L., Gijsbers, R., Oliveras-Salva, M., Michiels, A., Debyser, Z., Van den Haute, C.,
+\nBaekelandt, V., 2014. Viral vectors expressing a single microRNA-based shorthairpin
+\nRNA result in potent gene silencing in vitro and in vivo. J. Biotechnol.
+\n169, 71e81.
+\nOstrerova-Golts, N., Petrucelli, L., Hardy, J., Lee, J.M., Farer, M.,Wolozin, B., 2000. The
+\nA53T alpha-synuclein mutation increases iron-dependent aggregation and
+\ntoxicity. J. Neurosci. 20, 6048e6054.
+\nParihar, M.S., Parihar, A., Fujita, M., Hashimoto, M., Ghafourifar, P., 2008. Mitochondrial
+\nassociation of alpha-synuclein causes oxidative stress. Cell. Mol. Life
+\nSci. 65, 1272e1284.
+\nPark, J., Lee, S.B., Lee, S., Kim, Y., Song, S., Kim, S., Bae, E., Kim, J., Shong, M., Kim, J.M.,
+\nChung, J., 2006. Mitochondrial dysfunction in Drosophila PINK1 mutants is
+\ncomplemented by parkin. Nature 441, 1157e1161.
+\nPaxinos, G., Franklin, K.B.J., 2001. The Mouse Brain in Stereotaxic Coordinates. Academic
+\nPress, San Diego.
+\nPlun-Favreau, H., Klupsch, K., Moisoi, N., Gandhi, S., Kjaer, S., Frith, D., Harvey, K.,
+\nDeas, E., Harvey, R.J., McDonald, N., Wood, N.W., Martins, L.M., Downward, J.,
+\n2007. The mitochondrial protease HtrA2 is regulated by Parkinson’s diseaseassociated
+\nkinase PINK1. Nat. Cell Biol. 9, 1243e1252.
+\nPridgeon, J.W., Olzmann, J.A., Chin, L.S., Li, L., 2007. PINK1 protects against
+\noxidative stress by phosphorylating mitochondrial chaperone TRAP1. PLoS Biol.
+\n5, e172.
+\nSallinen, V., Kolehmainen, J., Priyadarshini, M., Toleikyte, G., Chen, Y.C., Panula, P.,
+\n2010. Dopaminergic cell damage and vulnerability to MPTP in Pink1 knockdown
+\nzebrafish. Neurobiol. Dis. 40, 93e101.
+\nSamann, J., Hegermann, J., von Gromoff, E., Eimer, S., Baumeister, R., Schmidt, E.,
+\n2009. Caenorhabditits elegans LRK-1 and PINK-1 act antagonistically in stress
+\nresponse and neurite outgrowth. J. Biol. Chem. 284, 16482e16491.
+\nSamaranch, L., Lorenzo-Betancor, O., Arbelo, J.M., Ferrer, I., Lorenzo, E., Irigoyen, J.,
+\nPastor, M.A., Marrero, C., Isla, C., Herrera-Henriquez, J., Pastor, P., 2010. PINK1-
+\nlinked parkinsonism is associated with Lewy body pathology. Brain 133,
+\n1128e1142.
+\nSandebring, A., Thomas, K.J., Beilina, A., van der Brug, M., Cleland, M.M., Ahmad, R.,
+\nMiller, D.W., Zambrano, I., Cowburn, R.F., Behbahani, H., Cedazo-Mingues, A.,
+\nCookson, M.R., 2009. Mitochondrial alterations in PINK1 deficient cells are
+\ninfluenced by calcineurin-dependent dephosphorylation of dynamin-related
+\nprotein 1. PLoS One 4, e5701.
+\nSchmitz, C., Hof, P.R., 2005. Design-based stereology in neuroscience. Neuroscience
+\n130, 813e831.
+\nShin, J.H., Ko, H.S., Kang, H., Lee, Y., Lee, Y.I., Pletinkova, O., Troconso, J.C.,
+\nDawson, V.L., Dawson, T.M., 2011. PARIS (ZNF746) repression of PGC-1alpha
+\ncontributes to neurodegeneration in Parkinson’s disease. Cell 144,
+\n689e702.
+\nSpillantini, M.G., Schmidt, M.L., Lee, V.M., Trojanowski, J.Q., Jakes, R., Goedert, M.,
+\n1997. Alpha-synuclein in Lewy bodies. Nature 388, 839e840.
+\nSun, D., Melegari, M., Sridhar, S., Rogler, C.E., Zhu, L., 2006. Multi-miRNA hairpin
+\nmethod that improves gene knockdown efficiency and provides linked multigene
+\nknockdown. Biotechniques 41, 59e63.
+\nTaymans, J.M., Van den Haute, C., Baekelandt, V., 2006. Distribution of PINK1 and
+\nLRRK2 in rat and mouse brain. J. Neurochem. 98, 951e961.
+\nTodd, A.M., Staveley, B.E., 2008. Pink1 suppresses alpha-synuclein-induced phenotypes
+\nin a Drosophila model of Parkinson’s disease. Genome 51, 1040e1046.
+\nTodd, A.M., Staveley, B.E., 2012. Expression of Pink1 with alpha-synuclein in the
+\ndopaminergic neurons of Drosophila leads to increases in both lifespan and
+\nhealthspan. Genet. Mol. Res. 11, 1497e1502.
+\nValente, E.M., Salvi, S., Ialongo, T., Marongiu, R., Elia, A.E., Caputo, V., Romito, L.,
+\nAlbanese, A., Dallapiccola, B., Bentivoglio, A.R., 2004a. PINK1 mutations are
+\nassociated with sporadic early-onset parkinsonism. Ann. Neurol. 56,
+\n336e341.
+\nValente, E.M., Abou-Sleiman, P.M., Caputo, V., Muqit, M.M., Harvey, K., Gispert, S.,
+\nAli, Z., Del Turco, D., Bentivoglio, A.R., Healy, D.G., Albanese, A., Nussbaum, R.,
+\nGonzález-Maldonado, R., Deller, T., Salvi, S., Cortelli, P., Gilks, W.P.,
+\nLatchman, D.S., Harvey, R.J., Dallapiccola, B., Auburger, G., Wood, N.W., 2004b.
+\nHereditary early-onset Parkinson’s disease caused by mutations in PINK1. Science
+\n304, 1158e1160.
+\nVan den Haute, C., Eggermont, K., Nuttin, B., Debyser, Z., Baekelandt, V., 2003.
+\nLentiviral vector-mediated delivery of short hairpin RNA results in persistent
+\nknockdown of gene expression in mouse brain. Hum. Gene Ther. 14,
+\n1799e1807.
+\nVan der Perren, A., Toelen, J., Carlon, M., Van den Haute, C., Coun, F., Heeman, B.,
+\nReumers, V., Vandenberghe, L.H., Wilson, J.M., Debyser, Z., Baekelandt, V.,
+\n2011. Efficient and stable transduction of dopaminergic neurons in rat substantia
+\nnigra by rAAV 2/1, 2/2, 2/5, 2/6.2, 2/7, 2/8 and 2/9. Gene Ther. 18,
+\n517e527.
+\nWang, H.L., Chou, A.H., Wu, A.S., Chen, S.Y., Weng, Y.H., Kao, Y.C., Yeh, T.H., Chu, P.J.,
+\nLu, C.S., 2011. PARK6 PINK1 mutants are defective in maintaining mitochondrial
+\nmembrane potential and inhibiting ROS formation of substantia nigra dopaminergic
+\nneurons. Biochim. Biophys. Acta 1812, 674e684.
+\nXi, Y., Ryan, J., Noble, S., Yu, M., Yilbas, A.E., Ekker, M., 2010. Impaired dopaminergic
+\nneuron development and locomotor function in zebrafish with loss of pink1
+\nfunction. Eur. J. Neurosci. 31, 623e633.
+\nYang, Y., Gehrke, S., Imai, Y., Huang, Z., Ouyang, Y., Wang, J.W., Yang, L., Beal, M.F.,
+\nVogel, H., Lu, B., 2006. Mitochondrial pathology and muscle and dopaminergic
+\nneuron degeneration caused by inactivation of Drosophila Pink1 is rescued by
+\nParkin. Proc. Natl. Acad. Sci. U.S.A 103, 10793e10798.
+\nZhou, H., Falkenburger, B.H., Schulz, J.B., Tieu, K., Xu, Z., Xia, X.G., 2007. Silencing of
+\nthe Pink1 gene expression by conditional RNAi does not induce dopaminergic
+\nneuron death in mice. Int. J. Biol. Sci. 3, 242e250.
+\nZhou, C., Huang, Y., Shao, Y., May, J., Prou, D., Perier, C., Dauer, W., Schon, E.A.,
+\nPrzedborski, S., 2008. The kinase domain of mitochondrial PINK1 faces the
+\ncytoplasm. Proc. Natl. Acad. Sci. U.S.A 105, 12022e12027.
+\n
+\n
+\n##Fig. 1. Downregulation of PINK1 enhances a-synuclein aggregation and cell death in cell culture.
+\n
+\n(A) Reduced PINK1 mRNA levels in SH-SY5Y cells after transduction with a control
+\nor a PINK1 knockdown LV vector. High-content analysis of (B) a-synuclein aggregation and (C) nucleus fragmentation after 3 days of oxidative stress (FeCl2 and H2O2) in human
+\nneuroblastoma SH-SY5Y cells overexpressing a-synuclein and transduced with a control or PINK1 knockdown LV vector. Abbreviations: LV, lentiviral; mRNA, messenger RNA; Q-PCR,
+\nQuantitative PCR. *p < 0.05, **p < 0.01, ***p < 0.001.
+\n
+\n
+\n##Fig. 2. Efficient and stable rAAV2/7 vector-mediated knockdown of PINK1 in mouse SN does not induce behavioral impairment or dopaminergic cell loss.
+\n
+\n (A) Representative images
+\nof the STR and the SN of control (miR-ctrl) and PINK1 knockdown (miR-PINK1) mice reveal potent knockdown of PINK1 in the injected side at 2 weeks postinjection. Scale bar .
+\n100 mm. (B) Percentage of ISH PINK1 intensity signals in STR and SN (n . 3). (C) Performance in the cylinder test shows no asymmetry in the use of the contralateral paw over time
+\nneither in miR-ctrl mice nor in miR-PINK1 mice (n . 5; m: month(s)). (D) Stereological quantification of the number of TH positive cells in the SN at 1, 4, and 10 months postinjection
+\nreveals no dopaminergic cell loss in the injected side of miR-ctrl mice or miR-PINK1 mice over time (n . 5). (EeF) Representative images of (E) TH and (F) GFP immunostainings of
+\nthe injected and non-injected sides of miR-ctrl and miR-PINK1 mice at 1, 4, and 10 months postinjection. Both rAAV knockdown vectors contain GFP to allow for demonstration of
+\nstable transgene expression over time. Scale bars . 250 mm. Abbreviations: Inj, injected side; N-inj, non-injected side; SN, substantia nigra; STR, striatum; TH, tyrosine hydroxylase.
+\n
+\n##Fig. 3. Knockdown of PINK1 in mouse SN does not enhance nigral dopaminergic neurodegeneration upon a-synuclein overexpression.
+\n
+\n(A) Representative confocal images of
+\nfluorescent triple immunostainings for a-synuclein (blue), GFP (green), and TH (red) show extensive co-localization (merge) in the dopaminergic neurons of the injected side at
+\n5 days after co-injection. Scale bar . 200 mm. (B) Performance in the cylinder test of miR-ctrl and miR-PINK1 mice at 5 days (n . 4) and 4 weeks (n . 10) after injection. (C)
+\nRepresentative images of TH immunoreactive neurons in the SN injected with miR-ctrl and miR-PINK1 rAAV2/7 vectors after 5 days, 2 weeks, and 4 weeks. Note that overexpression
+\nof a-synuclein induces a progressive TH cell loss over time independent of the knockdown vector. The absence of dopaminergic neurodegeneration in the non-injected side at
+\n4 weeks postinjection. Right panels are magnifications of the overview (left panels). Scale bars . 200 mm. (D) Stereological quantification of the number of TH positive neurons in the
+\nSN of miR-ctrl and miR-PINK1 mice at 5 days (n . 4), 2 weeks (n . 10), and 4 weeks (n . 10) postinjection. (E) Percentage of remaining TH-positive neurons in the injected SN of
+\nmiR-ctrl and miR-PINK1 mice. Abbreviations: Inj, injected side; N-inj, non-injected side; SN, substantia nigra; TH, tyrosine hydroxylase. **p < 0.01, ***p < 0.001. (For interpretation of
+\nthe references to color in this figure, the reader is referred to the web version of this article.)
+\n
+\n##Fig. 4. Total and P-S129 a-synuclein expression after rAAV2/7 vector-mediated a-synuclein overexpression combined with PINK1 knockdown.
+\n
+\nRepresentative images of (A) asynuclein and (B) P-S129 a-synuclein immunostainings in the SN of miR-ctrl and miR-PINK1 mice at 5 days, 2 weeks, and 4 weeks after injection. The absence of immunoreactivity
+\nin the contralateral SN at (A) 2 weeks and (B) 4 weeks after injection when expression is maximal. Right panels are magnifications of the overview (left panels). Scale bars . 200 mm.
+\n(C) Stereological quantification of the number of a-synuclein and (D) P-S129 a-synuclein positive cells in the SN injected with miR-ctrl and miR-PINK1 rAAV2/7 vectors at 5 days (n .
+\n4), 2 weeks (n . 10), and 4 weeks (n . 10) postinjection; d indicates days and w indicates weeks. (E) Percentage of P-S129 a-synuclein positive cells in the injected SN. Asterisks (*)
+\ndepict significant increase respective to 5 days, unless specified otherwise. Abbreviations: N-inj, non-injected side; SN, substantia nigra. *p < 0.05, **p < 0.01, ***p < 0.001.
+\n
+\n##Fig. 5. PINK1 knockout mice display a higher loss of nigral dopaminergic neurons upon a-synuclein overexpression.
+\n
+\n(A) Representative images of TH immunoreactive neurons in the injected SN of PINK1./. and PINK1/ mice at 5 days, 2 weeks, 4 weeks, and 9 weeks after injection.
+\n
+\nOverexpression of a-synuclein induces a progressive TH cell loss over time
+\nindependent of the genotype. Note the absence of dopaminergic neurodegeneration in the contralateral side at 9 weeks postinjection when cell loss is maximal. Right panels are
+\nmagnifications of the overview (left panels). Scale bars . 200 mm. (B) Stereological quantification of the number of TH-positive neurons in the SN of PINK1./. and PINK1/ mice at
+\n5 days (n . 7), 2 weeks (n . 5), 4 weeks (n . 18e20), and 9 weeks (n . 6e8) postinjection. (C) Percentage of remaining TH positive neurons in the injected SN of PINK1./. and
+\nPINK1/ mice. Abbreviations: Inj, injected side; N-inj, non-injected side; SN, substantia nigra; TH, tyrosine hydroxylase.
+\n
+\n##Fig. 6. PINK1 knockout mice show an enhanced a-synuclein cell loss and aggregation in SN.
+\n
+\n(A) Representative images of a-synuclein immunostainings in the SN of PINK1./. and PINK1/ mice at 5 days and 4 weeks after injection.
+\n
+\nRight panels are magnifications of the overview (left panels). Scale bars . 200 mm. (BeC) High magnification pictures demonstrate
+\na-synuclein pathology in the SN. Scale bars . 10 mm. (B) a-Synuclein positive cell without aggregates and (C) with aggregates (arrow). (D) Fluorescent double immunostaining for
+\na-synuclein (green) and ubiquitin (red) shows co-localization (merge) at 4 weeks postinjection. Scale bars . 50 mm. (E) Stereological quantification of the number of a-synuclein positive
+\ncells in the SN of PINK1./. and PINK1/ mice at 5 days (n . 7), 2 weeks (n . 5), 4 weeks (n . 18e20), and 9 weeks (n . 6e8) postinjection; d indicates days w indicates weeks. (F)
+\nPercentage of aggregate positive cells in the SN of PINK1./. and PINK1/ mice. (GeH) Absolute number of a-synuclein positive cells with and without aggregates in the SN of (G) PINK1./
+\n. and (H) PINK1/ mice. Abbreviation: SN, substantia nigra. (For interpretation of the references to color in this figure, the reader is referred to the web version of this article.)
+\n
+\n##Fig. 7. PINK1 knockout mice display a different pattern in P-S129 a-synuclein expression after rAAV2/7-a-synuclein delivery to the SN.
+\n
+\n(A) Representative images of P-S129
+\na-synuclein expression in the SN of PINK1./. and PINK1/ mice at 5 days, 2 weeks, 4 weeks, and 9 weeks after injection. Right panels are magnifications of the overview (left
+\npanels). Scale bars . 200 mm. (B) Stereological quantification of the number of P-S129 a-synuclein positive cells in the SN of PINK1./. and PINK1/ mice (n . 4). (C) Percentage of
+\nP-S129 a-synuclein positive cells in the injected SN. Asterisks (*) depict significant increase respective to 5 days, unless specified otherwise. Abbreviation: SN, substantia nigra.
+\n*p < 0.05, **p < 0.01, ***p < 0.001.
+\n
+  `,
+  12:` # Quantitative expression proteomics and phosphoproteomics profile of brain from PINK1 knockout mice: insights into mechanisms of familial Parkinson's disease
+\n## Judy C. Triplett, Zhaoshu Zhang, Rukhsana Sultana, Jian Cai, Jon B. Klein, Hansruedi Büeler, David Allan Butterfield 
+\n
+\n
+\n#Abstract
+\nParkinson's disease (PD) is an age-related, neurodegenerative motor disorder characterized by progressive degeneration of dopaminergic neurons in the substantia nigra pars compacta and presence of α-synuclein-containing protein aggregates. Mutations in the mitochondrial Ser/Thr kinase PTEN-induced kinase 1 (PINK1) are associated with an autosomal recessive familial form of early-onset PD. Recent studies have suggested that PINK1 plays important neuroprotective roles against mitochondrial dysfunction by phosphorylating and recruiting Parkin, a cytosolic E3 ubiquitin ligase, to facilitate elimination of damaged mitochondria via autophagy-lysosomal pathways. Loss of PINK1 in cells and animals leads to various mitochondrial impairments and oxidative stress, culminating in dopaminergic neuronal death in humans. Using a 2-D polyacrylamide gel electrophoresis proteomics approach, the differences in expressed brain proteome and phosphoproteome between 6-month-old PINK1-deficient mice and wild-type mice were identified. The observed changes in the brain proteome and phosphoproteome of mice lacking PINK1 suggest that defects in signaling networks, energy metabolism, cellular proteostasis, and neuronal structure and plasticity are involved in the pathogenesis of familial PD.
+\n
+\nMutations in PINK1 are associated with an early-onset form of Parkinson's disease (PD). This study examines changes in the proteome and phosphoproteome of the PINK1 knockout mouse brain. Alterations were noted in several key proteins associated with: increased oxidative stress, aberrant cellular signaling, altered neuronal structure, decreased synaptic plasticity, reduced neurotransmission, diminished proteostasis networks, and altered metabolism. 14-3-3ε, 14-3-3 protein epsilon; 3-PGDH, phosphoglycerate dehydrogenase; ALDOA, aldolase A; APT1, acyl-protein thioesterase 1; CaM, calmodulin; CBR3, carbonyl reductase [NADPH] 3; ENO2, gamma-enolase; HPRT, hypoxanthine-guanine phosphoribosyltransferase; HSP70, heat-shock-related 70 kDa protein 2; IDHc, cytoplasmic isocitrate dehydrogenase [NADP+]; MAPK1, mitogen-activated protein kinase 1; MEK1, MAP kinase kinase 1; MDHc, cytoplasmic malate dehydrogenase; NFM, neurofilament medium polypeptide; NSF, N-ethylmaleimide-sensitive fusion protein; PHB, prohibitin; PINK1, PTEN-induced putative kinase 1; PPIaseA, peptidyl-prolyl cis-trans isomerase A; PSA2, proteasome subunit alpha type-2; TK, transketolase; VDAC-2, voltage-dependent anion-selective channel protein 2.
+\n
+\n##Abbreviations used
+\nAPT1
+\nacyl-protein thioesterase 1
+\nDA
+\ndopaminergic
+\nKO
+\nknockout
+\nPARL
+\npresenilins-associated rhomboid-like protein
+\nPD
+\nParkinson's disease
+\nPHB
+\nprohibitin
+\nPINK1
+\nPTEN-induced kinase 1
+\nPPIaseA
+\npeptidyl-prolyl cis-trans isomerase A
+\nPTEN
+\nphosphatase and tensin homologue
+\n
+\nParkinson's disease (PD) is the most common neurodegenerative movement disorder. The relative risk of developing PD increases with age and approximately 1–2% of the population above 65 years is affected (Twelves et al. 2003; Pilsl and Winklhofer 2012). PD is characterized by the accumulation of Serine-129 phosphorylated α-synuclein aggregates (Anderson et al. 2006) within Lewy bodies and the loss of the majority of dopaminergic (DA) neurons in the substantia nigra pars compacta, causing drastically diminished dopamine release in the striatum (Braak et al. 2003). In addition to the cardinal motor symptoms (resting tremor, bradykinesia, rigidity, postural instability), PD patients frequently suffer from a variety of non-motor symptoms that may occur decades earlier and include cognitive decline, depression, hallucinations, REM sleep disorder, and anosmia (Chaudhuri et al. 2006; Jankovic 2008). Although the precise cause of PD remains elusive, significant contributing factors are believed to include exposure to environmental toxins, oxidative stress, inflammation, mitochondrial dysfunction, and failure of proteostasis networks associated with protein aggregation (Henchcliffe and Beal 2008; Bueler 2009; Tansey and Goldberg 2010).
+\nWhile the majority of PD cases are sporadic, an estimated 5–10% of patients develop PD as a result of inheritable mutations in one of several genes (Gasser et al. 2011). Mutations in Pink1 are the second most common cause of autosomal recessive familial early-onset PD (Valente et al. 2004; Bonifati et al. 2005; Bonifati 2012). PINK1 is a mitochondrial kinase consisting of 581 amino acids that encode for a mitochondrial targeting sequence, a transmembrane domain and a Ser/Thr kinase domain. PINK1 is believed to confer neuroprotection by policing mitochondrial integrity (Narendra et al. 2010; Jin and Youle 2012), and a growing amount of research links dysfunction of mitochondrial dynamics with PD (Heeman et al. 2011; Hauser and Hastings 2013; Van Laar and Berman 2013). DA neurons may be particularly vulnerable to mitochondrial dysfunction and oxidative stress because of reduced mitochondrial reserve compared to other types of neurons and the reliance on calcium influx for pace-making (Liang et al. 2007; Surmeier et al. 2011). In normal cells with healthy mitochondria, PINK1 is imported to the inner mitochondrial membrane where the N-terminal mitochondrial targeting sequence is cleaved by the mitochondrial protease, PARL (Deas et al. 2011; Meissner et al. 2011). Subsequently, PINK1 is retro-translocated to the cytosol where it is degraded by the proteasome (Yamano and Youle 2013). However, a proportion of PINK1 remains in the cytoplasm (Haque et al. 2008; Lin and Kang 2008) and cytosolic PINK1 has been implicated in the regulation of various pathways, including AKT signal transduction and cell survival, synaptic plasticity, DA synthesis, and mitophagy (Akundi et al. 2012; Fedorowicz et al. 2014; Haque et al. 2008; Murata et al. 2011; Zhou et al. 2014). Import of PINK1 to the inner mitochondrial membrane is blocked when the mitochondrial electron transport chain becomes dysfunctional and membrane potential (ΔΨm) is decreased (Matsuda et al. 2010; Amo et al. 2011). PINK1 then accumulates on the outer mitochondrial membrane where it phosphorylates Ser65 in the ubiquitin-like domain of the E3 ligase, Parkin, to initiate mitophagy (Kazlauskaite et al. 2014). When PINK1 kinase activity is inactivated in mice and flies via gene ablation, mitochondrial dysfunction ensues and structurally abnormal mitochondria accumulate in cells (Park et al. 2006; Exner et al. 2007; Gautier et al. 2008, 2012; Akundi et al. 2011, 2013; Heeman et al. 2011). Furthermore, mutations in PINK1 cause a decrease in mitochondrial complex I activity and ATP production, as well as elevated production of reactive oxygen species (Deas et al. 2011; Koh and Chung 2012; Morais et al. 2014; Yuan et al. 2010).
+\nIn this study, we utilized a 2-D polyacrylamide gel electrophoresis (PAGE) proteomics approach to identify proteins with differential expression levels and phosphorylation states in the brains of PINK1 knockout (KO) mice versus wild-type controls to further study the molecular mechanisms of PINK1-related PD.
+\n
+\n#Materials and methods
+\n##Materials
+\nAll chemicals used in these studies were purchased from Sigma-Aldrich (St. Louis, MO, USA) with noted exceptions: Criterion precast polyacrylamide gels, ReadyStrip IPG strips, TGS and XT MOPS electrophoresis running buffers, 0.2 nm nitrocellulose membrane, Precision Plus Protein All Blue Standards, Sypro Ruby Protein Stain, mineral oil, dithiothreitol (DTT), iodoacetamide (IA), biolytes, and urea were purchased from Bio-Rad (Hercules, CA, USA). Pro-Q Diamond phosphoprotein stain, PeppermintStick phosphoprotein molecular weight marker, and anti-phosphoserine, anti-phosphothreonine, and anti-phosphotyrosine antibodies raised in rabbits were purchased from Invitrogen (Grand Island, NY, USA). Anti-HSP70 and anti-aldolase A (ALDOA) antibodies raised in rabbits were purchased from Cell Signaling Technology (Danvers, MA, USA). Anti-MAPK1/2 polycolonal antibody raised in rabbits, C18 ZipTips, and Re-Blot Plus Strong stripping solution were purchased from Millipore (Billerica, MA, USA). Calmodulin (CaM) polyclonal antibody raised in rabbits was purchased from Santa Cruz Biotechnology (Dallas, TX, USA). Amersham enhanced chemiluminescence (ECL) rabbit IgG horseradish peroxidase (HRP)-linked secondary antibody, protein A/G beads, and ECL-Plus western blotting detection reagents were purchased from GE Healthcare (Pittsburgh, PA, USA). Modified trypsin solution was obtained from Promega (Madison, WI, USA). Pierce bicinchoninic acid Protein Assay Reagents A & B were purchased from Thermo Scientific (Waltham, MA, USA).
+\n
+\n##Animals and brain tissue
+\nThe male mice used in this study were provided by our collaborator and coauthor, Dr Hansruedi Büeler, when he was at the University of Kentucky. The generation and characterization of these PINK1-deficient mice has been described previously (Akundi et al. 2011). The animal housing facility regularly underwent serological testing to certify a healthy, virus, and pathogen free facility. Subjects were fed Richland Laboratory Rodent Diet 5001 and water ad libitum. The animal rooms were maintained with a 12 h light:12 h dark cycle (where lights were turned on at 6:00 a.m.) at 20–22°C. For the experimental groups of animals, n = 6 per group, whole brains were isolated from mice rendered unconscious by CO2 inhalation and killed by cervical dislocation using procedures approved by the UK Institutional Animal Care and Use Committee. Dissected brains were flash-frozen in liquid nitrogen and stored at −80°C until use.
+\n
+\n##Sample preparation
+\nMouse brains were thawed and individual homogenates were prepared using a Wheaton glass homogenizer (~ 40 passes) with ice-cold isolation buffer (0.32 M sucrose, 2 mM EDTA, 2 mM EGTA, 20 mM HEPES, 0.2 μg/mL phenylmethylsulfonyl fluoride, 4 μg/mL leupeptin, 4 μg/mL pepstatin, 5 μg/mL aprotinin, and 5 μg/mL phosphatase inhibitor cocktail 2). Homogenates were vortexed on ice and then sonicated on ice for 10 s at 20% power, two times, with a Fisher 550 Sonic Dismembrator (Pittsburgh, PA, USA). Protein concentrations of the homogenates were determined by the Pierce bicinchoninic acid method (Smith et al. 1985).
+\nTwo-dimensional polyacrylamide gel electrophoresis
+\n###Isoelectric focusing
+\nIsoelectric focusing was performed as described previously (Sultana et al. 2007). Briefly, brain homogenate proteins (200 μg) were shaken for 2 h at 22°C in 200 μL of rehydration buffer [8 M urea, 2.0% (w/v) CHAPS, 2 M thiourea, 50 mM DTT, 0.2% Biolytes, 0.01% Bromophenol Blue]. Samples (200 μL) were applied to 11 cm pH 3–10 ReadyStrip IPG strips (linear gradient). Strips were actively rehydrated at 20°C for 18 h at 50 V. Next, the samples were isoelectrically focused at a constant temperature of 20°C beginning at 300 V for 2 h, 500 V for 2 h, 1000 V for 2 h, 8000 V for 8 h, and finishing at 8000 V for 10 h. IPG strips were stored at −80°C until second dimension separation (sodium dodecyl sulfate, SDS–PAGE).
+\n###SDS–PAGE
+\nIsoelectric focusing strips were thawed and equilibrated with buffer A and buffer B (buffer A [50 mM Tris–HCl, pH 6.8, 6 M urea, 1% (w/v) SDS, 30% v/v glycerol, 0.5% DTT], buffer B [50 mM Tris–HCl, pH 6.8, 6 M urea, 1% (w/v) SDS, 30% v/v glycerol, 4.5% IA]). IPG strips were next placed into Criterion precast linear gradient (8–16%) Tris–HCl polyacrylamide gels, 1 IPG + 1 Well Comb, 11 cm. Invitrogen PeppermintStick molecular weight marker and samples were run at a constant voltage of 200 V for approximately 65 min in Tris-Glycine SDS running buffer.
+\n
+\n##Gel staining
+\nProteins and phosphoproteins were detected using SYPRO Ruby and Pro-Q Diamond phosphoprotein gel stain according to manufacturer's directions and as previously described (Di Domenico et al. 2011). Briefly, gels were fixed in solution [10% (v/v) acetic acid, 50% (v/v) methanol] (50 mL) and washed in deionized water. Next, 60 mL of Pro-Q Diamond stain was added with gentle rocking for 90 min. Gels were then destained four times for 30 min each in 100 mL of destaining solution [20% acetonitrile (ACN), 50 mM sodium acetate, pH 4]. The gels were washed in deionized water and scanned at 580 nm using a GE Healthcare Life Sciences Typhoon FLA 9500 scanner. The gels were then stained overnight with 50 mL of Sypro Ruby gel stain. Gels were rinsed and placed in deionized water. Gels were scanned at 450 nm and then stored at 4°C until protein spot excision.
+\n
+\n##Image analysis
+\n###Expression proteomics
+\nSpot intensities from SYPRO Ruby-stained 2D-gel images of wild-type (WT) and PINK1 KO samples were quantified by densitometry using PDQuest 2-D Analysis Software (Bio-Rad). Intensities of each gel were normalized to the total density of each gel. Protein spots were manually and automatically matched with the PDQuest program. Spot densities in KO and WT samples were compared and spots with a statistically significant difference based on a Student's two-tailed t-test (p < 0.05) were considered for in-gel trypsin digestion and subsequent identification.
+\n
+\n###Phosphoproteomics
+\nProtein spots from Pro-Q Diamond-stained 2D-gel images of PINK1−/− and WT samples were quantified and matched together in the same manner as the SYPRO Ruby-stained gels. Next, two master gels were chosen, one from the Pro-Q Diamond images and one from the Sypro Ruby-stained images. The phosphoprotein master image was then matched to the master Sypro Ruby-stained image in the same manner as described above. The PDQuest software provided numerical data corresponding to the intensity of the protein spot. The phosphoprotein spot densities were then normalized to the Sypro Ruby spot densities and the resultant normalized phosphoprotein spot densities in KO and WT samples were compared and spots with a statistically significant difference based on a Student's two-tailed t-test (p < 0.05) were considered for in-gel trypsin digestion and subsequent identification.
+\n
+\n##In-gel trypsin digestion/peptide extraction
+\nProtein spots were excised from 2D-gels with a clean, sterilized razor blade and individually transferred to Eppendorf microcentrifuge tubes for trypsin digestion as previously described (Thongboonkerd et al. 2002). Gel plugs were incubated with 20 μL of 0.1 M ammonium bicarbonate (NH4HCO3) for 15 min, and with 30 μL of ACN for 15 min. Gel plugs were dried under a flow hood at 22°C for 30 min. Next, 30 μL of 20 mM DTT in 0.1 M NH4HCO3 was added at 56°C for 45 min. The DTT/NH4HCO3 solution was then removed and replaced with 30 μL of 0.05 M IA in 0.1 M NH4HCO3and incubated at 22°C for 15 min. Next, the IA solution was removed and plugs incubated for 15 min with 150 μL of 0.05 M NH4HCO3 at 22°C. Then, 200 μL ACN was added to this solution and incubated for 15 min at 22°C. Solvent was removed and gel plugs were allowed to dry for 30 min at 22°C under a flow hood. Plugs were rehydrated with modified trypsin solution in 0.05 M NH4HCO3 (enough to completely cover the gel plugs) and incubated with shaking overnight at 37°C. The next day, the salts and contaminants were removed from the tryptic peptide solutions using C18 ZipTips in accordance with manufacturer's directions. Samples were stored at −80°C until MS/MS analysis.
+\n
+\n##NanoLC-MS with data-dependent scan
+\nSamples desalted with C18 Zip Tips were reconstituted in 10 μL 5% ACN/0.1% formic acid (FA) and analyzed by a nanoAcquity (Waters, Milford, MA, USA)-LTQ Orbitrap XL (Thermo Scientific, San Jose, CA, USA) system in data-dependent scan mode. An in-house packed capillary column (0.1 × 130 mm column packed with 3.6 μm, 200Å XB-C18) and a gradient with 0.1% FA and ACN/0.1% FA at 200 nL/min were used for separation. The MS spectra were acquired by the orbitrap at 30 000 resolution and MS/MS spectra of the six most intense ions in MS scan were obtained by the orbitrap at 7500 resolution. Data files from each sample were searched against the most current version of the Swiss-Prot database by SEQUEST (Proteome Discoverer v1.4; Thermo Scientific). At least two high-confidence peptide matches were required for protein identification (false discovery rate < 1%). Proteins matched with the same peptides are reported as one protein group.
+\n
+\n##Immunoprecipitation and western blotting validations
+\n###Immunoprecipitation
+\nWhole brain homogenized protein extracts (250 μg) were suspended in 500 μL immunoprecipitation (IP) buffer [0.05% NP-40, leupeptin 4 μg/mL, pepstatin 4 μg/mL, aproprotin 5 μg/mL, phosphatase inhibitor cocktail 10 μg/mL in a phosphate buffer solution, pH 8 (8 M NaCl, 0.2 M KCl, 1.44 M Na2HPO4, 0.24 M KH2PO4, pH adjusted with NaOH)] and allowed to shake for 30 min at 4°C. Next, 50 μL of Protein A/G beads (per sample) was washed and centrifuged at 800 g for 5 min at 4°C. The washed beads were added to the individual protein samples to pre-clear of non-specific protein A/G artifacts for 90 min at 4°C. Samples were then centrifuged at 800 g for 5 min at 4°C and the supernatant was transferred to new Eppendorf tubes with either anti-MAPK1 antibody (1 : 50 dilution) or anti-CaM antibody (1 : 50) and shaken overnight at 4°C. The next morning, 50 μL of protein A/G beads was washed as and incubated with the protein samples for 90 min at 4°C. After removing the supernatant, the beads were again washed five times with IP buffer with 10 min of shaking in IP buffer between centrifugations. The beads were preserved for a 1D-PAGE experiment.
+\n
+\n###One-dimensional polyacrylamide gel electrophoresis
+\nWhole brain homogenates (50 μg) or beads from IP experiments were suspended in 4X sample loading buffer [0.5 M Tris, pH 6.8, 40% glycerol, 8% SDS, 20% β-mercaptoethanol, 0.01% Bromophenol Blue] diluted to 1X with distilled water, heated at 95°C for 5 min and cooled on ice. Samples and Precision Plus Protein All Blue Standards were loaded into a Criterion precast (4–12%) Bis-Tris polyacrylamide 12 or 18 well gels and run at 22°C in XT MOPS running buffer at 80 V for 15 min. The voltage was then increased to 120 V for approximately 100 min at 22°C for the duration of the electrophoretic run.
+\n
+\n###1D-western blotting
+\n1D-gels were directly transferred to nitrocellulose membranes (0.2 nm) using a Trans-Blot Turbo Blotting System (Bio-Rad). After the transfer, membranes were incubated in a blocking solution of 3% bovine serum albumin in Wash Blot [150 mM NaCl, 3 mM NaH2PO4, 17 mM NaHPO4 and 0.04% (v/v) Tween 20] at 22°C for 1.5 h. Each protein of interest was detected by incubation with a primary antibody (1 : 8000 dilution), in blocking solution at 22°C with gentle rocking for 2 h. Blots were rinsed two times for 5 min each and one time for 10 min in Wash Blot, followed by a 1 h incubation with a HRP (1 : 3000) secondary antibody at 22°C with gentle rocking. Blots were rinsed three times for 5, 10, and 10 min each in Wash Blot and developed chemiluminescently using Clarity Western ECL substrate. After developing for 5 min at 22°C in the dark, blots were scanned using a Bio-Rad ChemiDoc XRS+ imaging system and quantified using Image Lab software (Hercules, CA, USA). Blots were rinsed and then stripped with Re-Blot Plus Strong solution for exactly 10 min at 22°C, followed by three 5 min rinses with Wash Blot. The membranes were then blocked once again in 3% bovine serum albumin for 1.5 h. Next, an anti-tubulin antibody (1 : 20 000) or anti-phosphoserine, anti-phosphothreonine and anti-phosphotyrosine antibodies (1 : 10 000) were added to the Wash Blot solution with 2 h more of gentle rocking at 22°C. Membranes were then washed, incubated with a secondary HRP-conjugated antibody, washed, developed chemiluminescently and scanned.
+\n
+\n##Statistical analysis
+\nAll statistical analyses were performed using a two-tailed Student's t-test, in which p < 0.05 was considered statistically significant for western blot and PDQuest analysis. Fold-change values of easily discernible protein spots were determined by dividing the average, normalized spot intensities in the knockout gels by the average, normalized spot intensities of the wild-type gels. Only spots with a 1.25-fold change or greater in normalized spot density were considered for MS/MS analysis. Protein and peptide identifications obtained with the SEQUEST search algorithm with p < 0.01 were considered to be statistically significant.
+\n
+\n#Results
+\nProteomic analyses of the isolated brain proteins were conducted using a 2D-PAGE approach with Sypro Ruby and Pro-Q Diamond staining in conjunction with MS/MS analysis. Protein spot intensities were compared between PINK1(−/−) and PINK1(+/+) control mice to determine differentially expressed and phosphorylated proteins. Figure 1 shows representative examples obtained from SYPRO Ruby-stained 2-D gel images of the isolated proteins from 6-month-old PINK1(−/−) and PINK1(+/+) mice with significant differentially expressed proteins labeled. Figure 2 shows typical images of Pro-Q Diamond-stained gels with protein spots showing altered phosphorylation states labeled in the images. Graphs displaying normalized phosphorylation intensity of each sample are also provided. PDQuest analysis of all of the 2-D images found 29 protein spots suitable for extraction and whose expression or phosphorylation state was significantly altered in the brains of PINK1(−/−) mice as compared to the WT controls. After in-gel trypsin digestion and peptide extraction, MS/MS analysis coupled to interrogation of protein databases was utilized to determine the identity of the proteins. Tables 1 and 2 list the proteins in the brains of PINK1(−/−) mice that showed significantly altered expression or phosphorylation states. Other information listed in the tables include: the spot number as labeled by the PDQuest program, the SwissProt accession number, percentage of the protein sequence covered by matching peptides, the number of peptide sequences identified by the MS/MS analysis, the protein confidence score, the expected molecular weight and isoelectric point of the identified protein, as well as the fold-change levels and p-values obtained from the PDQuest analysis. Regarding fold-change values, a ↑1.33-fold means the protein expression in the KO brain is 33% more than in WT brain. A ↓0.0885-fold means protein expression in the KO brain is 91.15% less than in WT brain. All proteins were identified by more than one peptide sequence. Furthermore, identified protein spots were visually compared against the theoretical molecular weights and isoelectric points from the mass spectrometry analysis. The 23 brain proteins with significantly altered expression were identified as: neurofilament light peptide (NFL) (↓0.580-fold), V-type proton ATPase subunit F (↓0.725-fold), prohibitin (PHB) (↓0.464-fold), dihydropyrimidinase-related protein 2 (DRP2, also called collapsing response-mediated protein 2, CRMP2) (↓0.0186-fold), heat-shock-related 70 kDa protein 2 (HSP70.2) (↓0.213-fold), acyl-protein thioesterase 1 (APT1) (↓0.0130-fold), carbonyl reductase [NADPH] 3 (CBR3) (↓0.0244-fold), proteasome subunit alpha type-2 (PSA2) (↓0.0898-fold), hypoxanthine-guanine phosphoribosyltransferase (HPRT) (↓0.0885-fold), malate dehydrogenase, cytoplasmic (↓0.0121-fold), actin-related protein 2/3 complex subunit 2 (ARPC2) (↓0.0110-fold), voltage-dependent anion-selective channel protein 2 (VDAC-2) (↓0.607-fold), isocitrate dehydrogenase [NADP] cytoplasmic (↓0.226-fold), vesicle-fusing ATPase (↓0.0396-fold), elongation factor 2 (EF2) (↓0.411-fold) and peptidyl-prolyl cis-trans isomerase A, also known as cyclophilin A (↓0.181-fold), gamma-enolase (ENO2) (↑1.24-fold), T-complex protein 1 subunit epsilon (↑1.33-fold), D-3-phosphoglycerate dehydrogenase (↑3.69-fold), isoform 3 of dynamin-1 (↑1.41-fold), transgelin-3 (↑1.47-fold), fructose-bisphosphate ALDOA (↑2.99-fold), and transketolase (↑1.52-fold). The six proteins found to have differential phosphorylation states were as follows: CaM (↓0.418-fold), 14-3-3 protein epsilon (↓0.480-fold), neurofilament medium polypeptide (NSF) (↓0.275-fold), V-type proton ATPase catalytic subunit A (↓0.313-fold), dual specificity mitogen-activated protein kinase kinase 1 (↑2.34-fold), and mitogen-activated protein kinase 1 (↑3.39-fold).
+\n###Table 1. PDQuest and MS/MS results of brain proteins with significantly altered expression in the PINK1 KO mice versus WT mice
+\nSpot
+\nProtein identified
+\nAccession no.
+\nCoverage (%)
+\nNumber of identified peptides
+\nScore
+\nMW (kDa)
+\npI*
+\np-value
+\nFold increase/decrease
+\n1701
+\nNeurofilament light peptide (NFL)
+\nP08551
+\n31.12
+\n13
+\n104.31
+\n61.5
+\n4.64
+\n0.012
+\n0.580
+\n2008
+\nV-type proton ATPase subunit F (VTAF)
+\nQ9D1K2
+\n41.18
+\n4
+\n20.46
+\n13.4
+\n5.82
+\n0.041
+\n0.725
+\n3202
+\nProhibitin (PHB)
+\nP67778
+\n44.12
+\n10
+\n53.45
+\n29.8
+\n5.76
+\n0.0057
+\n0.464
+\n3603
+\nDihydropyrimidinase-related protein 2 (DRP2)
+\nO08553
+\n15.21
+\n7
+\n30.03
+\n62.2
+\n6.38
+\n0.046
+\n0.0186
+\n3703
+\nHeat-shock-related 70 kDa protein 2 (HSP70.2)
+\nP17156
+\n23.70
+\n13
+\n68.18
+\n69.6
+\n5.67
+\n0.015
+\n0.213
+\n4111
+\nAcyl-protein thioesterase 1 (fragment) (APT1)
+\nJ3QK48
+\n14.55
+\n3
+\n9.37
+\n23.2
+\n6.77
+\n0.0091
+\n0.0130
+\n4206
+\nCarbonyl reductase [NADPH] 3 (CBR3)
+\nQ8K354
+\n26.35
+\n7
+\n43.45
+\n30.9
+\n6.57
+\n0.048
+\n0.0244
+\n5102
+\nProteasome subunit alpha type-2 (PSA2)
+\nP49722
+\n14.96
+\n2
+\n6.67
+\n25.9
+\n7.43
+\n0.0090
+\n0.0898
+\n5109
+\nHypoxanthine-guanine phosphoribosyltransferase (HPRT)
+\nP00493
+\n34.40
+\n6
+\n29.47
+\n24.6
+\n6.68
+\n0.00011
+\n0.0885
+\n5303
+\nMalate dehydrogenase, cytoplasmic (MDHc)
+\nP14152
+\n23.95
+\n7
+\n22.90
+\n36.5
+\n6.58
+\n0.035
+\n0.0121
+\n6201
+\nActin-related protein 2/3 complex subunit 2 (ARPC2)
+\nQ9CVB6
+\n15.33
+\n5
+\n17.54
+\n34.3
+\n7.36
+\n0.0092
+\n0.0110
+\n6210
+\nVoltage-dependent anion-selective channel protein 2 (VDAC2)
+\nG3UX26
+\n12.37
+\n3
+\n10.04
+\n30.4
+\n7.58
+\n0.043
+\n0.607
+\n6502
+\nIsocitrate dehydrogenase [NADP] cytoplasmic (IDHc)
+\nO88844
+\n13.29
+\n5
+\n14.77
+\n46.6
+\n7.17
+\n0.021
+\n0.226
+\n6701
+\nVesicle-fusing ATPase (NSF)
+\nP46460
+\n15.32
+\n11
+\n49.59
+\n82.6
+\n6.95
+\n0.041
+\n0.0396
+\n6802
+\nElongation factor 2 (EF2)
+\nP58252
+\n3.38
+\n3
+\n19.70
+\n95.3
+\n6.83
+\n0.042
+\n0.411
+\n7001
+\nPeptidyl-prolyl cis-trans isomerase A (PPIaseA)
+\nP17742
+\n10.98
+\n2
+\n8.65
+\n18.0
+\n7.90
+\n0.028
+\n0.181
+\n3007
+\nGamma-enolase (ENO2)
+\nD3YVD3
+\n25.41
+\n2
+\n3.81
+\n13.4
+\n5.15
+\n0.014
+\n1.24
+\n3614
+\nT-complex protein 1 subunit epsilon (TCP1)
+\nP80316
+\n17.19
+\n9
+\n50.59
+\n59.6
+\n6.02
+\n0.012
+\n1.33
+\n4617
+\nD-3-phosphoglycerate dehydrogenase (3-PGDH)
+\nQ61753
+\n12.76
+\n6
+\n38.81
+\n56.5
+\n6.54
+\n0.0096
+\n3.69
+\n5814
+\nIosoform 3 of dynamin-1 (Dnm1.3)
+\nP39053-3
+\n23.62
+\n18
+\n78.91
+\n95.9
+\n6.76
+\n0.053
+\n1.41
+\n6104
+\nTransgelin-3 (TAGLN3)
+\nQ9R1Q8
+\n18.59
+\n3
+\n9.05
+\n22.5
+\n7.33
+\n0.0081
+\n1.47
+\n7412
+\nFructose-bisphosphate aldolase A (ALDOA)
+\nP05064
+\n16.76
+\n4
+\n30.29
+\n39.3
+\n8.09
+\n0.024
+\n2.99
+\n7705
+\nTransketolase (TK)
+\nP40142
+\n10.43
+\n6
+\n25.75
+\n67.6
+\n7.50
+\n0.040
+\n1.52
+\n	.	Fold calculated by dividing average KO protein spot intensity by WT protein spot intensity. *pI=isoelectric point
+\n
+\n
+\n
+\n
+\n###Table 2. PDQuest and MS/MS results of proteins with significantly altered phosphorylation states in the brain of PINK1 KO mice versus WT mice
+\nSpot
+\nProtein identified
+\nAccession no.
+\nCoverage (%)
+\nNumber of identified peptides
+\nScore
+\nMW (kDa)
+\npIa
+\np-value
+\nFold increase/decrease
+\n0008
+\nCalmodulin (CaM)
+\nP62204
+\n42.95
+\n5
+\n51.87
+\n16.8
+\n4.22
+\n0.042
+\n0.418↓
+\n1103
+\n14-3-3 protein epsilon (14-3-3ε)
+\nP62259
+\n51.76
+\n11
+\n81.91
+\n29.2
+\n4.74
+\n0.057
+\n0.480↓
+\n1808
+\nNeurofilament medium polypeptide (NFM)
+\nP08553
+\n19.22
+\n15
+\n116.58
+\n95.9
+\n4.77
+\n0.048
+\n0.275↓
+\n4601
+\nV-type proton ATPase catalytic subunit A (V-ATPaseA)
+\nP50516
+\n32.90
+\n14
+\n111.68
+\n68.3
+\n5.58
+\n0.030
+\n0.313↓
+\n6305
+\nDual specificity mitogen-activated protein kinase kinase 1 (MAPKK1; MEK1)
+\nP31938
+\n27.23
+\n10
+\n83.53
+\n43.1
+\n6.70
+\n0.025
+\n2.35↑
+\n9201
+\nMitogen-activated protein kinase 1 (MAPK1)
+\nP63085
+\n16.20
+\n6
+\n35.50
+\n41.2
+\n6.98
+\n0.037
+\n3.39↑
+\n	.	a pI=isoelectric point
+\n
+\n
+\n
+\n
+\n
+\n
+\n##Immunoprecipitation and western blot validation experiments
+\nTo validate the changes in protein expression and phosphorylation as determined by the PDQuest analysis of the 2-D gels, immunochemistry and 1-D western blotting analysis of PINK1(−/−) and WT samples was performed. Figure 3(a) and (b) shows the western blot images from the IP experiments after probing with anti-phosphoserine, anti-phosphothreonine, and anti-phosphotyrosine antibodies, where the immunoprecipitated protein, MAPK1, and CaM, respectively, were used as the loading control. Figure 3(c) and (d) displays the corresponding histogram plot representations of the data. The findings from these analyses confirmed a significant increase in the phosphorylation of MAPK1 (p = 0.045) and a decrease in the phosphorylation of CaM (p = 0.032) in the brain of PINK1(−/−) mice. Figure 4(a) and (b) presents the western blot images of PINK1(−/−) and control samples after probing with antibodies for HSP70.2 and ALDOA, respectively, where tubulin was used as the loading control. Figure 4(c) and (d) is the corresponding bar graphs of the results. The results of the western blot analyses confirmed a significant decrease in the expression of HSP70.2 (p = 0.047) and a significant increase in the expression of ALDOA (p = 0.049) in the PINK1(−/−) model. The p-values of most of these results are slightly higher than the values obtained from the 2-D proteomic studies. These differences may be attributed to the sensitivity of the Sypro Ruby staining of the 2-D images as compared to the range limitations of the chemiluminescent development of the 1-D western blots.
+\n
+\n
+\n#Discussion
+\nThis study focuses on protein expression and phosphorylation changes in the brains of 6-month-old PINK1(−/−) mice compared to PINK1(+/+) mice. Six-month-old mice were selected based on the observation that at this age PINK1(−/−) mice begin to exhibit a PD phenotype, including reduced dopamine levels, providing a model to study early changes occurring in brains with PINK1-related disease progression (Akundi et al. 2011). Proteomics studies revealed 29 proteins with significantly altered expression or phosphorylation levels in the brains of PINK1 knockout mice (vs. control mice). These proteins can be subdivided into the following categories that are discussed separately below: cellular signaling, energy metabolism, proteostasis networks, oxidative stress, and neuronal plasticity, neurotransmission, and structure.
+\n##Cellular signaling
+\nRegulation of protein phosphorylation status by protein kinases and protein phosphatases is essential in the control of cellular signaling pathways. Ablation of the kinase PINK1 in mice revealed de-regulated downstream phosphorylation events in the brain that may contribute to familial PINK1-related PD pathogenesis. Interestingly, lack of PINK1 is associated with increased phosphorylation of both MAP kinase kinase 1 (MEK1) and its downstream target MAPK1 that modulate vital functions including cell cycle, immunity, autophagy, apoptosis, and cell survival (Dzamko et al. 2014). Interestingly, it has been reported that PINK1 deficiency resulted in increased p38 phosphorylation leading to dysfunction of astrocytes (Choi et al. 2013). In many neurodegenerative disorders, MAPKs display increased activity and can produce substantial physiological effects with only modest changes in their phosphorylation state (Zhu et al. 2003; Di Domenico et al. 2011). Phosphorylated MAPKs have been shown to aggregate in the halo region of Lewy bodies and may have an early pathogenic role in PD (Zhu et al. 2002).
+\nTwo additional ubiquitous signaling proteins were found to have decreased phosphorylation states in the brains of PINK1(−/−) mice: CaM and 14-3-3 protein epsilon. CaM has been identified as a regulator of more than 100 proteins involved in numerous pathways regulating apoptosis, neuronal plasticity, cytoskeletal organization, neurotransmitter release, cellular growth, and proliferation and is a vital regulator of calcium homeostasis (DeLorenzo 1980; Benaim and Villalobo 2002; Xia and Storm 2005). 14-3-3 proteins are known to interact with more than 200 ligands including: kinases, phosphatases, and transmembrane receptors and have been implicated in numerous neurological disorders (Fu et al. 2000; Foote and Zhou 2012). Aberrant phosphorylation of either of these identified proteins has the potential to cause a myriad of deleterious downstream effects.
+\nPHB, another ubiquitously expressed pleiotropic modulator of signaling pathways, was found to have significant down-regulated expression in the brains of PINK1 KO mice. One of PHB's more interesting functions is as a chaperone in the assembly of the electron transport chain, and reduced production of ATP has been noted with the loss of PINK1 (Theiss and Sitaraman 2011). In addition, PHB also has been reported to play a defensive role against oxidative stress, and decreased expression of PHB has been correlated with the aging process (Robinson et al. 2011), both risk factors or mediators of PD. Further supporting the results of this study, PHB has been shown to be significantly decreased in brains of subjects with PD (Ferrer et al. 2007; T. B. Zhou and Qin 2013).
+\nDecreases in expression were also found in APT1 and peptidyl-prolyl cis-trans isomerase A (PPIaseA). APT1 catalyzes the removal of palmitate at CYS residues from the cytosolic surface of membrane proteins (Dekker et al. 2010). APT1 regulates protein–protein interactions, cell signaling, membrane localization, subcellular trafficking, vesicle transport, and lysosomal degradation (Tian et al. 2012; Kong et al. 2013). PPIaseA, also known as cyclophilin A, is a multifunctional protein that catalyzes the cis-trans isomerization at proline residues, playing a role in cellular signaling, inflammation response, and protein trafficking (K. Lang et al. 1987; Takahashi et al. 1989).
+\n
+\n##Energy metabolism
+\nA significant number of proteins identified as having altered expression are involved in energy metabolism pathways. We and other groups have shown that PINK1 deficiency impairs mitochondrial respiration, triggering metabolic adaptations including increased glycolysis (Diedrich et al. 2011; Yao et al. 2012; Akundi et al. 2013; Requejo-Aguilar et al. 2014). The results of previous discoveries combined with the results of this current investigation provide a more detailed molecular mechanism for the increase in glycolysis noted in PINK1-related PD. Specifically, from this study, we observed an up-regulation of several proteins related to glycolysis in PINK1-deficient mice. These include fructose-bisphosphate ALDOA, ENO2, D-3-phosphoglycerate dehydrogenase (3-PGDH), and transketolase (TK). Not only are ALDOA and ENO2 substrates directly involved in the glycolytic pathway, but ENO2 has been shown to be neuroprotective when up-regulated in microglial cells (Butterfield and Lange 2009; Hafner et al. 2013). Furthermore, 3-PGDH is an oxidoreductase that catalyzes the transition of 3-phosphoglycerate to 3-phosphohydroxypyruvate, the first step in the serine biosynthesis pathway. L-serine is a crucial neurotrophic factor in the CNS as it is a precursor for nucleotides, neurotransmitters, sphingolipids, phosphatidylserine, and L-cysteine (Ren et al. 2013). Moreover, the increased levels of neuronal-specific ENO2 and 3-PGDH are likely a cellular stress response to prevent cell death in the absence of PINK1 (presence of mitochondrial dysfunction), consistent with the finding that blocking glycolysis in PINK1-deficient mouse embryonic fibroblasts led to rapid death of these cells (Akundi et al. 2013). In addition, TK is an enzyme that catalyzes two key reactions in the pentose phosphate pathway, resulting in the production of glyceraldehyde-3-phosphate and fructose-6-phosphate. Up-regulation of TK provides for more of these essential substrates to be fed into the glycolytic pathway. Moreover, the pentose phosphate pathway provides NADPH, which is needed to reduce oxidized glutathione (GSSG) to reduced glutathione (GSH). Loss of GSH is arguably the earliest neurochemical alteration in PD brain.
+\nDA neurons are reportedly more reliant upon mitochondrial energy metabolism than other types of neurons due, in part, to their reduced mitochondrial reserve (Kingsbury et al. 2001; Van Laar and Berman 2013). In PD, depletion of ATP is major factor in the cascade leading to the neurodegeneration of these DA neurons (Mallajosyula et al. 2009). Significant decreased levels of cytoplasmic malate dehydrogenase (MDHc), and HPRT were observed in the brain homogenates of PINK1 KO mice. MDHc is a metabolic protein of the malate–aspartate shuttle that aids in the transfer of reducing equivalents of NADH into the mitochondria for consumption by complex I of the electron transport chain. A reduction in this key enzyme would result in impaired mitochondrial ATP synthesis. Moreover, reduced MDHc expression is a plausible contributor to the reduction in complex I activity that is reported in PD and PINK1 model organisms (Gautier et al. 2008; Liu et al. 2011b), as cytosolic NADH cannot cross the outer mitochondrial membrane without the enzymatic action of MDHc.
+\nHPRT is another metabolic enzyme that is an essential player in the purine salvage pathway for the generation of purine nucleotides (Sculley et al. 1992). Increasing nucleotide metabolism is essential for mitochondrial biogenesis fission events to maintain a pool of healthy mitochondria and has been shown to be neuroprotective in PINK1 models of PD (Tufi et al. 2014). Interestingly, HPRT deficiency is reported to dysregulate neurogenesis (Guibinga et al. 2010), which in adults is responsible for generating new neurons for the olfactory bulb (Altman 1969) and the subgranular zone of the hippocampus (Eriksson et al. 1998). Consistent with this observation, PINK1-deficient mice have anosmia (Glasl et al. 2012). And, in PD, impaired olfaction occurs 2–7 years before onset of motor symptoms in over 75% of patients (Lang 2011). Furthermore, HPRT knockout mice were shown to have decreased levels of dopamine that correlated with age (Micheli et al. 2011). Thus, we suggest that decreased expression of HPRT could quite possibly be a candidate as an early PD biomarker.
+\n
+\n##Proteostasis networks
+\nDisruption of two intracellular degradation systems, the ubiquitin–proteasome system and autophagy-lysosome pathway, has been shown to play central roles in PD pathology (Lim 2007; Pan et al. 2008). Dysregulation of these pathways causes accumulation and aggregation of abnormal proteins and damaged organelles, leading to cellular toxicity, dysfunction and neurodegeneration (Pan et al. 2008). Without functional PINK1, mitophagy fails, resulting in accumulated dysfunctional mitochondria and elevated apoptotic rates (Lenzi et al. 2012). In this study of PINK1 KO mouse brain, two subunits of V-type proton ATPase were found to be altered in either phosphorylation or expression: V-ATPaseA and V-ATPaseF. V-ATPase is a membrane transport protein whose function is to establish a proton gradient, creating an acidic environment in many intracellular compartments, including lysosomes (Beyenbach and Wieczorek 2006). Previously, we have shown that C. elegansexpressing mutant α-synuclein and tau have altered V-ATPase and decreased autophagy (Di Domenico et al. 2012). Furthermore, when the function of V-ATPase is inhibited, autophagy may become dysfunctional because the acidic environment in lysosomes required for enzymatic hydrolysis cannot be generated (Pan et al. 2008). In addition, with diminished lysosomal function, more α-synuclein can accumulate and impair cellular trafficking which may lead to neurodegeneration in PD (Dehay et al. 2013). The catalytic subunit A (V-ATPaseA) was found to have decreased phosphorylation. V-ATPaseA is known to be phosphorylated by protein kinase A at Ser-175; and, in liver cells, phosphorylation of subunit A leads to a decreased activity (Alzamora et al. 2010), possibly because of decreased binding affinity of ATP to V-ATPaseA. The F subunit of V-type proton ATPase (V-ATPaseF) was identified as having decreased expression, suggesting an overall decrease in vacuolar acidification and autophagy.
+\nAdditional proteins involved in the proteostasis network that were found to have significantly decreased expression were as follows: PSA2, HSP70.2, and VDAC-2. PSA2 proteins compose the end rings of the 20S proteasome, an ATP-dependent multi-protein assembly that is known to degrade oxidized proteins (Davies 2001). Hence, elevated oxidatively modified proteins in PD conceivably could be due in part to diminished function of the 20S proteasome. Moreover, as the 20S proteasome comprises the core of the 26S proteasome, the overall protein degradation abilities of ubiquitin–proteasome system could conceivably be diminished. Consistent with these results, decreased proteasomal function and expression has been noted in PD patients and PD animal models (Bukhatwa et al. 2010; Ebrahimi-Fakhari et al. 2012; Martins-Branco et al. 2012).
+\nHSP70 is an ubiquitously expressed molecular chaperone that mediates the folding of newly translated proteins, stabilizes proteins against aggregation, aids in clathrin mediated endocytosis, exocytosis (including synaptic vesicles) and is an important mediator for relaying targeted proteins to the ubiquitin–proteasome system and autophagy-lysosomal pathways (Meimaridou et al. 2009; Alvarez-Erviti et al. 2010; Redeker et al. 2012). We have previously demonstrated that viral gene transfer of HSP70 protects against toxin-induced DA neuron loss in a sporadic model of PD in mice (Dong et al. 2005). In addition, HSP70 suppressed α-synuclein toxicity in a transgenic Drosophilamodel of familial PD (Auluck et al. 2002). Therefore, the finding of reduced HSP70 expression is intriguing and is consistent with the notion of an increased vulnerability of DA neurons to mitochondrial and proteotoxic stressors in the absence of PINK1.
+\nVDAC-2 is a mitochondrial membrane porin that opens at low or zero membrane potential, and allows diffusion of small hydrophilic molecules and ions and thus plays a role in mitochondrial metabolic processes (Blachly-Dyson and Forte 2001; Shoshan-Barmatz and Gincel 2003). VDACs are also involved in mitochondrial autophagy, possibly by recruiting Parkin to docking sites in defective mitochondrial membranes, tagging the organelles for degradation by lysosomes (Sun et al. 2012). A decrease in the expression of this protein in PD would inhibit the removal of malfunctioning mitochondria, contributing to an increase in cellular detritus and subsequent neuronal dysregulation.
+\n
+\n##Oxidative stress
+\nIncreased levels of reactive oxygen species have been noted in PD and PD model organisms (Jenner 2003; Heeman et al. 2011; Di Domenico et al. 2012; Varcin et al. 2012). Not only does aberrant mitochondrial function and dysfunction of proteostasis networks impact oxidative stress but loss of neurotropic factors contributes as well. Consistent with this observation, two additional neuroprotective enzymes were found in this study to have decreased expression in the brain of the PINK1 KO mouse: CBR3 and cytoplasmic isocitrate dehydrogenase [NADP+] (IDHc). CBR3 is an oxidoreductase that reduces oxidative stress by catalyzing the reduction of carbonyls to their corresponding alcohols (Miura et al. 2008). This reduction of oxidative stress-mediated carbonyls leads to the creation of a less toxic species (Oppermann 2007). IDH also plays a defensive role combating oxidative damage as it contains a tagging sequence that can direct damaged proteins to peroxisomes for degradation (Xu et al. 2004). In addition, IDHc, utilizing NADP+ as a cofactor, generates NADPH, which noted above is an important cofactor for maintaining reduced GSH, a key antioxidant. Supporting our data, knockdown studies of IDHc in PC12 cell lines demonstrated changes in cellular redox status, increased oxidative damage and apoptotic cell death (Yang and Park 2011). Furthermore, cell lines that expressed lower levels of IDHc were shown to have increased lipid peroxidation, peroxide generation, and oxidative damage to DNA (Lee et al. 2002). Consequently, we opine that these proteins may contribute to the oxidative stress observed in PD brain.
+\n
+\n##Neuronal plasticity, trafficking and structure
+\nMitochondrial dysfunction is implicated in various neuronal degenerative diseases, leading to decreased neuroplasticity and neurite outgrowth (Cheng et al. 2010). Furthermore, PINK1 has previously been reported to be a possible contributor in the regulation of neurite outgrowth, and its deficiency causes dysregulation of this process (Samann et al. 2009). In this study, we uncovered a significant decrease in two proteins involved in neurite outgrowth: EF2 and dihydropyrimidase-related protein 2 (DRP2; CRMP2). EF2 mediates ribosomal translocation of peptidyl-tRNA from the A to the P site during protein translation, which has been shown to regulate neurite outgrowth in advancing growth cones (Nairn and Palfrey 1987; Iketani et al. 2013). When EF2 is down-regulated or inhibited by EF2 kinase, protein synthesis driving the growth cone is blocked; therefore, formation of new neuronal connections are inhibited (Sutton et al. 2007). Furthermore, down-regulation of global protein synthesis has been linked to impaired chaperone and proteasome activity as cells lower protein synthesis when protein folding and/or degradation pathways are impaired to reduce the burden of aggregated and misfolded proteins (van Oosten-Hawle and Morimoto 2014), consistent with the observed decreases in HSP70 and proteasomal subunit expression in this study. Moreover, reducing protein synthesis has shown to be beneficial in a Drosophila PINK1 model (Liu and Lu 2010). Thus, while reduced expression of EF2 may affect neurite formation it may also be an adaptive, overall neuroprotective response.
+\nDRP2, also called CRMP2, is a signaling protein that interacts with binding partners and carries out multiple functions, some of which include: neurite outgrowth and retraction, growth cone guidance, kinesin-dependent axonal transport, neurotransmitter release, endocytosis, vesicular cycling, synaptic assembly, Ca2+ homeostasis, organization of the dendritic field, and neuronal differentiation (Hensley et al. 2011; Khanna et al. 2012; Tan et al. 2013). Even though overall DRP2 expression decreases with age, higher levels remain in areas of neurogenesis and neuroplasticity (Charrier et al. 2003). Previously, DRP2 has been reported to be functionally altered in neurodegenerative disorders, such as Alzheimer disease, prion disease, amyotrophic lateral sclerosis, and PD (De Winter et al. 2006; Sultana et al. 2006; Shinkai-Ouchi et al. 2010; Hensley et al. 2011; Dixit et al. 2013). It is conceivable that reduced levels of this important neuronal protein affects cytoskeletal organization leading to the decrease in dendritic field and dendritic spine number as reported in PD (Patt et al. 1991). Consequently, PINK1(−/−) mice deficient in DRP2 would have severely diminished capacity in neuronal repair, migration, neurite elongation, and maintaining neuronal plasticity.
+\nIn PD, multiple neuronal networks experience altered neurotransmission, a condition that is exacerbated by α-synuclein over-expression (Barone 2010; Nemani et al. 2010). In the PINK1(−/−)model in particular, there is a significant reduction in the neurotransmitter dopamine. Decreased expression of V-ATPase in the PINK1 KO mouse is a probable contributor in the breakdown in neurotransmission. Working in conjunction with the H+/neurotransmitter antiporter, V-ATPase assists in the concentration of neurotransmitters into synaptic vesicles (Beyenbach and Wieczorek 2006). Disruption of this process leads to decreased levels of neurotransmitters in the synaptic cleft. Furthermore, synaptic vesicle trafficking at the pre-synaptic cleft is maintained by a cycle of protein complex assembly and disassembly of the SNARE complexes; failure of this cycle can lead to loss of neuronal structure and function(Esposito et al. 2012). A central protein involved in this process, vesicle-fusing ATPase, also known as N-ethylmaleimide-sensitive fusion protein (NSF), was found in this study to be significantly decreased in the PINK1(−/−) brain. NSF is a membrane trafficking chaperone required for intracellular membrane fusion and vesicle-mediated transport (Whiteheart et al. 1994; Bomberger et al. 2005). Specifically for neurotransmission, NSF facilitates membrane fusion of SNARE complexes (in conjunction with SNAP) for synaptic exocytosis, subsequent disassembly of the complex and mobilization of the reserve neurotransmitter pool (Lin and Scheller 2000; Neuwald 1999; Whiteheart et al. 2001), while also promoting re-sensitization of surface receptors on the plasma membrane (Bomberger et al. 2005). Knockout of NSF leads to an accumulation of synaptic vesicles at the axon terminals and at the docking site (Whiteheart et al. 2001). Consistent with our results and the above notion, PINK1-deficient Drosophila neurons show that rapid stimulation of synaptic vesicles is defective (Morais et al. 2009).
+\nLoss of neuronal scaffolding is accompanied by decreased expression of structural proteins. In this study, we found two structural proteins to be significantly decreased in the PINK1 KO brain: NFL and ARPC2. NFL is a component in Lewy bodies and a major structural element in neurons, forming the backbone for other neurofilaments (Fuchs and Cleveland 1998). In the substantia nigra of PD subjects, reduced levels of NFL and NFL mRNA were found and correlated with the severity of the disease (Hill et al. 1993; Liu et al. 2011a). ARPC2 is part of a structural protein complex that plays a role regulating the polymerization and branching of actin filament networks (Gournier et al. 2001; Spillane et al. 2012). Furthermore, in this study, the phosphorylation state of NFM also was found to be significantly decreased. NFM is a structural protein that supports axonal caliber, and altered levels of NFM phosphorylation affect the function of larger neurofilaments. In addition, phosphorylation of NFM produces inter-filament cross-bridges that increase axonal structure; therefore, a decrease in NFM phosphorylation would be predicted to lead to a decrease in axonal caliber (Mukai et al. 1996). Thus, defects in neuronal structural proteins may contribute to the pathogenesis of recessive familial PD.
+\nIn conclusion, ablation of PINK1 in mice results in differential expression and altered phosphorylation states of multiple brain proteins with critical functions involved in early changes in cellular signaling pathways, energy metabolism, proteostasis networks, oxidative stress, neurotransmission, and neuronal structural plasticity (Fig. 5). Our findings provide a starting point for future investigations of the impact that these differentially expressed and phosphorylated proteins and their regulated pathways may have on the pathogenesis of PD; particularly the role of potential environmental triggers that interact with mutated PD susceptibility gene. In addition, further studies are required to determine if the proteins identified here may serve as therapeutic targets to interfere with the progression of PD or as part of a panel of potential biomarkers for PD.
+\n
+\n##Figure 1.
+\nRepresentative 2-D gel images of isolated proteins from the brains of 6-month-old wild-type (WT) mice and PINK1 knockout (KO) mice (n = 6). Proteins whose expression was significantly altered are labeled in the images and NFL spot is enlarged to demonstrate differential levels (p < 0.05).
+\n
+\n##Figure 2.
+\nRepresentative images of Pro-Q Diamond-stained 2-D gels with protein spots showing altered phosphorylation states labeled in the images. Bar graphs displaying normalized phosphorylation intensity (Pro-Q Diamond spot density divided by SYPRO Ruby spot density) of each of n = 6 wild-type (WT) (blue) and n = 6 knockout (KO) (red) samples [total of 12 individual gels] are also provided (p < 0.05).
+\n
+\n##Figure 3.
+\nWestern blot validations and corresponding bar graph representations from immunochemistry experiments of (a and c) the significant increase in the phosphorylation of MAPK1 and (b and d) the significant decrease in the phosphorylation of Calmodulin (CaM) in the brains of PINK1 knockout (KO) mice as compared to wild-type (WT) mice using the corresponding immunoprecipitation (IP) antibody as the loading control (n = 5, p < 0.05). Immunoreactivity with specific antibodies was detected by chemiluminescence. *p < 0.05
+\n
+\n##Figure 4.
+\nWestern blot validations and corresponding bar graph representations of (a and c) the down-regulation of HSP70.2 and (b and d) the up-regulation of aldolase A (ALDOA) in the brains of PINK1 knockout (KO) mice as compared to wild-type (WT) mice using tubulin as a loading control (n = 6, p < 0.05). Immunoreactivity with specific antibodies was detected by chemiluminescence. *p < 0.05
+\n
+\n##Figure 5.
+\nSchematic diagram summary of expression proteomics and phosphoproteomics profiles of the PINK1 knockout (KO) mouse brain. With the ablation of PINK1, alterations in the phosphoproteome and protein levels were noted in several key proteins associated with: increased oxidative stress, aberrant cellular signaling, altered neuronal structure, decreased synaptic plasticity, reduced neurotransmission, diminished proteostasis networks, and altered metabolism. We hypothesize that such changes contribute to the known alterations in pathology and clinical presentation in Parkinson's disease (PD). See 'Discussion' section for more details.
+\n
+\n#references
+\n		Akundi R. S., Huang Z., Eason J., Pandya J. D., Zhi L., Cass W. A. and Bueler H. (2011) Increased mitochondrial calcium sensitivity and abnormal expression of innate immunity genes precede dopaminergic defects in Pink1-deficient mice. PLoS ONE 6, e16038. doi:10.1371/journal.pone.0016038.
+\n
+\n		Akundi R. S., Zhi L. and Bueler H. (2012) PINK1 enhances insulin-like growth factor-1-dependent Akt signaling and protection against apoptosis. Neurobiol. Dis. 45, 469–478. doi:10.1016/j.nbd.2011.08.034.
+\n
+\n		Akundi R. S., Zhi L., Sullivan P. G. and Bueler H. (2013) Shared and cell type-specific mitochondrial defects and metabolic adaptations in primary cells from PINK1-deficient mice. Neurodegener. Dis. 12, 136–149. doi:10.1159/000345689.
+\n		Altman J. (1969) Autoradiographic and histological studies of postnatal neurogenesis. IV. Cell proliferation and migration in the anterior forebrain, with special reference to persisting neurogenesis in the olfactory bulb. J. Comp. Neurol. 137, 433–457. doi:10.1002/cne.901370404.
+\n
+\n		Alvarez-Erviti L., Rodriguez-Oroz M. C., Cooper J. M., Caballero C., Ferrer I., Obeso J. A. and Schapira A. H. (2010) Chaperone-mediated autophagy markers in parkinson disease brains. Arch. Neurol. 67, 1464–1472. doi: 10.1001/archneurol.2010.198
+\n
+\n		Alzamora R., Thali R. F., Gong F., Smolak C., Li H., Baty C. J. and Pastor-Soler N. M. (2010) PKA regulates vacuolar H + -ATPase localization and activity via direct phosphorylation of the a subunit in kidney cells. J. Biol. Chem. 285, 24676–24685. doi:10.1074/jbc.M110.106278.
+\n
+\n		Amo T., Sato S., Saiki S., Wolf A. M., Toyomizu M., Gautier C. A., Shen J., Ohta S. and Hattori N. (2011) Mitochondrial membrane potential decrease caused by loss of PINK1 is not due to proton leak, but to respiratory chain defects. Neurobiol. Dis. 41, 111–118. doi: http://dx.doi.org/10.1016/j.nbd.2010.08.027
+\n
+\n		Anderson J. P., Walker D. E., Goldstein J. M., de Laat R., Banducci K., Caccavello R. J. and Chilcote T. J. (2006) Phosphorylation of Ser-129 is the dominant pathological modification of alpha-synuclein in familial and sporadic Lewy body disease. J. Biol. Chem. 281, 29739–29752. doi:10.1074/jbc.M600933200.
+\n
+\n		Auluck P. K., Chan H. Y., Trojanowski J. Q., Lee V. M. and Bonini N. M. (2002) Chaperone suppression of alpha-synuclein toxicity in a Drosophila model for Parkinson's disease. Science 295, 865–868. doi:10.1126/science.1067389.
+\n
+\n		Barone P. (2010) Neurotransmission in Parkinson's disease: beyond dopamine. Eur. J. Neurol. 17, 364–376. doi:10.1111/j.1468-1331.2009.02900.x.
+\n
+\n		Benaim G. and Villalobo A. (2002) Phosphorylation of calmodulin. Functional implications. Eur. J. Biochem.269, 3619–3631.
+\n
+\n		Beyenbach K. W. and Wieczorek H. (2006) The V-type H+ ATPase: molecular structure and function, physiological roles and regulation. J. Exp. Biol. 209, 577–589. doi:10.1242/jeb.02014.
+\n
+\n		Blachly-Dyson E. and Forte M. (2001) VDAC Channels. IUBMB Life 52, 113–118. doi:10.1080/15216540152845902.
+\n
+\n		Bomberger J. M., Parameswaran N., Hall C. S., Aiyar N. and Spielman W. S. (2005) Novel function for receptor activity-modifying proteins (RAMPs) in post-endocytic receptor trafficking. J. Biol. Chem. 280, 9297–9307. doi:10.1074/jbc.M413786200.
+\n
+\n		Bonifati V. (2012) Autosomal recessive parkinsonism. Parkinsonism Relat. Disord. 18(Suppl 1), S4–S6. doi:10.1016/S1353-8020(11)70004-9.
+\n
+\n
+\n          Bonifati V., Rohe C. F., Breedveld G. J. et al.; Italian Parkinson Genetics Network (2005) Early-onset parkinsonism associated with PINK1 mutations: frequency, genotypes, and phenotypes. Neurology 65, 87–95. doi: 10.1212/01.wnl.0000167546.39375.82
+\n
+\n		Braak H., Tredici K. D., Rüb U., deVos R. A. I., Jansen Steur E. N. H. and Braak E. (2003) Staging of brain pathology related to sporadic Parkinson's disease. Neurobiol. Aging 24, 197–211. doi: http://dx.doi.org/10.1016/S0197-4580(02)00065-9
+\n
+\n		Bueler H. (2009) Impaired mitochondrial dynamics and function in the pathogenesis of Parkinson's disease. Exp. Neurol. 218, 235–246. doi:10.1016/j.expneurol.2009.03.006.
+\n
+\n		Bukhatwa S., Zeng B.-Y., Rose S. and Jenner P. (2010) A comparison of changes in proteasomal subunit expression in the substantia nigra in Parkinson's disease, multiple system atrophy and progressive supranuclear palsy. Brain Res. 1326, 174–183. doi: http://dx.doi.org/10.1016/j.brainres.2010.02.045
+\n
+\n		Butterfield D. A. and Lange M. L. (2009) Multifunctional roles of enolase in Alzheimer's disease brain: beyond altered glucose metabolism. J. Neurochem. 111, 915–933. doi:10.1111/j.1471-4159.2009.06397.x.
+\n
+\n		Charrier E., Reibel S., Rogemond V., Aguera M., Thomasset N. and Honnorat J. (2003) Collapsin response mediator proteins (CRMPs): involvement in nervous system development and adult neurodegenerative disorders. Mol. Neurobiol. 28, 51–64. doi:10.1385/MN:28:1:51.
+\n
+\n		Chaudhuri K. R., Healy D. G. and Schapira A. H.;National Institute for Clinical Exellence (2006) Non-motor symptoms of Parkinson's disease: diagnosis and management. Lancet Neurol. 5, 235–245. doi: 10.1016/S1474-4422(06)70373-8
+\n
+\n		Cheng A., Hou Y. and Mattson M. P. (2010) Mitochondria and neuroplasticity. ASN Neuro 2, e00045. doi:10.1042/an20100019.
+\n
+\n		Choi I., Kim J., Jeong H. K., Kim B., Jou I., Park S. M. and Joe E. H. (2013) PINK1 deficiency attenuates astrocyte proliferation through mitochondrial dysfunction, reduced AKT and increased p38 MAPK activation, and downregulation of EGFR. Glia 61, 800–812. doi:10.1002/glia.22475.
+\n
+\n		Davies K. J. A. (2001) Degradation of oxidized proteins by the 20S proteasome. Biochimie 83, 301–310. doi: http://dx.doi.org/10.1016/S0300-9084(01)01250-0
+\n
+\n		De Winter F., Vo T., Stam F. J., Wisman L. A., Bar P. R., Niclou S. P. and Verhaagen J. (2006) The expression of the chemorepellent Semaphorin 3A is selectively induced in terminal Schwann cells of a subset of neuromuscular synapses that display limited anatomical plasticity and enhanced vulnerability in motor neuron disease. Mol. Cell Neurosci. 32, 102–117. doi:10.1016/j.mcn.2006.03.002.
+\n
+\n		Deas E., Plun-Favreau H., Gandhi S., Desmond H., Kjaer S., Loh S. H. and Wood N. W. (2011) PINK1 cleavage at position A103 by the mitochondrial protease PARL. Hum. Mol. Genet. 20, 867–879. doi:10.1093/hmg/ddq526.
+\n
+\n		Dehay B., Martinez-Vicente M., Caldwell G. A., Caldwell K. A., Yue Z., Cookson M. R. and Bezard E. (2013) Lysosomal impairment in Parkinson's disease. Mov. Disord. 28, 725–732. doi:10.1002/mds.25462.
+\n
+\n		Dekker F. J., Rocks O., Vartak N., Menninger S., Hedberg C., Balamurugan R. and Waldmann H. (2010) Small-molecule inhibition of APT1 affects Ras localization and signaling. Nat. Chem. Biol. 6, 449–456. doi:10.1038/nchembio.362.
+\n
+\n		DeLorenzo R. J. (1980) Role of calmodulin in neurotransmitter release and synaptic function. Ann. N. Y. Acad. Sci. 356, 92–109.
+\n
+\n		Di Domenico F., Sultana R., Barone E., Perluigi M., Cini C., Mancuso C. and Butterfield D. A. (2011) Quantitative proteomics analysis of phosphorylated proteins in the hippocampus of Alzheimer's disease subjects. J. Proteomics. 74, 1091–1103. doi:10.1016/j.jprot.2011.03.033.
+\n
+\n		Di Domenico F., Sultana R., Ferree A., Smith K., Barone E., Perluigi M. and Butterfield D. A. (2012) Redox proteomics analyses of the influence of co-expression of wild-type or mutated LRRK2 and Tau on C. elegans protein expression and oxidative modification: relevance to Parkinson disease. Antioxid. Redox Signal. 17, 1490–1506. doi:10.1089/ars.2011.4312.
+\n
+\n		Diedrich M., Kitada T., Nebrich G., Koppelstaetter A., Shen J., Zabel C. and Mao L. (2011) Brain region specific mitophagy capacity could contribute to selective neuronal vulnerability in Parkinson's disease. Proteome Sci.9, 59. doi:10.1186/1477-5956-9-59.
+\n
+\n		Dixit A., Srivastava G., Verma D., Mishra M., Singh P. K., Prakash O. and Singh M. P. (2013) Minocycline, levodopa and MnTMPyP induced changes in the mitochondrial proteome profile of MPTP and maneb and paraquat mice models of Parkinson's disease. Biochim. Biophys. Acta 1832, 1227–1240. doi:10.1016/j.bbadis.2013.03.019.
+\n
+\n		Dong Z., Wolfer D. P., Lipp H. P. and Bueler H. (2005) Hsp70 gene transfer by adeno-associated virus inhibits MPTP-induced nigrostriatal degeneration in the mouse model of Parkinson disease. Mol. Ther. 11, 80–88. doi:10.1016/j.ymthe.2004.09.007.
+\n
+\n        Dzamko N., Zhou J., Huang Y. and Halliday G. M. (2014) Parkinson's disease-implicated kinases in the brain; insights into disease pathogenesis. Front. Mol. Neurosci. 7, 57. doi:10.3389/fnmol.2014.00057.
+\n
+\n		Ebrahimi-Fakhari D., Wahlster L. and McLean P. (2012) Protein degradation pathways in Parkinson's disease: curse or blessing. Acta Neuropathol. 124, 153–172. doi:10.1007/s00401-012-1004-6.
+\n
+\n		Eriksson P. S., Perfilieva E., Bjork-Eriksson T., Alborn A. M., Nordborg C., Peterson D. A. and Gage F. H. (1998) Neurogenesis in the adult human hippocampus. Nat. Med. 4, 1313–1317. doi:10.1038/3305.
+\n
+\n		Esposito G., Ana Clara F. and Verstreken P. (2012) Synaptic vesicle trafficking and Parkinson's disease. Dev. Neurobiol. 72, 134–144. doi:10.1002/dneu.20916.
+\n
+\n		Exner N., Treske B., Paquet D. et al. (2007) Loss-of-function of human PINK1 results in mitochondrial pathology and can be rescued by parkin. J. Neurosci. 27, 12413–12418. doi:10.1523/JNEUROSCI.0719-07.2007.
+\n
+\n		Fedorowicz M. A., de Vries-Schneider R. L., Rub C., Becker D., Huang Y., Zhou C., Alessi Wolken D. M., Voos W., Liu Y. and Przedborski S. (2014) Cytosolic cleaved PINK1 represses Parkin translocation to mitochondria and mitophagy. EMBO Rep. 15, 86–93. doi: 10.1002/embr.201337294
+\n
+\n		Ferrer I., Perez E., Dalfo E. and Barrachina M. (2007) Abnormal levels of prohibitin and ATP synthase in the substantia nigra and frontal cortex in Parkinson's disease. Neurosci. Lett. 415, 205–209. doi:10.1016/j.neulet.2007.01.026.
+\n
+\n		Foote M. and Zhou Y. (2012) 14-3-3 proteins in neurological disorders. Int. J. Biochem. Mol. Biol. 3, 152–164.
+\n
+\n		Fu H., Subramanian R. R. and Masters S. C. (2000) 14-3-3 proteins: structure, function, and regulation. Annu. Rev. Pharmacol. Toxicol. 40, 617–647. doi:10.1146/annurev.pharmtox.40.1.617.
+\n
+\n		Fuchs E. and Cleveland D. W. (1998) A structural scaffolding of intermediate filaments in health and disease. Science 279, 514–519.
+\n
+\n		Gasser T., Hardy J. and Mizuno Y. (2011) Milestones in PD genetics. Mov. Disord. 26, 1042–1048. doi:10.1002/mds.23637.
+\n
+\n          Gautier C. A., Kitada T. and Shen J. (2008) Loss of PINK1 causes mitochondrial functional defects and increased sensitivity to oxidative stress. Proc. Natl Acad. Sci. USA 105, 11364–11369. doi:10.1073/pnas.0802076105.
+\n
+\n		Gautier C. A., Giaime E., Caballero E., Nunez L., Song Z., Chan D., Villalobos C. and Shen J. (2012) Regulation of mitochondrial permeability transition pore by PINK1. Mol. Neurodegener. 7, 22. doi:10.1186/1750-1326-7-22.
+\n
+\n          Glasl L., Kloos K., Giesert F. et al. (2012) Pink1-deficiency in mice impairs gait, olfaction and serotonergic innervation of the olfactory bulb. Exp. Neurol. 235, 214–227. doi:10.1016/j.expneurol.2012.01.002.
+\n
+\n		Gournier H., Goley E. D., Niederstrasser H., Trinh T. and Welch M. D. (2001) Reconstitution of human Arp2/3 complex reveals critical roles of individual subunits in complex structure and activity. Mol. Cell 8, 1041–1052. doi: http://dx.doi.org/10.1016/S1097-2765(01)00393-8
+\n
+\n		Guibinga G. H., Hsu S. and Friedmann T. (2010) Deficiency of the housekeeping gene hypoxanthine-guanine phosphoribosyltransferase (HPRT) dysregulates neurogenesis. Mol. Ther. 18, 54–62. doi:10.1038/mt.2009.178.
+\n
+\n          Hafner A., Glavan G., Obermajer N., Živin M., Schliebs R. and Kos J. (2013) Neuroprotective role of γ-enolase in microglia in a mouse model of Alzheimer's disease is regulated by cathepsin X. Aging Cell, 12, 604–614. doi:10.1111/acel.12093.
+\n
+\n		Haque M. E., Thomas K. J., D'Souza C., Callaghan S., Kitada T., Slack R. S., Fraser P., Cookson M. R., Tandon A. and Park D. S. (2008) Cytoplasmic Pink1 activity protects neurons from dopaminergic neurotoxin MPTP. Proc. Natl Acad. Sci. USA 105, 1716–1721. doi:10.1073/pnas.0705363105.
+\n
+\n		Hauser D. N. and Hastings T. G. (2013) Mitochondrial dysfunction and oxidative stress in Parkinson's disease and monogenic parkinsonism. Neurobiol. Dis. 51, 35–42. doi:10.1016/j.nbd.2012.10.011.
+\n
+\n		Heeman B., Van den Haute C., Aelvoet S. A. et al. (2011) Depletion of PINK1 affects mitochondrial metabolism, calcium homeostasis and energy maintenance. J. Cell Sci. 124, 1115–1125. doi:10.1242/jcs.078303.
+\n
+\n		Henchcliffe C. and Beal M. F. (2008) Mitochondrial biology and oxidative stress in Parkinson disease pathogenesis. Nat. Clin. Pract. Neurol. 4, 600–609. doi:10.1038/ncpneuro0924.
+\n
+\n		Hensley K., Venkova K., Christov A., Gunning W. and Park J. (2011) Collapsin response mediator protein-2: an emerging pathologic feature and therapeutic target for neurodisease indications. Mol. Neurobiol. 43, 180–191. doi:10.1007/s12035-011-8166-4.
+\n
+\n		Hill W. D., Arai M., Cohen J. A. and Trojanowski J. Q. (1993) Neurofilament mRNA is reduced in Parkinson's disease substantia nigra pars compacta neurons. J. Comp. Neurol. 329, 328–336. doi:10.1002/cne.903290304.
+\n
+\n		Iketani M., Iizuka A., Sengoku K. et al. (2013) Regulation of neurite outgrowth mediated by localized phosphorylation of protein translational factor eEF2 in growth cones. Dev. Neurobiol. 73, 230–246. doi:10.1002/dneu.22058.
+\n
+\n          Jankovic J. (2008) Parkinson's disease: clinical features and diagnosis. J. Neurol. Neurosurg. Psychiatry 79, 368–376. doi:10.1136/jnnp.2007.131045.
+\n
+\n		Jenner P. (2003) Oxidative stress in Parkinson's disease. Ann. Neurol. 53(Suppl 3), S26–S36; discussion S36-28. doi: 10.1002/ana.10483
+\n
+\n		Jin S. M. and Youle R. J. (2012) PINK1- and Parkin-mediated mitophagy at a glance. J. Cell Sci. 125, 795–799. doi:10.1242/jcs.093849.
+\n
+\n		Kazlauskaite A., Kondapalli C., Gourlay R., Campbell D. G., Ritorto M. S., Hofmann K., Alessi D. R., Knebel A., Trost M. and Muqit M. M. (2014) Parkin is activated by PINK1-dependent phosphorylation of ubiquitin at Ser65. Biochem. J. 460, 127–139. doi:10.1042/BJ20140334.
+\n
+\n		Khanna R., Wilson S. M., Brittain J. M., Weimer J., Sultana R., Butterfield A. and Hensley K. (2012) Opening Pandora's jar: a primer on the putative roles of CRMP2 in a panoply of neurodegenerative, sensory and motor neuron, and central disorders. Future Neurol. 7, 749–771. doi:10.2217/FNL.12.68.
+\n
+\n		Kingsbury A. E., Cooper M., Schapira A. H. and Foster O. J. (2001) Metabolic enzyme expression in dopaminergic neurons in Parkinson's disease: an in situ hybridization study. Ann. Neurol. 50, 142–149.
+\n
+\n		Koh H. and Chung J. (2012) PINK1 as a molecular checkpoint in the maintenance of mitochondrial function and integrity. Mol. Cells 34, 7–13. doi:10.1007/s10059-012-0100-8.
+\n
+\n		Kong E., Peng S., Chandra G., Sarkar C., Zhang Z., Bagh M. B. and Mukherjee A. B. (2013) Dynamic palmitoylation links cytosol-membrane shuttling of acyl-protein thioesterase-1 and acyl-protein thioesterase-2 with that of proto-oncogene H-ras product and growth-associated protein-43. J. Biol. Chem. 288, 9112–9125. doi:10.1074/jbc.M112.421073.
+\n
+\n		Lang A. E. (2011) A critical appraisal of the premotor symptoms of Parkinson's disease: potential usefulness in early diagnosis and design of neuroprotective trials. Mov. Disord. 26, 775–783. doi:10.1002/mds.23609.
+\n
+\n		Lang K., Schmid F. X. and Fischer G. (1987) Catalysis of protein folding by prolyl isomerase. Nature 329, 268–270. doi:10.1038/329268a0.
+\n
+\n		Lee S. M., Koh H.-J., Park D.-C., Song B. J., Huh T.-L. and Park J.-W. (2002) Cytosolic NADP+-dependent isocitrate dehydrogenase status modulates oxidative damage to cells. Free Radic. Biol. Med. 32, 1185–1196. doi: http://dx.doi.org/10.1016/S0891-5849(02)00815-8
+\n
+\n		Lenzi P., Marongiu R., Falleni A., Gelmetti V., Busceti C. L., Michiorri S., Valente E. M. and Fornai F. (2012) A subcellular analysis of genetic modulation of PINK1 on mitochondrial alterations, autophagy and cell death. Arch. Ital. Biol. 150, 194–217. doi:10.4449/aib.v150i2/3.1417.
+\n
+\n		Liang C. L., Wang T. T., Luby-Phelps K. and German D. C. (2007) Mitochondria mass is low in mouse substantia nigra dopamine neurons: implications for Parkinson's disease. Exp. Neurol. 203, 370–380. doi:10.1016/j.expneurol.2006.08.015.
+\n
+\n		Lim K. L. (2007) Ubiquitin-proteasome system dysfunction in Parkinson's disease: current evidence and controversies. Expert Rev. Proteomics 4, 769–781. doi:10.1586/14789450.4.6.769.
+\n
+\n		Lin W. and Kang U. J. (2008) Characterization of PINK1 processing, stability, and subcellular localization. J. Neurochem. 106, 464–474. doi:10.1111/j.1471-4159.2008.05398.x.
+\n
+\n		Lin R. C. and Scheller R. H. (2000) Mechanisms of synaptic vesicle exocytosis. Annu. Rev. Cell Dev. Biol. 16, 19–49. doi:10.1146/annurev.cellbio.16.1.19.
+\n
+\n		Liu S. and Lu B. (2010) Reduction of protein translation and activation of autophagy protect against PINK1 pathogenesis in Drosophila melanogaster. PLoS Genet. 6, e1001237. doi:10.1371/journal.pgen.1001237.
+\n
+\n		LiuQ Q., Xie F., Alvarado-Diaz A., Smith M. A., Moreira P. I., Zhu X. and Perry G. (2011a) Neurofilamentopathy in neurodegenerative diseases. Open Neurol. J. 5, 58–62. doi:10.2174/1874205X01105010058.
+\n
+\n		Liu W., Acin-Perez R., Geghman K. D., Manfredi G., Lu B. and Li C. (2011b) Pink1 regulates the oxidative phosphorylation machinery via mitochondrial fission. Proc. Natl Acad. Sci. USA 108, 12920–12924. doi:10.1073/pnas.1107332108.
+\n
+\n		Mallajosyula J. K., Chinta S. J., Rajagopalan S., Nicholls D. G. and Andersen J. K. (2009) Metabolic control analysis in a cellular model of elevated MAO-B: relevance to Parkinson's disease. Neurotox. Res. 16, 186–193. doi:10.1007/s12640-009-9032-2.
+\n
+\n		Martins-Branco D., Esteves A. R., Santos D., Arduino D. M., Swerdlow R. H., Oliveira C. R., Januario C. and Cardoso S. M. (2012) Ubiquitin proteasome system in Parkinson's disease: a keeper or a witness? Exp. Neurol.238, 89–99. doi: http://dx.doi.org/10.1016/j.expneurol.2012.08.008
+\n
+\n		Matsuda N., Sato S., Shiba K. et al. (2010) PINK1 stabilized by mitochondrial depolarization recruits Parkin to damaged mitochondria and activates latent Parkin for mitophagy. J. Cell Biol. 189, 211–221. doi:10.1083/jcb.200910140.
+\n
+\n		Meimaridou E., Gooljar S. B. and Chapple J. P. (2009) From hatching to dispatching: the multiple cellular roles of the Hsp70 molecular chaperone machinery. J. Mol. Endocrinol. 42, 1–9. doi:10.1677/jme-08-0116.
+\n
+\n		Meissner C., Lorenz H., Weihofen A., Selkoe D. J. and Lemberg M. K. (2011) The mitochondrial intramembrane protease PARL cleaves human Pink1 to regulate Pink1 trafficking. J. Neurochem. 117, 856–867. doi:10.1111/j.1471-4159.2011.07253.x.
+\n
+\n		Micheli V., Camici M., Tozzi M. G., Ipata P. L., Sestini S., Bertelli M. and Pompucci G. (2011) Neurological disorders of purine and pyrimidine metabolism. Curr. Top. Med. Chem. 11, 923–947.
+\n
+\n		Miura T., Nishinaka T. and Terada T. (2008) Different functions between human monomeric carbonyl reductase 3 and carbonyl reductase 1. Mol. Cell. Biochem. 315, 113–121. doi:10.1007/s11010-008-9794-5.
+\n
+\n		Morais V. A., Verstreken P., Roethig A. et al. (2009) Parkinson's disease mutations in PINK1 result in decreased Complex I activity and deficient synaptic function. EMBO Mol. Med. 1, 99–111. doi:10.1002/emmm.200900006.
+\n
+\n		Morais V. A., Haddad D., Craessaerts K. et al. (2014) PINK1 loss-of-function mutations affect mitochondrial complex I activity via NdufA10 ubiquinone uncoupling. Science 344, 203–207. doi:10.1126/science.1249161.
+\n
+\n		Mukai H., Toshimori M., Shibata H., Kitagawa M., Shimakawa M., Miyahara M., Sunakawa H. and Ono Y. (1996) PKN associates and phosphorylates the head-rod domain of neurofilament protein. J. Biol. Chem. 271, 9816–9822.
+\n
+\n		Murata H., Sakaguchi M., Jin Y., Sakaguchi Y., Futami J., Yamada H., Kataoka K. and Huh N. H. (2011) A new cytosolic pathway from a Parkinson disease-associated kinase, BRPK/PINK1: activation of AKT via mTORC2. J. Biol. Chem. 286, 7182–7189. doi:10.1074/jbc.M110.179390.
+\n
+\n		Nairn A. C. and Palfrey H. C. (1987) Identification of the major Mr 100,000 substrate for calmodulin-dependent protein kinase III in mammalian cells as elongation factor-2. J. Biol. Chem. 262, 17299–17303.
+\n
+\n		Narendra D. P., Jin S. M., Tanaka A., Suen D. F., Gautier C. A., Shen J., Cookson M. R. and Youle R. J. (2010) PINK1 is selectively stabilized on impaired mitochondria to activate Parkin. PLoS Biol. 8, e1000298. doi:10.1371/journal.pbio.1000298.
+\n
+\n		Nemani V. M., Lu W., Berge V., Nakamura K., Onoa B., Lee M. K., Chaudhry F. A., Nicoll R. A. and Edwards R. H. (2010) Increased expression of a-synuclein reduces neurotransmitter release by inhibiting synaptic vesicle reclustering after endocytosis. Neuron 65, 66–79. doi: http://dx.doi.org/10.1016/j.neuron.2009.12.023
+\n
+\n		Neuwald A. F. (1999) The hexamerization domain of N-ethylmaleimide-sensitive factor: structural clues to chaperone function. Structure 7, R19–R23.
+\n
+\n		van Oosten-Hawle P. and Morimoto R. I. (2014) Organismal proteostasis: role of cell-nonautonomous regulation and transcellular chaperone signaling. Genes Dev. 28, 1533–1543. doi:10.1101/gad.241125.114.
+\n
+\n		Oppermann U. (2007) Carbonyl reductases: the complex relationships of mammalian carbonyl- and quinone-reducing enzymes and their role in physiology. Annu. Rev. Pharmacol. Toxicol. 47, 293–322. doi:10.1146/annurev.pharmtox.47.120505.105316.
+\n
+\n		Pan T., Kondo S., Le W. and Jankovic J. (2008) The role of autophagy-lysosome pathway in neurodegeneration associated with Parkinson's disease. Brain 131, 1969–1978. doi:10.1093/brain/awm318.
+\n
+\n		Park J., Lee S. B., Lee S. et al. (2006) Mitochondrial dysfunction in Drosophila PINK1 mutants is complemented by parkin. Nature 441, 1157–1161. doi:10.1038/nature04788.
+\n		CrossRef | PubMed | CAS | Web of Science® Times Cited: 682 | ADS
+\n		Patt S., Gertz H. J., Gerhard L. and Cervos-Navarro J. (1991) Pathological changes in dendrites of substantia nigra neurons in Parkinson's disease: a Golgi study. Histol. Histopathol. 6, 373–380.
+\n		PubMed | Web of Science® Times Cited: 31
+\n		Pilsl A. and Winklhofer K. F. (2012) Parkin, PINK1 and mitochondrial integrity: emerging concepts of mitochondrial dysfunction in Parkinson's disease. Acta Neuropathol. 123, 173–188. doi:10.1007/s00401-011-0902-3.
+\n		CrossRef | PubMed | CAS | Web of Science® Times Cited: 45
+\n		Redeker V., Pemberton S., Bienvenut W., Bousset L. and Melki R. (2012) Identification of protein interfaces between alpha-synuclein, the principal component of Lewy bodies in Parkinson disease, and the molecular chaperones human Hsc70 and the yeast Ssa1p. J. Biol. Chem. 287, 32630–32639. doi:10.1074/jbc.M112.387530.
+\n		CrossRef | PubMed | CAS | Web of Science® Times Cited: 9
+\n		Ren T. J., Qiang R., Jiang Z. L., Wang G. H., Sun L., Jiang R., Zhao G. W. and Han L. Y. (2013) Improvement in regional CBF by L-serine contributes to its neuroprotective effect in rats after focal cerebral ischemia. PLoS ONE 8, e67044. doi: 10.1371/journal.pone.0067044
+\n		CrossRef | PubMed | Web of Science® Times Cited: 4 | ADS
+\n		Requejo-Aguilar R., Lopez-Fabuel I., Fernandez E., Martins L. M., Almeida A. and Bolanos J. P. (2014) PINK1 deficiency sustains cell proliferation by reprogramming glucose metabolism through HIF1. Nat. Commun. 5, 4514. doi:10.1038/ncomms5514.
+\n		CrossRef | PubMed | Web of Science® Times Cited: 2 | ADS
+\n		Robinson R. A., Joshi G., Huang Q., Sultana R., Baker A. S., Cai J., Pierce W., St Clair D. K., Markesbery W. R. and Butterfield D. A. (2011) Proteomic analysis of brain proteins in APP/PS-1 human double mutant knock-in mice with increasing amyloid beta-peptide deposition: insights into the effects of in vivo treatment with N-acetylcysteine as a potential therapeutic intervention in mild cognitive impairment and Alzheimer's disease. Proteomics 11, 4243–4256. doi:10.1002/pmic.201000523.
+\n		Wiley Online Library | PubMed | CAS | Web of Science® Times Cited: 10
+\n		Samann J., Hegermann J., von Gromoff E., Eimer S., Baumeister R. and Schmidt E. (2009) Caenorhabditits elegans LRK-1 and PINK-1 act antagonistically in stress response and neurite outgrowth. J. Biol. Chem. 284, 16482–16491. doi:10.1074/jbc.M808255200.
+\n		CrossRef | PubMed | CAS | Web of Science® Times Cited: 1
+\n		Sculley D. G., Dawson P. A., Emmerson B. T. and Gordon R. B. (1992) A review of the molecular basis of hypoxanthine-guanine phosphoribosyltransferase (HPRT) deficiency. Hum. Genet. 90, 195–207.
+\n		CrossRef | PubMed | CAS | Web of Science® Times Cited: 93
+\n		Shinkai-Ouchi F., Yamakawa Y., Hara H., Tobiume M., Nishijima M., Hanada K. and Hagiwara K. (2010) Identification and structural analysis of C-terminally truncated collapsin response mediator protein-2 in a murine model of prion diseases. Proteome Sci. 8, 53. doi:10.1186/1477-5956-8-53.
+\n		PubMed | Web of Science® Times Cited: 2
+\n		Shoshan-Barmatz V. and Gincel D. (2003) The voltage-dependent anion channel. Cell Biochem. Biophys. 39, 279–292. doi:10.1385/cbb:39:3:279.
+\n		CrossRef | PubMed | CAS | Web of Science® Times Cited: 96
+\n		Smith P. K., Krohn R. I., Hermanson G. T., Mallia A. K., Gartner F. H., Provenzano M. D., Fujimoto E. K., Goeke N. M., Olson B. J. and Klenk D. C. (1985) Measurement of protein using bicinchoninic acid. Anal. Biochem. 150, 76–85.
+\n		CrossRef | PubMed | CAS | Web of Science® Times Cited: 16148
+\n		Spillane M., Ketschek A., Donnelly C. J., Pacheco A., Twiss J. L. and Gallo G. (2012) Nerve growth factor-induced formation of axonal filopodia and collateral branches involves the intra-axonal synthesis of regulators of the actin-nucleating Arp2/3 complex. J. Neurosci. 32, 17671–17689. doi:10.1523/JNEUROSCI.1079-12.2012.
+\n		CrossRef | PubMed | CAS | Web of Science® Times Cited: 21
+\n		Sultana R., Boyd-Kimball D., Poon H. F., Cai J., Pierce W. M., Klein J. B., Merchant M., Markesbery W. R. and Butterfield D. A. (2006) Redox proteomics identification of oxidized proteins in Alzheimer's disease hippocampus and cerebellum: an approach to understand pathological and biochemical alterations in AD. Neurobiol. Aging 27, 1564–1576. doi:10.1016/j.neurobiolaging.2005.09.021.
+\n		CrossRef | PubMed | CAS | Web of Science® Times Cited: 164
+\n		Sultana R., Boyd-Kimball D., Cai J., Pierce W. M., Klein J. B., Merchant M. and Butterfield D. A. (2007) Proteomics analysis of the Alzheimer's disease hippocampal proteome. J. Alzheimers Dis. 11, 153–164.
+\n		PubMed | Web of Science® Times Cited: 118
+\n		Sun Y., Vashisht A. A., Tchieu J., Wohlschlegel J. A. and Dreier L. (2012) Voltage-dependent anion channels (VDACs) recruit Parkin to defective mitochondria to promote mitochondrial autophagy. J. Biol. Chem. 287, 40652–40660. doi:10.1074/jbc.M112.419721.
+\n		CrossRef | PubMed | CAS | Web of Science® Times Cited: 42
+\n		Surmeier D. J., Guzman J. N., Sanchez-Padilla J. and Schumacker P. T. (2011) The role of calcium and mitochondrial oxidant stress in the loss of substantia nigra pars compacta dopaminergic neurons in Parkinson's disease. Neuroscience 198, 221–231. doi:10.1016/j.neuroscience.2011.08.045.
+\n		CrossRef | PubMed | CAS | Web of Science® Times Cited: 51
+\n		Sutton M. A., Taylor A. M., Ito H. T., Pham A. and Schuman E. M. (2007) Postsynaptic decoding of neural activity: eEF2 as a biochemical sensor coupling miniature synaptic transmission to local protein synthesis. Neuron 55, 648–661. doi: http://dx.doi.org/10.1016/j.neuron.2007.07.030
+\n		CrossRef | PubMed | CAS | Web of Science® Times Cited: 105
+\n		Takahashi N., Hayano T. and Suzuki M. (1989) Peptidyl-prolyl cis-trans isomerase is the cyclosporin A-binding protein cyclophilin. Nature 337, 473–475. doi:10.1038/337473a0.
+\n
+\n		Tan M., Ma S., Huang Q., Hu K., Song B. and Li M. (2013) GSK-3alpha/beta-mediated phosphorylation of CRMP-2 regulates activity-dependent dendritic growth. J. Neurochem. 125, 685–697. doi:10.1111/jnc.12230.
+\n
+\n		Tansey M. G. and Goldberg M. S. (2010) Neuroinflammation in Parkinson's disease: its role in neuronal death and implications for therapeutic intervention. Neurobiol. Dis. 37, 510–518. doi:10.1016/j.nbd.2009.11.004.
+\n
+\n		Theiss A. L. and Sitaraman S. V. (2011) The role and therapeutic potential of prohibitin in disease. Biochim. Biophys. Acta 1813, 1137–1143. doi:10.1016/j.bbamcr.2011.01.033.
+\n
+\n		Thongboonkerd V., McLeish K. R., Arthur J. M. and Klein J. B. (2002) Proteomic analysis of normal human urinary proteins isolated by acetone precipitation or ultracentrifugation. Kidney Int. 62, 1461–1469. doi:10.1111/j.1523-1755.2002.kid565.x.
+\n
+\n		Tian L., McClafferty H., Knaus H. G., Ruth P. and Shipston M. J. (2012) Distinct acyl protein transferases and thioesterases control surface expression of calcium-activated potassium channels. J. Biol. Chem. 287, 14718–14725. doi:10.1074/jbc.M111.335547.
+\n
+\n		Tufi R., Gandhi S., de Castro I. P. et al. (2014) Enhancing nucleotide metabolism protects against mitochondrial dysfunction and neurodegeneration in a PINK1 model of Parkinson's disease. Nat. Cell Biol. 16, 157–166. doi:10.1038/ncb2901.
+\n
+\n		Twelves D., Perkins K. S. M. and Counsell C. (2003) Systematic review of incidence studies of Parkinson's disease. Mov. Disord. 18, 19–31. doi:10.1002/mds.10305.
+\n
+\n		Valente E. M., Abou-Sleiman P. M., Caputo V. et al. (2004) Hereditary early-onset Parkinson's disease caused by mutations in PINK1. Science 304, 1158–1160. doi:10.1126/science.1096284.
+\n
+\n		Van Laar V. S. and Berman S. B. (2013) The interplay of neuronal mitochondrial dynamics and bioenergetics: implications for Parkinson's disease. Neurobiol. Dis. 51, 43–55. doi:10.1016/j.nbd.2012.05.015.
+\n
+\n		Varcin M., Bentea E., Michotte Y. and Sarre S. (2012) Oxidative stress in genetic mouse models of Parkinson's disease. Oxid. Med. Cell. Longev. 2012, 624925. doi:10.1155/2012/624925.
+\n
+\n		Whiteheart S. W., Rossnagel K., Buhrow S. A., Brunner M., Jaenicke R. and Rothman J. E. (1994) N-ethylmaleimide-sensitive fusion protein: a trimeric ATPase whose hydrolysis of ATP is required for membrane fusion. J. Cell Biol. 126, 945–954.
+\n
+\n		Whiteheart S. W., Schraw T. and Matveeva E. A. (2001) N-Ethylmaleimide sensitive factor NSF structure and function. Int. Rev. Cytol. 207, 71–112.
+\n
+\n		Xia Z. and Storm D. R. (2005) The role of calmodulin as a signal integrator for synaptic plasticity. Nat. Rev. Neurosci. 6, 267–276. doi:10.1038/nrn1647.
+\n
+\n		Xu X., Zhao J., Xu Z., Peng B., Huang Q., Arnold E. and Ding J. (2004) Structures of human cytosolic NADP-dependent isocitrate dehydrogenase reveal a novel self-regulatory mechanism of activity. J. Biol. Chem. 279, 33946–33957. doi:10.1074/jbc.M404298200.
+\n
+\n		Yamano K. and Youle R. J. (2013) PINK1 is degraded through the N-end rule pathway. Autophagy 9, 1758–1769. doi:10.4161/auto.24633.
+\n
+\n		Yang E. S. and Park J. W. (2011) Knockdown of cytosolic NADP(+) -dependent isocitrate dehydrogenase enhances MPP(+) -induced oxidative injury in PC12 cells. BMB Rep. 44, 312–316. doi: 10.5483/BMBRep.2011.44.5.312
+\n
+\n		Yao Z., Gandhi S., Burchell V. S., Plun-Favreau H., Wood N. W. and Abramov A. Y. (2012) Cell metabolism affects selective vulnerability in PINK1-associated Parkinson's disease. J. Cell Sci.. doi:10.1242/jcs.088260.
+\n
+\n		Yuan X. L., Guo J. F., Shi Z. H., Xiao Z. Q., Yan X. X., Zhao B. L. and Tang B. S. (2010) R492X mutation in PTEN-induced putative kinase 1 induced cellular mitochondrial dysfunction and oxidative stress. Brain Res. 1351, 229–237. doi:10.1016/j.brainres.2010.06.005.
+\n
+\n		Zhou T. B. and Qin Y. H. (2013) Signaling pathways of prohibitin and its role in diseases. J. Recept. Signal Transduct. Res. 33, 28–36. doi:10.3109/10799893.2012.752006.
+\n
+\n		Zhou Z. D., Refai F. S., Xie S. P., Ng S. H., Chan C. H., Ho P. G., Zhang X. D., Lim T. M. and Tan E. K. (2014) Mutant PINK1 upregulates tyrosine hydroxylase and dopamine levels, leading to vulnerability of dopaminergic neurons. Free Radic. Biol. Med. 68, 220–233. doi:10.1016/j.freeradbiomed.2013.12.015.
+\n
+\n		Zhu J. H., Kulich S. M., Oury T. D. and Chu C. T. (2002) Cytoplasmic aggregates of phosphorylated extracellular signal-regulated protein kinases in Lewy body diseases. Am. J. Pathol. 161, 2087–2098. doi:10.1016/S0002-9440(10)64487-2.
+\n
+\n		Zhu J. H., Guo F., Shelburne J., Watkins S. and Chu C. T. (2003) Localization of phosphorylated ERK/MAP kinases to mitochondria and autophagosomes in Lewy body diseases. Brain Pathol. 13, 473–481.
+
+
   `
-
-
 
 }
 
