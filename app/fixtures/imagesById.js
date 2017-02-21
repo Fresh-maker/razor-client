@@ -2,25 +2,29 @@ const IMAGES_BY_PAPER_ID = [
   {
     id: 9,
     directory: 'paper1',
-    images: [
+    imageNames: [
+      'fig1.png'
     ]
   },
   {
     id: 4,
     directory: 'paper2',
-    images: [
+    imageNames: [
+      'fig1.png'
     ]
   },
   {
     id: 6,
     directory: 'paper3',
-    images: [
+    imageNames: [
+      'fig1.png'
     ]
   },
   {
     id: -1,
     directory: 'paper4',
-    images: [
+    imageNames: [
+      'fig1.png'
     ]
   },
 ]
