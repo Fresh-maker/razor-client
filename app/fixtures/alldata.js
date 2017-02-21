@@ -38,11 +38,11 @@ const ALL_DATA = [
     title: "Targeted Overexpression of α-Synuclein by rAAV2/1 Vectors Induces Progressive Nigrostriatal Degeneration and Increases Vulnerability to MPTP in Mouse",
     previewText: "Fig 1. Overexpression of α-syn in the SNpc after rAAV-α-syn transduction. Western blotting showed a significant expression of <b>human-α-syn</b> in HEK293 cells 96 hours after transduction (A). The position of SNpc was indicated (B) and TH positive staining (Red) indicated a loss of DA neurons in the SNpc 8 weeks after rAAV-α-syn injection, however, the co-staining of <<b>>human-αsyn (Green)</<b>> was also observed in the existing DA neurons (I-K). The overexpression of GFP was also detected in TH-positive neurons in the SNpc after rAAV2/1-GFP injection (F-H). And no <<b>>α-syn staining</<b>> was observed in the none-injected mouse (C-E). TH staining confirmed no loss of DA neurons in GFP and none injected group. <b>Antibody against human α-syn was used (CST)</b>. Scale bar: 100μm.",
     authors: [
-      'TODO - TBD'
+      'Lian-Kun Song1', 'Kai-Li Ma1','3', 'Yu-He Yuan1', 'Zheng Mu1', 'Xiu-Yun Song1', 'Fei Niu1', 'Ning Han1', 'Nai-Hong Chen1,2'
     ],
     year: "",
     journal: "",
-    fullText: FULLTEXT_BY_ID[0],
+    fullText: FULLTEXT_BY_ID[9],
   },
   {
     id: 5,
@@ -102,22 +102,22 @@ const ALL_DATA = [
     title: "nDepletion of PINK1 affects mitochondrial metabolism, calcium homeostasis and energy maintenance",
     previewText: "First, we induced stable <b>knockdown</b> (KD) of <b>PINK1</b> in mouse neuroblastoma (N2a) cells and in primary mouse embryonic fibroblasts (MEFs) using two lentiviral vectors (LVs) expressing a <b>miRNA</b>30- based short-hairpin sequence (sh1PINK1 or sh2PINK1) against mouse <b>Pink1</b>. LV-sh1PINK1 and LV-sh2<b>PINK1</b> decreased levels of <b>Pink1</b> mRNA in selected cells by ~70% and ~85%, respectively (supplementary material Fig. S1A,B).  *note and part ( A and B) of figure supp1 (red marked part, will need to be cut out from supp fig 1 - saved in folder use case 2 paper 2* • Fig. S1. Generation and validation of RNAi-mediated knockdown and knockout of <b>PINK1</b> in mouse cells. (A,B). Transduction of mouse N2a cells (A) and primary MEFs (B) with LV- sh1<b>PINK1</b> and LV-sh2<b>PINK1</b> resulted in stable knockdown, as shown via Q-PCR. As a control, non transduced cells, cells only expressing the blasticidin resistance gene and cells transduced with the <b>sh1PINK1</b> mismatch were used. All data were normalized to the housekeeping gene GAPDH and expressed as percentage of blasticidin control.",
     authors: [
-      'TBD'
+       'Bavo Heeman', 'Chris Van den Haute', 'Sarah-Ann Aelvoet', 'Federica Valsecchi','Richard J. Rodenburg', 'Veerle Reumers', 'Zeger Debyser', 'Geert Callewaert', 'Werner J. H. Koopman', 'Peter H. G. M. Willems', 'Veerle Baekelandt'
     ],
     year: "",
     journal: "",
-    fullText: FULLTEXT_BY_ID[0],
+    fullText: FULLTEXT_BY_ID[7],
   },
   {
     id: 9,
     title: "Viral vectors expressing a single microRNA-based short-hairpin RNA result in potent gene silencing in vitro and in vivo",
     previewText: "Fig.5. Single and double <b>miR</b>-based <b>AAV</b> vectors mediate efficient TH <b>knockdown</b> in mouse SN.  (A)Schematic representation of the single and double <b>miR-based AAVvectors</b>. (B) Immunohistochemical staining for TH in sections of animals injected with the indicated AAV vectors. Scale bar = 250 m. (C) Confocal microscopic images demonstrate labeling for eGFP (green), TH (red) and DAT (blue) proteins and the merged panels (bottom) for the sides injected with the indicated vectors. Note that all constructs contain eGFP to allow demonstration of transgene expression. Scale bar = 200 m. (D) Stereological quantification of the number of TH positive neurons in SN at 4 weeks post-injection relative to the non-injected side (n = 5). Averages and SEM in C result from the following number of animals: AAV-eGFP, n = 5; AAV-miRCNTRL, n = 5; AAV-(miRCNTRL)2 , n = 4; AAV-miRTH, n = 5; AAV-(miRTH)2 , n = 5. In B and C sections from the non-injected side of AAV-(miRTH)2 were included as control. SN, substantia nigra; TH, tyrosine hydroxylase; DAT, dopamine transporter; WPRE, woodchuck posttranscriptional regulatory element. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of the article.)",
     authors: [
-      'TBD'
+      'Marusela Oliveras-Salvá', 'Francesca Macchi', 'Valérie Coessens', 'Angélique Deleersnijder', 'Melanie Gérard', 'Anke Van der Perren', 'Chris Van den Hautea','Veerle Baekelandta'
     ],
     year: "",
     journal: "",
-    fullText: FULLTEXT_BY_ID[0],
+    fullText: FULLTEXT_BY_ID[8]
   },
 ]
 
