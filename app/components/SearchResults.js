@@ -12,7 +12,7 @@ class SearchResults extends Component {
         return allTerms.filter(
           (el)=>(el.title + ' ' + el.previewText).indexOf(currentSearch) > -1
         ).map(
-          (el)=><SearchResultItem currentSearch={currentSearch} key={el.id} {...el}></SearchResultItem>)
+          (el)=><div><SearchResultItem currentSearch={currentSearch} key={el.id} {...el}></SearchResultItem><br/></div>)
     }
     const filteredResults = getFilteredResults(ALL_DATA);
     return (

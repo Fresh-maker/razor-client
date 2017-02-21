@@ -1,4 +1,5 @@
 const FULLTEXT_BY_ID = {
+  0:`Article not yet imported`,
   1:`# Efficient Generation of A9 Midbrain Dopaminergic Neurons by Lentiviral Delivery of LMX1A in Human Embryonic Stem Cells and Induced Pluripotent Stem Cells
 \n
 \n###  A. Sánchez-Dane, A. Consiglio, Y. Richaud, I. Rodrıguez-Piza, B.Dehay M. Edel, Bové M. Memo, M. Vila, A. Raya, and J.C.Izpisua Belmonte
