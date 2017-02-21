@@ -6,8 +6,7 @@ import SearchResultItem from './SearchResultItem.js'
 
 class SearchResults extends Component {
   render() {
-    console.log('p: ',this.props);
-    const { currentSearch } = this.props;
+    const { currentSearch, facets } = this.props;
     const getFilteredResults = function(allTerms){
         return allTerms.filter(
           (el)=>(el.title.toLowerCase() + ' ' + el.previewText.toLowerCase()).indexOf(currentSearch.toLowerCase()) > -1
@@ -17,6 +16,7 @@ class SearchResults extends Component {
     const filteredResults = getFilteredResults(ALL_DATA);
     return (
       <div className="searchResults">
+      f: {facets.journal && facets.journal.length }
         {filteredResults}
       </div>
     );

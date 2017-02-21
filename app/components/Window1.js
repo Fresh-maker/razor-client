@@ -9,7 +9,7 @@ import FacetPage from '../containers/FacetPage.js';
 
 class Window1 extends Component {
   render() {
-    const { currentSearch, updateSearch } = this.props;
+    const { currentSearch, facets, updateSearch } = this.props;
     return (
       <div>
       <div className="row">
@@ -17,10 +17,10 @@ class Window1 extends Component {
       </div>
 
       <div className="row">
-        <p>Window1</p>
+        <p> Window1</p>
       </div>
       <div className="row">
-        <div className="eight columns"> <SearchResults currentSearch={currentSearch}> </SearchResults> </div>
+        <div className="eight columns"> <SearchResults currentSearch={currentSearch} facets={facets}> </SearchResults> </div>
         <div className="four columns"> <FacetPage /> </div>
       </div>
 
