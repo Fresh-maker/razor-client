@@ -21,7 +21,6 @@ h2 {
 
 p {
   font-size: 24px;
-  color: rgb(240,230,140);
 }
 
 li {
@@ -46,18 +45,19 @@ a:hover {
 }
 
 .lookup{
-    float: left;
-    width: 480px;
-    text-overflow: clip;
-border:none !important;
-background-color: black;
- font-size:24px;
- font-style: normal;
+  float: left;
+  width: 783px;
+  text-overflow: clip;
+  border:none !important;
+  background-color: black;
+  font-size:24px;
+  font-style: normal;
 
 }
 
 .navBar .green{
-   background-color: #059c09;
+  background-color: #059c09;
+
 }
 
 .fullDetails {
@@ -71,4 +71,28 @@ background-color: black;
 
 b {
   color:#ff4d4d !important;
+}
+.facets{
+  border: 3px solid  rgba(143, 143, 143, 0.4);
+  padding: 30px;
+  margin: 15px;
+  width: inherit;
+  height: 700px;
+}
+h1 {
+  font-size: 24px;
+  color:turquoise
+}
+
+.fullDetails h2 {
+  font-size: 1em;
+  color:#ffcc00
+}
+
+.fullDetails h3 {
+  font-size: 1em;
+  color:lightgray
+}
+.fullDetails p {
+  font-size: 1em;
 }

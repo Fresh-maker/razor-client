@@ -12,13 +12,13 @@ class SearchResultItem extends Component {
       color:'turquoise'
     }
     const authorStyle= {
-      color:'#ffcc00'
+      color:'rgb(240,230,140)'
     }
     const previewStyle= {
       color:'gray'
     }
     const yearStyle= {
-      color:'blue'
+      color:'lightblue'
     }
     return (
       <div key={id} className="searchResultItem" >

@@ -31,9 +31,12 @@ export default class Home extends Component {
       <div >
         <div className="home-page">
           <div className="styles.container">
+              <div className="row"> Hit &lt;HELP&gt; for more info,  &lt;MENU&gt; for list of Similar functions, &lt;HIST&gt; for last actions    </div>
             <div className="row">
               <div className="navBar">
-                <button className="button-primary green">History</button>
+                  <button className="button-primary green">HELP</button>
+                    <button className="button-primary green">MENU</button>
+                <button className="button-primary green">HIST</button>
                 <button className="button-primary margin">Peop</button>
                 <button className="button-primary ">Anti</button>
                 <button className="button-primary margin" >Mthd</button>

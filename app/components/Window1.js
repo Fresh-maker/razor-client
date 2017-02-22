@@ -17,7 +17,7 @@ class Window1 extends Component {
       </div>
 
       <div className="row">
-        <p> Window1</p>
+        <p>RESULTS</p>
       </div>
       <div className="row">
         <div className="eight columns"> <SearchResults currentSearch={currentSearch} facets={facets}> </SearchResults> </div>
