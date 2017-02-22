@@ -19,7 +19,7 @@ export default class Home extends Component {
     //const { modalIsOpen, closeModal } =
     const { modal, showModal, toggleModal } = this.props;
     const closeModal= function(){alert('close')};
-    const customStyles= { border: '1px solid salmon' };
+    const customStyles= { backgroundColor:'#222' };
     const currentModal = 'history';
     let currentModalJSX = (<div></div>)
     if(currentModal === 'history'){
@@ -51,7 +51,7 @@ export default class Home extends Component {
               isOpen={modal.isOpen}
               onRequestClose={closeModal}
               style={customStyles}
-              contentLabel="Example Modal"
+              contentLabel="Razor"
             >
               <h2 ref="subtitle">Hello</h2>
               { currentModalJSX }

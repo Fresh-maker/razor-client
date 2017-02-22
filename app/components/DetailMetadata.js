@@ -13,15 +13,12 @@ class DetailMetadata extends Component {
   render() {
     const { paperId } = this.props;
     const { imageNames, directory }  = indexedImages[+paperId];
-    console.log('i,',imageNames);
     return (
       <div className="detailMetadata four columns">
       <div className="row">
         <p>Text Details</p>
-            //<img style={{width:'40px'}} src={`../resources/figures/${directory}/${imageName}.png`}/>
         {
           imageNames.map(function(imageName){
-            console.log('image',imageName);
             return (<p key={directory+ '/' + imageName}>{imageName}</p>)
           })
         }
