@@ -19,7 +19,7 @@ class DetailMetadata extends Component {
         <p>Text Details</p>
         {
           imageNames.map(function(imageName){
-            return (<p key={directory+ '/' + imageName}>{imageName}</p>)
+            return (<a key={directory+ '/' + imageName} target="_new" href={`../resources/figures/${directory}/${imageName}`}><p key={directory+ '/' + imageName}>{imageName}</p></a>)
           })
         }
       </div>
