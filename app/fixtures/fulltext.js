@@ -142,7 +142,1047 @@ const FULLTEXT_BY_ID = {
 \n## FIG. 6. LMX1A enhances generation of midbrain DA neurons in iPSC.
 \n(a, g) NPCs from iPS.NES.LMX1A.GFP contain more LMX1A-positive cells than those from iPS.NES.GFP. (b, h) Cells at Stage 3 coexpressed TUJ1 and TH. Higher magnification images (c–e, i–k) showed extensive presence of TH-positive cells in iPS.NES.LMX1A.GFP compared with iPS.NES.GFP. (f, l) TH and DAT immunocytochemistry performed at the same stage of differentiation. (m) qPCR analysis presenting a decrease in the expression levels of NANOG as the differentiation occurred in both lines. Higher levels of expression of NURR1 (n) and EN1 (o) are evident in iPS.NES.LMX1A.GFP than in iPS.NES.GFP. (p) Markedly higher expression of TH in iPS.NES.LMX1A.GFP in relation to iPS.NES.GFP. (q) Quantification of the neuronal and dopaminergic yield at Stage 3. The staining of TUJ1 is *55% in both lines. Approximately 40% of the neurons are labeled with TH in iPS.NES.GFP, and this value increases to 65% in iPS.NES.LMX1A.GFP. (r) Immunocytochemical analysis for the presynaptic-specific marker synaptophysin (SYP, red channel) and TH (green channel); the area indicated with an arrowhead is shown in the inset at higher magnification. (s) Release of DA after treatment with high potassium concentration is found in differentiated DA neurons from iPS.NES.LMX1A.GFP. In all experiments, n = 3. *p < 0.05. Scale bar = 50 lm. Color images available online at www.liebertonline.com/hum
 `,
-  2: `2`,
+  2: `# Alterations in axonal transport motor proteins in sporadic and experimental Parkinson’s disease
+\n## Yaping Chu, Gerardo A. Morfini, Lori B. Langhamer, Yinzhen He, Scott T. Brady and Jeffrey H. Kordower
+\n
+\nDepartment of Neurological Sciences, Rush University Medical Centre, Chicago, IL 60612, USA, Department of Anatomy and Cell Biology, University of Illinois at Chicago, Chicago, IL 60612, USA
+\n
+\nE-mail: Jeffrey_Kordower@rush.edu
+\n
+\nThe progressive loss of the nigrostriatal pathway is a distinguishing feature of Parkinson’s disease. As terminal field loss seems to precede cell body loss, we tested whether alterations of axonal transport motor proteins would be early features in
+\nParkinson’s disease. There was a decline in axonal transport motor proteins in sporadic Parkinson’s disease that preceded other well-known nigral cell-related pathology such as phenotypic downregulation of dopamine. Reductions in conventional kinesin levels precede the alterations in dopaminergic phenotypic markers (tyrosine hydroxylase) in the early stages of Parkinson’s disease. This reduction was significantly greater in nigral neurons containing a-synuclein inclusions. Unlike conventional kinesin, reductions in the levels of the cytoplasmic dynein light chain Tctex type 3 subunit were only observed at late Parkinson’s disease stages. Reductions in levels of conventional kinesin and cytoplasmic dynein subunits were recapitulated in a rat genetic Parkinson’s disease model based on over-expression of human mutant a-synuclein (A30P). Together, our data
+\nsuggest that a-synuclein aggregation is a key feature associated with reductions of axonal transport motor proteins in Parkinson’s disease and support the hypothesis that dopaminergic neurodegeneration following a ‘dying-back’ pattern involving
+\naxonal transport disruption.
+\n
+\n## Keywords: conventional kinesin; cytoplasmic dynein; axonal neuropathies; -synuclein; Parkinson’s disease
+\n
+\n## Abbreviations: DYNLT3 = dynein light chain Tctex type 3; KHC = kinesin heavy chain; KLC1 = kinesin light chain 1; rAAV = recombinant adeno-associated virus
+\ndoi:10.1093/brain/aws133 Brain 2012: 135; 2058–2073 | 2058
+\n
+\n# Introduction
+\nDisruptions in axonal transport represent early pathogenic features
+\nin neurodegeneration and may cause disease progression in a
+\nnumber of neurodegenerative diseases including Parkinson’s disease
+\n(Roy et al., 2005; Morfini et al., 2009). Accordingly, pathological
+\nstudies identified axonal enlargements and aberrant
+\naccumulations of organelle cargos in Parkinson’s disease brains
+\n(Chung et al., 2009). Further, nigrostriatal dopaminergic neurons
+\naffected in Parkinson’s disease follow a ‘dying back’ pattern of
+\ndegeneration that is consistent with alteration in axonal transport
+\n(Iseki et al., 2001; Raff et al., 2002; Morfini et al., 2009).
+\nalpha-synuclein (-synuclein) is a synaptic protein of unknown
+\nfunction that mainly localizes to termini (Lykkebo and Jensen, 2002) and
+\naccumulates in Lewy bodies and Lewy neurites characteristic
+\nof cases with idiopathic, sporadic Parkinson’s disease.
+\nSignificantly, several mutations in -synuclein, as well as increased
+\ngenetic doses of -synuclein, lead to familial forms of Parkinson’s
+\ndisease, suggesting a critical role of -synuclein in sporadic
+\nParkinson’s disease pathogenesis (Dauer and Przedborski, 2003).
+\nIt is assumed that -synuclein modulates various physiological
+\nfunctions in the presynaptic compartment, such as regulating
+\nthe activity of the dopamine transporter or fine-tuning neurotransmitter
+\nrelease (Madine et al., 2006). Experimental evidence
+\nsuggests that both mutations and over-expression of
+\n-synuclein might lead to axonal transport defects. For example,
+\nviral over-expression of mutant A53T -synuclein in rats induced
+\ndystrophic axons and alterations in axonal transport that
+\npreceded neuronal loss (Chung et al., 2009). Also, mild
+\nover-expression of -synuclein in cultured hippocampal neurons
+\npromotes reductions in the levels of synaptic proteins at
+\npresynaptic terminals, a phenomenon termed ‘vacant synapses’
+\n(Scott et al., 2010). These and other studies linked alterations in
+\naxonal transport to familial Parkinson’s disease pathogenesis,
+\nbut the relevance of these findings to sporadic Parkinson’s disease
+\nremains unknown.
+\nOur recent studies indicate that accumulation of perikaryal
+\n-synuclein aggregates in sporadic Parkinson’s disease and familial
+\nParkinson’s disease models is associated with a loss of dopamine
+\nphenotype (Chu et al., 2006), as well as disruptions in both lysosomal
+\nand proteosomal functions (Chu et al., 2009). Accumulation
+\nand aggregation of -synuclein also correlates with reduced levels
+\nof myocyte enhancer factor 2D (MEF2D), a protein that plays an
+\nimportant role in synapse formation and maintenance (Flavell
+\net al., 2006, 2008; Chu et al., 2011).
+\nWhether disease-associated -synuclein inclusions are associated
+\nwith axonal transport alterations needs to be investigated in the
+\nParkinson’s disease brain. To evaluate this possibility, our study
+\ndetermined the relative levels of critical motor protein subunits
+\nin early and late Parkinson’s disease, compared with age-matched
+\ncontrols. Immunohistochemical analysis helped establish (i)
+\nwhether axonal transport proteins are altered in remaining
+\nneuromelanin-laden nigral neurons; (ii) whether reductions in
+\naxonal transport proteins precede and exceed reductions in dopaminergic
+\nmarkers and (iii) whether reductions of axonal transport
+\nproteins are associated with -synuclein inclusion formation in
+\nnigral neurons. In addition, we also over-expressed -synuclein
+\nin the rodent substantia nigra and performed similar assessments
+\nin this rodent model of Parkinson’s disease. Results from these
+\nstudies suggest that abnormalities in axonal transport motor proteins
+\nrepresent an early degenerative event in both familial and
+\nsporadic Parkinson’s disease.
+\n
+\n# Materials and methods
+\n## Human tissue acquisition and processing
+\nTo first establish the quality of the human tissue (both control and
+\nParkinson’s disease), we immunostained sections from each case using
+\na monoclonal anti-tyrosine hydroxylase antibody that consistently
+\nyields well-established immunostaining patterns in hypothalamus.
+\nCases in which brain tissue demonstrated weak tyrosine hydroxylase
+\nimmunoreactivity in hypothalamic dopaminergic neurons in arcuate
+\nnucleus and periventricular nucleus were excluded from the study.
+\nWe analysed tissues from 25 subjects with clinical and neuropathological
+\ndiagnoses of Parkinson’s disease (n = 16) and age-matched
+\ncontrols (n = 9). According to Hoehn and Yahr (1967; OFF medication)
+\nscores, cases with Parkinson’s disease were divided into early
+\n(Hoehn and Yahr 1–2; n = 6) and late Parkinson’s disease (Hoehn
+\nand Yahr 3–5; n = 10) stages. There were no differences in age at
+\nthe time of death (P40.05) or post-mortem interval (P40.05)
+\namong the three groups examined (Table 1). All patients with
+\nParkinson’s disease were diagnosed by movement disorder specialists
+\nin the Section of Movement Disorders in the Department of
+\nNeurological Sciences at Rush University Medical Centre.
+\nPost-mortem, a board-certified neuropathologist at Rush University
+\nMedical Centre confirmed the clinical diagnosis. For Parkinson’s disease,
+\ninclusion criteria included a history compatible with idiopathic
+\nParkinson’s disease and at least two of the four cardinal motor signs
+\n(rest tremor, rigidity, akinesia/bradykinesia and gait disturbance/postural
+\nreflex impairment). The Unified Parkinson’s Disease Rating Scale
+\n3 (UPDRS3 ON and OFF medication) and Hoehn and Yahr (ON and
+\nOFF medication) were recorded. The pathological diagnosis was based
+\non finding Lewy bodies in catecholamine nuclei such as the substantia
+\nnigra. Exclusion criteria included familial Parkinson’s disease, the Lewy
+\nbody variant of Alzheimer’s disease or the combination of Parkinson’s
+\ndisease and Alzheimer’s disease. Age-matched control subjects were all
+\nparticipants in the Rush University Religious Order Study, a longitudinal
+\nclinical–pathological study of ageing and Alzheimer’s disease,
+\nwhich comprised older Catholic nuns, priests and brothers. Each participant
+\nreceived a clinical evaluation that included an assessment for
+\nmovement disorders. Details of the clinical evaluation were previously
+\nreported (Chu et al., 2006). Subjects without psychiatric illnesses
+\nduring life and neurological abnormalities at post-mortem were
+\nincluded in the control group. The Human Investigation Committee
+\nat Rush University Medical Centre approved this study. At autopsy,
+\nthe brains were removed from the calvarium and processed as
+\ndescribed previously (Chu et al., 2006). Briefly, each brain was cut
+\ninto 1 cm coronal slabs using a Plexiglas brain slice apparatus and
+\nthen hemisected. The slabs were fixed in 4% paraformaldehyde for
+\n48 h at 4C. The left-side brain slabs were used for pathological diagnoses.
+\nThe right-side brain slabs were cryoprotected in 0.1M PBS pH
+\n7.4 containing 2% dimethyl sulphoxide, 10% glycerol for 48 h followed
+\nby 2% dimethyl sulphoxide and 20% glycerol in PBS for at
+\nleast 2 days before sectioning. The fixed slabs were cut into 18 adjacent
+\nseries of 40 -mm-thick sections on a freezing sliding microtome.
+\nAll sections were collected and stored in a cryoprotectant solution
+\nbefore processing.
+\n
+\n## Injection of adeno-associated virus into rat brain.
+\n
+\nYoung adult Sprague–Dawley rats (both male and female; Charles
+\nRiver Laboratories) were housed two to a cage with ad libitum
+\naccess to food and water during a 12-h light/dark cycle; all animal
+\nexperiments were approved by the Rush University Institutional Animal
+\nCare and Use Committee. Recombinant adeno-associated virus (rAAV)
+\nserotype 6 vector encoding human mutant (A30P) -synuclein gene
+\n(rAAV-h-A30P) and green fluorescent protein gene (rAAV-GFP) were
+\nprepared and titred as described previously (Towne et al., 2008).
+\nUnder xylazine/ketamine anaesthesia, 2 ml of the vector suspension
+\nwas injected stereotaxically into the left nigral region (5.3mm posterior
+\nand 2.3mm lateral to bregma; 7.7mm ventral to dura). The needle
+\nwas kept in place for an additional 5 min before slowly
+\nbeing withdrawn. At 6 weeks after injection, animals (rAAV-h-A30P,
+\nn = 8; rAAV-GFP, n = 8) were perfused through the ascending aorta
+\nwith physiological saline, followed by 4% ice-cold paraformaldehyde.
+\nThe brains were post-fixed in the same solution for
+\n2 h, transferred to 10, 20 and 30% sucrose and sectioned on a freezing
+\nmicrotome at 40 mm in the coronal plane. All sections were collected
+\nand stored in order in a cryoprotectant solution before
+\nprocessing.
+\n
+\n## Antibodies
+\nSeveral antibodies that recognize axonal transport motor proteins,
+\ntyrosine hydroxylase and -synuclein were used (Table 2). To control
+\nfor antibody specificity, adsorption experiments were performed for
+\nkinesin heavy chain (KHC) and kinesin light chain 1 (KLC1) antibodies.
+\nBriefly, these antibodies were combined with a 5-fold volume (by
+\nweight) of blocking peptides (BP1575a for KHC, BP8637c for KLC1)
+\nseparately in Tris-buffered saline and incubated overnight at 4C. After
+\ncentrifugation at 10 000 rpm for 20 min, adsorbed antibodies were
+\nused in lieu of the primary antibody. Staining specificity was further
+\nconfirmed by omitting the primary antibody (which controls for the
+\nspecificity of the staining procedure) and replacement of the primary
+\nantibody with an irrelevant IgG matched for protein concentration. All
+\nthese control experiments resulted in a total absence of staining.
+\nFluorescence intensity measurements
+\nFluorescence intensity measurements were performed according to our
+\npreviously published procedures (Chu et al., 2006, 2009; Kanaan
+\net al., 2007). All immunofluorescence double-labelled images were
+\nscanned with an Olympus Confocal Fluoroview microscope equipped
+\nwith argon and krypton lasers. At low magnification (4), a virtual
+\nslice was taken of each section and the substantia nigra pars compacta
+\ndrawn. With a 20 magnification objective and a 488, 468, or
+\n647nm excitation source, this system is specifically designed to acquire
+\nimages at each sampling site in substantia nigra pars compacta. The
+\nimages were saved to a file; the stage automatically moves to the next
+\nsampling site to ensure a completely non-redundant evaluation. Once
+\nall images were acquired, optical density measurements were performed
+\non individual nigral neurons at the nuclear level. To maintain
+\nconsistency of the scanned image for each slide, the laser intensity,
+\nconfocal aperture, photomultiplier voltage, offset, electronic gain, scan
+\nspeed, image size, filter and zoom were set for the background level
+\nwhereby autofluorescence was not visible with a control section. These
+\nsettings were maintained throughout the entire experiment (Chu
+\net al., 2011). The intensity mapping sliders ranged from 0 to 4095;
+\n0 represented a maximum black image and 4095 represented a maximum
+\nbright image. The KHC-, KLC1- or DYNLT3-immunoreactive
+\nperikarya co-labelled with tyrosine hydroxylase were identified and
+\noutlined separately by an investigator blinded to the clinical and pathological
+\ndata. Quantitative optical density of immunofluorescence
+\nintensity was performed on individual KHC- and KLC1- or
+\nDYNLT3-immunoreactive soma with tyrosine hydroxylase immunolabelling
+\nin different channels. The same methods were used for quantitating
+\noptical density of KLC1- or dynein-immunoreactive soma with
+\nor without -synuclein-immunoreactive inclusions. For each marker,
+\nfive equispaced sections across the entire length of the substantia
+\nnigra were sampled and evaluated. The number of cells per case
+\nwas analysed as follows: 4200 nigral cells in normal cases, 50–70
+\nnigral cells per Parkinson’s disease case that contained inclusions and
+\n4200 nigral cells per Parkinson’s disease case that did not contain
+\ninclusions. To account for differences in background staining intensity,
+\nfive background intensity measurements lacking immunofluorescent
+\nprofiles were taken from each section. The mean of these five measurements
+\nconstituted the background intensity that was then subtracted
+\nfrom the measured immunofluorescence intensity of each
+\nindividual neuron to provide a final immunofluorescence intensity
+\nvalue. To confirm co-localization of the axonal transport marker and
+\ntyrosine hydroxylase or -synuclein immunofluorescence, optical scanning
+\nthrough the neuron’s z-axis was performed at 1-mm thickness
+\nand neurons suspected of being double labelled were confirmed
+\nwith confocal cross-section.
+\n
+\n## Data analyses
+\nDemographic and clinical characteristics and optical density measurements
+\nwere compared across groups with one-way ANOVA, Kruskal–
+\nWallis test followed by Dunn’s post hoc test for multiple comparisons
+\n(Prism 4, GraphPad Software, Inc.). Descriptive statistical level of significance
+\nwas set at 0.05 (two-tailed).
+\n
+\n## Digital illustrations
+\nConfocal images were exported from the Olympus laser scanning
+\nmicroscope with Fluoview software and stored as .tif files.
+\nConventional light microscopic images were acquired using a Nikon
+\nMicrophoto-FXA microscope attached to a Nikon digital camera
+\nDXM1200 and stored as .tif files. All figures were prepared using
+\nPhotoshop 8.0 graphics software. Only minor adjustments of brightness
+\nwere made.
+\n
+\n# Results
+\n## Characteristics of tyrosine hydroxylase labelling in different stages of sporadic Parkinson’s disease
+\n
+\nImmunohistochemistry revealed that the extent of tyrosine
+\nhydroxylase-immunoreactive loss in the putamen was much
+\ngreater than in the substantia nigra at early sporadic Parkinson’s
+\ndisease stages (Supplementary Fig. 1E and G). Cases with Hoehn
+\nand Yahr 1 Parkinson’s disease showed extensive and intense tyrosine
+\nhydroxylase labelling in the substantia nigra, which was similar
+\nto that seen in age-matched controls. A high density of
+\ntyrosine hydroxylase-immunoreactive soma and an intricate local
+\nplexus of tyrosine hydroxylase-immunoreactive processes were
+\nobserved within the substantia nigra (Supplementary Fig. 1E and
+\nF). In contrast, tyrosine hydroxylase labelling in putamen
+\n(Supplementary Fig. 1G and H) was remarkably decreased in
+\nearly stages of Parkinson’s disease compared with age-matched
+\ncontrols (Supplementary Fig. 1C and D). In age-matched controls,
+\ndense fine tyrosine hydroxylase-immunoreactive fibres (50.25 mm) were distributed throughout the grey matter of putamen
+\n(Supplementary Fig. 1C), consisting of a fine mesh of fibres
+\n(Supplementary Fig. 1D). A small number of tyrosine
+\nhydroxylase-immunoreactive thick fibres (40.5 mm) were also
+\nobserved in the putamen. In early stage of Parkinson’s disease,
+\nthe number of tyrosine hydroxylase-immunoreactive fine fibres
+\nwas dramatically decreased throughout the putamen
+\n(Supplementary Fig. 1G). Optical density measurements demonstrated
+\na range of reductions between 31.64 and 60.79% within
+\nputamen in the early stage of Parkinson’s disease, relative to
+\nage-matched controls. The few remaining thick fibres displayed
+\nan abnormal morphology characterized by swollen varicosities
+\n(Supplementary Fig. 1H). In severe Parkinson’s disease (Hoehn
+\nand Yahr: 3–5), there was a marked decrease of tyrosine hydroxylase
+\nlabelling throughout the entire nigrostriatal system
+\n(Supplementary Fig. 1I–P). Both tyrosine hydroxylaseimmunoreactive
+\nnigral somas and dendrites in substantia nigra
+\n(Supplementary Fig. 1J and N) were severely reduced compared
+\nwith both cases with Hoehn and Yahr 1 Parkinson’s disease and
+\nage-matched controls. In addition, many neuromelanin-laden
+\nnigral neurons displayed no tyrosine hydroxylase labelling. Few
+\nfine tyrosine hydroxylase-immunoreactive fibres were observed
+\nin the more ventromedial putamen near globus pallidus
+\n(Supplementary Fig. 1K and O). Tyrosine hydroxylaseimmunoreactive
+\nfine fibres were barely detected in the putamen,
+\nand the few remaining thick fibres displayed swollen varicosities
+\nand intervaricose segments (Supplementary Fig. 1L and P).
+\nCollectively, these data indicated that loss of tyrosine hydroxylase
+\nin target (putamen) of nigral neurons long precedes and exceeds
+\nthat of nigral cell bodies (substantia nigra) early in sporadic
+\nParkinson’s disease, suggesting that terminals are first impaired
+\nduring dopaminergic neurodegeneration in sporadic Parkinson’s
+\ndisease.
+\n
+\n## Reduced levels of conventional kinesin in nigral neurons affected in sporadic Parkinson’s disease
+\nFindings of axonal transport alterations in familial Parkinson’s disease
+\n(Chung et al., 2009; Scott et al., 2009) and toxin-based
+\n(Morfini et al., 2007; Serulle et al, 2007) models led us to hypothesize
+\nthat the early decline of tyrosine hydroxylaseimmunoreactive
+\nterminals in nigrostriatal system observed in sporadic
+\nParkinson’s disease (Supplementary Fig. 1) was associated
+\nwith alterations in axonal transport motor proteins. Conventional
+\nkinesin, a major microtubule-based motor protein responsible for
+\nanterograde axonal transport is a heterotetramer composed of two
+\nKHC and two KLC subunits. KHC-immunoreactive (Fig. 1A) and
+\nKLC1-immunoreactive (Fig. 1E) neurons were widely distributed
+\nthroughout the substantia nigra of age-matched control brains.
+\nStrong KHC- and KLC1-immunoreactive profiles included both
+\nperikarya and fibres in substantia nigra, and virtually all
+\nneuromelanin-laden neurons were KHC- and KLC1 immunopositive.
+\nIntense KHC- and KLC1 immunoreactivity were also observed
+\nin scattered non-neuromelanin-laden small cells. In contrast,
+\nimmunoreactivity for kinesin markers was markedly decreased in
+\nall Parkinson’s disease brains. In the early stage of Parkinson’s
+\ndisease (Hoehn and Yahr: 1–2), the immunoreactivity of KHC
+\n(Fig. 1B) and KLC1 (Fig. 1F) was significantly lost in remaining
+\nneuromelanin-laden neurons. Some neuromelanin-laden neurons
+\ndisplayed KHC- and KLC-immunoreactive somas, but not processes,
+\nwhereas staining others displayed none (Fig. 2B and F).
+\nAt later Parkinson’s disease stages (Hoehn and Yahr: 3–5), the
+\nmajority of remaining neuromelanin-laden neurons failed to display
+\ndetectable KHC (Fig. 1C and D) and KLC1 (Fig. 1G and H),
+\nwhereas a few neurons displayed a lightly stained soma. These
+\nreductions in KHC and KLC1 were specific and not due to
+\nParkinson’s disease-related degeneration of the actual neurite in
+\nsubstantia nigra, as tyrosine hydroxylase-immunoreactive processes
+\nwere observed in remaining nigral neurons
+\n(Supplementary Fig. 1). Non-neuromelanin-laden neurons in the
+\nnigra, which are not dopaminergic, displayed KHC and KLC1
+\nstaining in the both the soma and processes (Fig. 1C and D)
+\ndemonstrating the specificity of this effect for dopaminergic
+\nnigral neurons.
+\nAnalysis of cytoplasmic dynein immunoreactivity in nigral neurons in Parkinson’s disease
+\nWe next evaluated whether levels of the retrograde axonal transport
+\nmotor protein cytoplasmic dynein were affected in dopaminergic
+\nneurons of patients with sporadic Parkinson’s disease.
+\nCytoplasmic dynein exists as a large, multisubunit protein complex
+\nin vivo, formed by at least two heavy chains, two intermediate
+\nchains, four light intermediate chains and several light chains
+\n(Pfister et al., 1998). Among these, dynein light chain Tctex
+\ntype 3 (DYNLT3) was chosen to be examined in sporadic
+\nParkinson’s disease brains, as this subunit has been shown to contribute
+\nto dynein cargo binding specificity (Lo et al., 2007).
+\nDYNLT3 antibody labelled soma and processes of
+\nneuromelanin-laden neurons in age-matched controls (Fig. 1I).
+\nThe pattern of DYNLT3 immunostaining in Hoehn and Yahr 1
+\nParkinson’s disease (Fig. 1I) was similar to age-matched controls,
+\nas DYNLT3 was detected in almost all remaining
+\nneuromelanin-laden neurons. In Hoehn and Yahr 3–5 cases with
+\nParkinson’s disease, many neuromelanin-laden neurons failed to
+\ndisplay detectable DYNLT3, whereas non-neuromelanin-laden
+\ncells exhibited DYNLT3-labelling soma and processes (Fig. 1K
+\nand L). Taken together, these data indicate that levels of
+\nDYNLT3 are severely reduced in late stages of sporadic
+\nParkinson’s disease, suggesting alterations in dynein functions in
+\nParkinson’s disease.
+\nCo-localization and quantitative analysis of axonal transport and
+\ndopaminergic markers in nigral neurons in Parkinson’s disease
+\nTo evaluate whether the decrease in axonal transport proteins
+\ndocumented in sporadic Parkinson’s disease precedes those seen
+\nfor dopamine markers, double immunostaining for tyrosine hydroxylase
+\nand either conventional kinesin or cytoplasmic dynein markers
+\nwas performed in nigral neurons of cases with sporadic
+\nParkinson’s disease. Optical density measurements of these staining
+\nprofiles were measured as described in the ‘Materials and
+\nmethods’ section. In early Hoehn and Yahr 1 Parkinson’s disease
+\ncases, co-localization analyses revealed that remaining
+\nneuromelanin-laden neurons featuring intense tyrosine hydroxylase
+\nimmunostaining [Fig. 2B(ii) and Supplementary Fig. 2B(2)]
+\ndisplay light KHC-immunoreactive [Fig. 2B(i)] and KLC1-
+\nimmunoreactive [Supplementary Fig. 2B(1)] staining, compared
+\nwith age-matched controls [Fig. 2A(i) and Supplementary Fig.
+\n2A(1)], with KHC- and KLC1-immunoreactive signals mainly detected
+\nin perikarya and less extensively in processes, both of which
+\nwere intensely labelled by tyrosine hydroxylase. In late cases with
+\nParkinson’s disease (Hoehn and Yahr 4), minimal KHC [Fig. 2C(i)]
+\nand KLC1 [Supplementary Fig. 2C(1)] staining was seen in neuronal
+\ncell bodies. Significantly, non-dopaminergic neurons displayed
+\nintense KHC-immunostained perikarya and processes [Fig. 2C(iii)]
+\nsuggesting that alterations in conventional kinesin mainly affect
+\nnigral dopaminergic neurons in sporadic Parkinson’s disease.
+\nThe decline in intensity of DYNLT3 staining was observed in
+\nlate sporadic Parkinson’s disease stages. In cases with early-stage
+\nsporadic Parkinson’s disease, most of the remaining tyrosine
+\nhydroxylase-immunoreactive neurons exhibited intensive
+\nDYNLT3-labelled soma and processes but a few of them appeared
+\nlightly DYNLT3 labelled [Fig. 3B(i–iii)] compared with age-matched
+\ncontrols [Fig. 3A(i–iii)]. In late sporadic Parkinson’s disease stages,
+\nminimal DYNLT3 immunoreactivity was detected in tyrosine
+\nhydroxylase-immunoreactive nigral neurons, whereas intensive
+\nDYNLT3 staining was observed in non-tyrosine hydroxylaseimmunoreactive
+\ncells [Fig. 3C(i–iii)]. Quantitative analyses of KHC-, KLC1- and DYNLT3-
+\nimmunoreactivities were obtained for individual tyrosine
+\nhydroxylase-immunoreactive cell bodies in early Parkinson’s disease
+\n(Hoehn and Yahr 1–2), late Parkinson’s disease (Hoehn and
+\nYahr 3–5) and age-matched control cases (Fig. 4). Kruskal–Wallis
+\ntest revealed significant reductions in KHC levels across these experimental
+\ngroups (Fig. 4A; P50.001). Post hoc analyses further
+\nrevealed statistically significant decreases in optical densities of
+\nKHC immunofluorescence signals in early Parkinson’s disease
+\n(P50.05) and late Parkinson’s disease stages (P50.001), compared
+\nwith age-matched controls. Similarly, significant differences
+\nin optical density of KLC1 immunofluorescence signals were
+\nobserved among the three groups analysed (Fig. 4B;
+\nP50.0001). Post hoc analyses further revealed a significant decline
+\nin the optical density of the KLC1 immunofluorescence signal
+\nbetween early-stage Parkinson’s disease cases (P50.05) and
+\nage-matched controls, between late Parkinson’s disease stages
+\n(P50.001) and age-matched controls, and between early and
+\nlate stages of Parkinson’s disease (P50.05). Kruskal–Wallis test
+\ndemonstrated significant differences (P50.0001) in the optical
+\ndensity of the DYNLT3 immunofluorescence signals across all experimental
+\ngroups (Fig. 4C; P50.001). Post hoc analyses demonstrated
+\na significant decrease in the optical density of the DYNLT3
+\nimmunofluorescence signal only at late Parkinson’s disease stages
+\n(P50.001; P50.05), compared with both age-matched control
+\nand early Parkinson’s disease stages but not between early
+\nParkinson’s disease stages and age-matched controls (P40.05).
+\nThe optical density of the tyrosine hydroxylase immunofluorescence
+\nsignal was also measured in individual cells that were
+\nKLC1 immunopositive from all Parkinson’s disease and
+\nage-matched control cases (Fig. 4D; P50.001). Post hoc analyses
+\nrevealed a significant decline in the optical density of tyrosine
+\n
+\nhydroxylase immunofluorescence signal in the late stage of
+\nParkinson’s disease (P50.05; P50.001), relative to both early
+\nParkinson’s disease stages and age-matched controls but not between
+\nthe early stage of Parkinson’s disease and the age-matched
+\ncontrol (P40.05).
+\nTaken together, results from quantitative immunofluorescence
+\nanalysis demonstrated significant reductions in conventional kinesin
+\nlevels that precede tyrosine hydroxylase downregulation in remaining
+\nnigral neurons of cases with sporadic Parkinson’s disease.
+\nDownregulation of dynein DYNLT3 was observed in the late stage
+\nof Parkinson’s disease but not in the early stage of Parkinson’s
+\ndisease.
+\n
+\n## Co-localization and quantitative analysis of axonal transport markers and alpha-synuclein in the nigrostriatal system in Parkinson’s disease
+\n
+\nThe results above indicated that a marked reduction in levels of
+\ncritical axonal transport proteins in tyrosine hydroxylaseimmunopositive
+\nneurons in sporadic Parkinson’s disease, whereas
+\nother neurons still displayed detectable-normal staining patterns.
+\nOn the basis of results from our previous work (Chu et al., 2006,
+\n2009), we hypothesized that the selective reductions in levels of
+\naxonal transport motor subunits were related to -synuclein aggregation.
+\nTo evaluate this possibility, we performed double labelling
+\nwith anti--synuclein and either anti-KLC1 or anti-DYNLT3
+\nantibodies and obtained the optical density measurements for
+\nKLC1 and DYNLT3 for neurons with or without -synucleinimmunoreactive
+\ninclusions in sporadic Parkinson’s disease.
+\nCo-localization studies revealed that neurons both with or without
+\n-synuclein-immunoreactive inclusions had significantly lower
+\ndensity of KLC1 immunoreactivity in Parkinson’s disease compared
+\nwith age-matched controls (Fig. 5). Although cytoplasmic
+\nnon-aggregated -synuclein (Fig. 5B) was present within most
+\nnigral neurons in age-matched controls, levels of perikaryal
+\nKLC1-immunoreactive were similar among -synuclein-positive
+\nand -negative neurons (Fig. 5C). In contrast, a marked reduction
+\nin levels of DYNLT3 immunoreactivity (Supplementary Fig. 3F)
+\nwas only observed in Parkinson’s disease nigral neurons featuring
+\n-synuclein-immunoreactive inclusions. On the basis of these
+\nfindings, we hypothesized that Lewy neurites may be associated
+\nwith reduced levels of axonal transport motor proteins. To assess
+\nthis possibility, an antibody detecting the aggregation prone,
+\npS129--synuclein was used (Gorbatyuk et al., 2008).
+\nDouble-immunolabelling studies revealed that phosphorylated
+\n-synuclein was mainly detected in aberrant tyrosine hydroxylase-
+\nimmunoreactive fibres displaying swollen varicosities but not
+\nin morphologically normal tyrosine hydroxylase-immunoreactive
+\nfibres (Fig. 6A–F). Significantly, KHC1 immunoreactivity was
+\nabsent in aberrant fibres displaying pS129--synuclein (Fig. 6G–I).
+\nTo unequivocally determine whether decreases in levels of
+\naxonal transport motors were associated -synuclein inclusions in
+\nParkinson’s disease, we analysed the relative intensities of KLC1
+\nand DYNLT3 in nigral neurons that did or did not contain
+\n-synuclein-positive inclusions. Kruskal–Wallis test revealed a
+\nstatistically significant difference in optical density of
+\nKLC1-immunoreactive intensity across these groups (Fig. 7A;
+\nP50.001). Post hoc analyses revealed a significant decrease of
+\nKLC1-immunoreactive optical density in nigral neurons with
+\n(P50.001) and without (P50.001) -synuclein-immunoreactive
+\ninclusions compared with controls. Furthermore, nigral neurons
+\nwith -synuclein inclusions in Parkinson’s disease displayed
+\nhigher reductions in KLC1 immunoreactivity relative to
+\nParkinson’s disease nigral neurons without -synuclein inclusions
+\n(P50.05). Similarly, a significant difference in the optical density
+\nof DYNLT3-immunoreactive intensity was revealed between the
+\nthree groups (Fig. 7B; P50.001). Interestingly, post hoc analyses
+\nrevealed that the optical density of DYNLT3-immunoreactive intensity
+\nwas only significantly decreased in nigral neurons with
+\n-synuclein-immunoreactive inclusions (P50.001) but not in neurons
+\nwithout -synuclein inclusions (P40.05) relative to
+\nage-matched controls.
+\nThese data indicate that in nigral neurons of cases with
+\nsporadic Parkinson’s disease, the decrease in levels of conventional
+\nkinesin subunits are independent of, but exacerbated
+\nby, -synuclein inclusions, whereas reductions in DYNLT3
+\nlevels are selectively associated with accumulated -synuclein
+\ninclusions.
+\n## Viral over-expression of alpha-synuclein in rat brain-induced alterations in tyrosine hydroxylase and axonal transport motor proteins
+\nResults from immunohistochemical studies in sporadic Parkinson’s
+\ndisease tissue led us to hypothesize that increased -synuclein
+\nexpression results in reduced levels of critical axonal transport proteins.
+\nTo evaluate this possibility, we analysed a well-studied rat
+\nParkinson’s disease model based on viral (rAAV) over-expression
+\nof mutant (A30P) -synuclein within the substantia nigra (Kirik
+\net al., 2003; Chu et al., 2011). Control rats received intranigral
+\ninjections of rAAV encoding GFP. In control rats, robust GFP expression
+\nwas seen in the substantia nigra and striatum (data not
+\nshown; Chu et al., 2011), but GFP expression did not affect tyrosine
+\nhydroxylase levels in the nigrostriatal system (Supplementary
+\nFig. 4). The LB509 antibody, which selectively recognizes human
+\n-synuclein protein (Chu et al., 2011), was used to examine the
+\nexpression of viral-encoded human -synuclein in rAAV-h-A30P injected rats. Intense LB509 immunoreactivity was observed in the
+\nsubstantia nigra (Supplementary Fig. 4A and B) and striatum
+\n(Supplementary Fig. 4G and H) of rats injected with
+\nrAAV-h-A30P. As observed in cases with sporadic Parkinson’s disease,
+\nloss of tyrosine hydroxylase-immunoreactive terminals in striatum
+\n(Supplementary Fig. 4I and J) and neurons in substantia
+\nnigra (Supplementary Fig. 4C and D) was demonstrated in this
+\nParkinson’s disease model (Chu et al., 2009, 2011; Ulusoy
+\net al., 2010). Interestingly, tyrosine hydroxylase-immunoreactive
+\nfine fibres were dramatically decreased (Supplementary Fig. 4I
+\nand J) when -synuclein-immunoreactive fibres were radically
+\nincreased (Supplementary Fig. 4G) in the majority of the striatum
+\nof rAAV-h-A30P-injected rats. Some tyrosine hydroxylaseimmunoreactive
+\nthick fibres still remained, but these displayed a
+\ndistinct abnormal morphology characterized by swollen varicosities
+\nand intervaricose segments (Supplementary Fig. 4J). Thus,
+\npathological alterations in rats that received rAAV-h-A30P
+\nmimicked the aberrant morphological features seen in cases with
+\nsporadic Parkinson’s disease.
+\nNext, we examined the levels of axonal transport proteins
+\nin rAAV-h-A30P-injected rats. In substantia nigra of both uninjected
+\nand AAV-GFP-injected rats, robust KHC (Fig. 8E and
+\nSupplementary Fig. 5A) and DYNLT3 (Supplementary Figs. 5D
+\nand 6E) immunoreactivities were documented. KHC and
+\nDYNLT3 immunostaining profiles comprised both soma and
+\nprocesses of tyrosine hydroxylase-positive neurons. Double
+\nimmunostaining revealed that virtually all tyrosine
+\nhydroxylase-immunoreactive nigral neurons were also KHC-
+\n(Supplementary Fig. 5C) and DYNLT3 positive (Supplementary
+\nFig. 5F).
+\nIn the substantia nigra of AAV-h-A30P-injected rats, some neurons
+\ndisplayed a marked loss of KHC (Fig. 8B) and DYNLT3 (Supplementary Fig. 6B) staining, whereas others retained an intense
+\nimmunoreactive profile. Double labelling of KHC and
+\nDYNLT3 with anti--synuclein antibody revealed two groups of
+\nneurons in AAV6-h-A30P-injected substantia nigra. One group
+\ndid not display -synuclein immunoreactivity, and these cells
+\nshowed robust expression of both KHC and DYNLT3 markers.
+\nThe second group expressed -synuclein and displayed a marked
+\nreduction in KHC (Fig. 8C) and DYNLT3 (Supplementary Fig. 6C)
+\nstaining levels. Aggregated pS129--synuclein was observed in
+\nswollen tyrosine hydroxylase-immunoreactive fibres (Fig. 9D–F)
+\nin the striatum of rats that received AAV6-h-A30P. KHC levels
+\nwere undetectable in fibres labelled with phosphorylated
+\n-synuclein (Fig. 9G–I), similar to what was observed in
+\nParkinson’s disease striatum (Fig. 6).
+\nQualitative observations were confirmed by quantified fluorescence
+\nintensity measurements for KHC and DYNLT3. The optical
+\ndensity measurements of KHC and DYNLT3 were performed on
+\nthe cell body on a per neuron basis in nigral neurons with and
+\nwithout -synuclein or GFP accumulation as described earlier.
+\nKruskal–Wallis test revealed a statistically significant difference
+\nin optical density of KHC-immunoreactive intensity (P50.001;
+\nFig. 10A). Post hoc analyses revealed that the optical density of
+\nKHC was significantly decreased in nigral neurons with
+\n(P50.001) and without -synuclein-immunoreactive (P50.001)
+\naccumulation in rats that received AAV6-h-A30P but not in
+\nGFP-positive (P40.05) and GFP-negative (P40.05) neurons
+\ncompared with uninjected controls. Similarly, optical density of
+\nDYNLT3-immunoreactive intensity was significantly decreased
+\n(P50.001; Fig. 10B) in rats that received AAV6-h-A30P.
+\nPost hoc analyses revealed that optical density of DYNLT3-
+\nimmunoreactive intensity was significantly reduced in both nigral
+\nneurons with and without -synuclein-immunoreactive accumulation
+\n(P40.001) compared with controls. The neurons with
+\n-synuclein-immunoreactive accumulation exhibited more reduction
+\nof DYNLT3-immunoreactive intensity (P50.05) relative to
+\nthe neuron without -synuclein-immunoreactive accumulation. There was no difference on optical density of DYNLT3-
+\nimmunoreactive intensity in the GFP-positive (P40.05) and
+\n-negative (P40.05) neurons compared with controls.
+\n
+\n# Discussion
+\nIn this study, we examined the expression of critical axonal transport
+\nmotor proteins in remaining nigral dopaminergic neurons
+\nthroughout different stages of sporadic Parkinson’s disease. The
+\nmajor findings of this study are as follows: (i) conventional kinesin
+\nlevels are significantly reduced in remaining nigral neurons in sporadic
+\nParkinson’s disease. Significantly, this reduction occurs at very
+\nearly Parkinson’s disease stages, suggesting that abnormalities in
+\naxonal transport might represent a critical pathological change in
+\nsporadic Parkinson’s disease. Interestingly, the reductions in conventional
+\nkinesin levels precede the alterations in dopaminergic
+\nphenotypic markers and the aberrant morphology of tyrosine
+\nhydroxylase-immunoreactive fibres characteristic of early (stages
+\n1–2) Parkinson’s disease; (ii) the reductions in conventional kinesin
+\nlevels appear in the presence or absence of perikaryal -synuclein
+\naggregations, the presence of -synuclein inclusions exhibit much
+\nmore decline; (iii) unlike conventional kinesin, reductions in the
+\nlevels of the DYNLT3 subunit of cytoplasmic dynein were only
+\nobserved at late Parkinson’s disease stages; and (iv) reductions
+\nin levels of conventional kinesin and cytoplasmic dynein subunits
+\nwere recapitulated in a rat model of familial Parkinson’s disease
+\nbased on over-expression of human mutant -synuclein
+\n(A30P).
+\nWhat remains to be established is whether the alterations in
+\naxonal transport result in the accumulation of -synuclein or
+\nwhether the accumulation of -synuclein disturbs axonal transport.
+\n-Synuclein normally functions as a synaptic protein (Iwai et al.,
+\n1995). It is synthesized in nigral perikarya and transported to the
+\nsynapse so quickly that it is undetectable in nigral cell bodies in
+\nyoung non-human primates and young humans (Chu and
+\nKordower, 2007). In aged monkeys and aged humans, -synuclein
+\ncan be detected, and this is a time in these primates’ life where
+\naxonal transport defects have been noted (Li et al., 2004; Cross
+\net al., 2008). Supported by the present data, it is therefore tempting
+\nto speculate that defects in axonal transport precede other
+\nchanges leading to an accumulation of -synuclein within axon
+\nand perikarya. So why is this accumulation of -synuclein not
+\ncleared like other unwanted proteins? We have previously
+\nshown that, in Parkinson’s disease, increases in -synuclein are
+\nassociated with decreases in lysosomal and proteosomal proteins
+\nthat normally clear excess -synuclein (Chu et al., 2009). These
+\ndefects in autophagy-related proteins seen in Parkinson’s disease
+\nand associated specifically with -synuclein accumulation can also
+\nbe recapitulated with viral over-expression of -synuclein. Taken
+\ntogether, these data support the conclusion that defects in axonal
+\ntransport mechanisms are a primary event in nigral cell pathogenesis
+\nleading to an abnormal accumulation in perikaryal -synuclein.
+\nThis increase in -synuclein leads to a defective autophagic clearance
+\nof this unwanted protein, starting a cycle of continually
+\nincreasing -synuclein, which is now poorly transported to its
+\nnormal synaptic location and poorly cleared by perikaryal proteins
+\nsuch as LAMP1, the lysosomal protease cathepsin D and the 20S
+\nproteasome (Chu et al., 2009). We believe that this continued
+\naccumulation ultimately overwhelms these clearance mechanisms
+\nresulting in the misfolding, fibrillization and aggregation of
+\n-synuclein, a process that exacerbates synaptic loss, loss of dopaminergic
+\nphenotype, striatal denervation and ultimately cell death.
+\nThe fact that defects in kinesins can be seen in -synucleinpositive
+\nand -negative nigral neurons supports this hypothesis.
+\nHowever, one can still not rule out the possibility that -synuclein
+\nis the primary culprit, and it is -synuclein that impairs axonal
+\ntransport, setting this vicious cycle in motion. Indeed, this study
+\ndemonstrates that viral over-expression of -synuclein alone reduces
+\nthe expression of kinesins and dynein. This scenario deserves
+\nfurther scrutiny as well.
+\nPost-mortem studies must be interpreted with caution as factors
+\nsuch as disease heterogeneity and post-mortem interval can influence
+\nthe results. To support our findings, we injected rats with viral vectors inducing the over-expression of human -synuclein.
+\nrAAV-h-A30P caused reductions in kinesin and dynein accompanied
+\nby decrease of tyrosine hydroxylase immunoreactivity in
+\nstriatum. Axons exhibit aberrant morphological profiles with
+\naxonal swelling and enlarged intervaricose segments, both hallmarks
+\nof axonal injury (Chung et al., 2009). The data from
+\nAAV-h-A30P-injected animals exhibited reductions in kinesin and
+\ndynein levels and abnormal axonal blockage were similar to those
+\nobserved in early stage human Parkinson’s disease brains. These
+\npre-clinical data support the accuracy of the human post-mortem
+\nfindings.
+\nA recent report indicated that viral over-expression of human
+\nmutant (A53T) -synuclein results in a decrease in anterograde
+\ntransport motor proteins in striatum but an increase in the substantia
+\nnigra 8 weeks after the injection (Chung et al., 2009). Our
+\nresults from 6 weeks following viral -synuclein over-expression
+\ndiffer from Chung et al. (2009) in that we observed decreases in
+\nboth the striatum and nigra. There are a number of explanations
+\nfor these divergent results including those that may be related to
+\nthe use of different mutant human -synuclein, different promoters
+\nand different methods of protein evaluation (western
+\nblots versus individual neuron evaluations taking into account
+\nthe presence or absence of -synuclein). Our data from rat
+\ngenetic Parkinson’s disease mode are similar to what we observed
+\nin the Parkinson’s disease brain therefore supporting our preclinical
+\ndata.
+\nNatural -synuclein can be co-localized with axonal transport
+\nproteins kinesin-1 and dynein and transported along axons
+\n(Jensen et al., 1999; Utton et al., 2005). Over-expression of
+\nhuman wild-type -synuclein enhances axonal degeneration after
+\nperipheral nerve lesion in transgenic mice (Siebert et al., 2010).
+\n-Synuclein accumulation was found at sites of axonal damage in
+\nthe PNS (Moran et al., 2001; Siebert et al., 2010). These studies
+\nsuggest that -synuclein accumulation is related to axonal
+\ndamage. Our results further demonstrate that -synuclein accumulation
+\nin axons is associated with a decline in kinesin along with
+\ndecline of striatal tyrosine hydroxylase immunoreactivity.
+\nAlternatively, on encountering terminal damage, vesicles containing
+\n-synuclein might undergo retrograde transport to the somatodendritic
+\ncompartment, where aberrant -synuclein generation
+\nand deposition could occur. Facial nerve axotomy results in higher
+\namounts of immunopositive -synuclein in perikarya of neurons
+\n(Moran et al., 2001), verifying the hypotheses that -synuclein
+\nmight undergo retrograde transport to the somatodendritic compartments
+\nafter axonal damage. This process could be enhanced
+\nby the reduction of kinesin and the increase of dynein. Our results
+\nrevealed that there was a severe decrease of kinesin but not
+\ndynein in the early stage of Parkinson’s disease. If accumulation
+\nof -synuclein occurs at sites of abnormal deposition of axonally
+\ntransported cargos, reduced axonal transport may lead to local
+\nstimulation of phosphorylated -synuclein processing and further
+\ninhibition of axonal transport. This proposed sequence of events
+\nwould generate an autocatalytic spiral, in which processes
+\nleading to inhibition of axonal transport and phosphorylated
+\n-synuclein production become mutually stimulatory, providing a
+\nrational explanation for early striatal synaptic loss in Parkinson’s
+\ndisease.
+\nIn summary, the present data indicate that reductions in
+\naxonal transport mechanisms are present during early stages in
+\nnigrostriatal pathogenesis in Parkinson’s disease. Both anterograde
+\nand retrograde motors are affected with anterograde motors
+\n(kinesins) being defective first. These data were recapitulated in
+\nrats with targeted viral over-expression of -synuclein. Taken together,
+\nthese data suggest that therapies aimed at preventing or
+\nrestoring defective axonal transport function should be
+\ninvestigated.
+\n
+\n
+\n# Supplementary material
+\nSupplementary material is available at Brain online.
+\n
+\n# References
+\nChu Y, Kordower JH. Age-associated increases of alpha-synuclein in
+\nmonkeys and humans are associated with nigrostriatal dopamine depletion:
+\nis this the target for Parkinson’s disease? Neurobiol Dis 2007;
+\n25: 134–49.
+\nChu Y, Dodiya H, Aebischer P, Olanow CW, Kordower JH. Alterations in
+\nlysosomal and proteasomal markers in Parkinson’s disease: relationship
+\nTo alpha-synuclein inclusions. Neurobiol Dis 2009; 35: 385–98.
+\nChu Y, Le W, Kompoliti K, Jankovic J, Mufson EJ, Kordower JH. Nurr1 in
+\nParkinson’s disease and related disorders. J Comp Neurol 2006; 494:
+\n495–514.
+\nChu Y, Mickiewicz AL, Kordower JH. -Synuclein aggregation reduces
+\nnigral myocyte enhancer factor-2D in idiopathic and experimental
+\nParkinson’s disease. Neurobiol Dis 2011; 41: 71–82.
+\nChung CY, Koprich JB, Siddiqi H, Isacson O. Dynamic changes in presynaptic
+\nand axonal transport proteins combined with striatal
+\nneuroinflammation precede dopaminergic neuronal loss in a rat
+\nmodel of AAV alpha-synucleinopathy. J Neurosci 2009; 29: 3365–73.
+\nCross DJ, Flexman JA, Anzai Y, Maravilla KR, Minoshima S. Age-related
+\ndecrease in axonal transport measured by MR imaging in vivo.
+\nNeuroimage 2008; 39: 915–26.
+\nDauer W, Przedborski S. Parkinson’s disease: mechanisms and models.
+\n[Review]. Neuron 2003; 39: 889–909.
+\nFlavell SW, Cowan CW, Kim TK, Greer PL, Lin Y, Paradis S, et al.
+\nActivity-dependent regulation of MEF2 transcription factors suppresses
+\nexcitatory synapse number. Science 2006; 311: 1008–12.
+\nFlavell SW, Kim TK, Gray JM, Harmin DA, Hemberg M, Hong EJ, et al.
+\nGenome-wide analysis of MEF2 transcriptional program reveals synaptic
+\ntarget genes and neuronal activity-dependent polyadenylation site
+\nselection. Neuron 2008; 60: 1022–38.
+\nGorbatyuk OS, Li S, Sullivan LF, Chen W, Kondrikova G,
+\nManfredsson FP, et al. The phosphorylation state of Ser-129 in
+\nhuman alpha-synuclein determines neurodegeneration in a rat model
+\nof Parkinson disease. Proc Natl Acad Sci USA 2008; 105: 763–8.
+\nGyoeva FK, Bybikova EM, Minin AA. An isoform of kinesin light chain
+\nspecific for the Golgi complex. J Cell Sci 2000; 113: 2047–54.
+\nIseki E, Kato M, Marui W, Ue´ da K, Kosaka K. A neuropathological study
+\nof the disturbance of the nigro-amygdaloid connections in brains from
+\npatients with dementia with Lewy bodies. J Neurol Sci 2001; 185:
+\n129–34.
+\nIwai A, Masliah E, Yoshimoto M, Ge N, Flanagan L, de Silva HA, et al.
+\nThe precursor protein of non-A beta component of Alzheimer’s disease
+\namyloid is a presynaptic protein of the central nervous system. Neuron
+\n1995; 14: 467–75.
+\nJakes R, Crowther RA, Lee VM, Trojanowski JQ, Iwatsubo T, Goedert M.
+\nEpitope mapping of LB509, a monoclonal antibody directed against
+\nhuman alpha-synuclein. Neurosci Lett 1999; 269: 13–6.
+\nJensen PH, Li JY, Dahlstro¨m A, Dotti CG. Axonal transport of
+\nsynucleins is mediated by all rate components. Eur J Neurosci 1999;
+\n11: 3369–76.
+\nKanaan NM, Kordower JH, Collier TJ. Age-related accumulation of
+\nMarinesco bodies and lipofuscin in rhesus monkey midbrain dopamine
+\nneurons: relevance to selective neuronal vulnerability. J Comp Neurol
+\n2007; 502: 683–700.
+\nKirik D, Annett LE, Burger C, Muzyczka N, Mandel RJ, Bjo¨ rklund A.
+\nNigrostriatal alpha-synucleinopathy induced by viral vector-mediated
+\noverexpression of human alpha-synuclein: a new primate model of
+\nParkinson’s disease. Proc Natl Acad Sci USA 2003; 100: 2884–9.
+\nLi W, Hoffman PN, Stirling W, Price DL, Lee MK. Axonal transport of
+\nhuman alpha-synuclein slows with aging but is not affected by familial
+\nParkinson’s disease-linked mutations. J Neurochem 2004; 88: 401–10.
+\nLo KW, Kogoy JM, Pfister KK. The DYNLT3 light chain directly links
+\ncytoplasmic dynein to a spindle checkpoint protein, Bub3. J Biol
+\nChem 2007; 282: 11205–12.
+\nLykkebo S, Jensen PH. alpha-synuclein and presynaptic function: implications
+\nfor Parkinson’s disease.[Review]. Neuromol Med 2002; 2:
+\n115–29.
+\nMadine J, Doig AJ, Middleton DA. A study of the regional effects of
+\nalpha-synuclein on the organization and stability of phospholipid
+\nbilayers. Biochemistry 2006; 45: 5783–92.
+\nMbefo MK, Paleologou KE, Boucharaba A, Oueslati A, Schell H,
+\nFournier M, et al. Phosphorylation of synucleins by members of the
+\nPolo-like kinase family. J Biol Chem 2010; 285: 2807–22.
+\nMoran LB, Ko¨ sel S, Spitzer C, Schwaiger FW, Riess O, Kreutzberg GW,
+\net al. Expression of alpha-synuclein in non-apoptotic, slowly degenerating
+\nfacial motoneurones. J Neurocytol 2001; 30: 515–21.
+\nMorfini GA, Burns M, Binder LI, Kanaan NM, LaPointe N, Bosco DA,
+\net al. Axonal transport defects in neurodegenerative diseases.
+\n[Review]. J Neurosci 2009; 29: 12776–86.
+\nMorfini G, Pigino G, Opalach K, Serulle Y, Moreira JE, Sugimori M, et al.
+\n1-Methyl-4-phenylpyridinium affects fast axonal transport by activation
+\nof caspase and protein kinase C. Proc Natl Acad Sci USA 2007;
+\n104: 2442–47.
+\n
+\nMufson EJ, Lavine N, Jaffar S, Kordower JH, Quirion R, Saragovi HU.
+\nReduction in p140-TrkA receptor protein within the nucleus basalis
+\nand cortex in Alzheimer’s disease. Exp Neurol 1997; 146: 91–103.
+\nPerez SE, Lazarov O, Koprich JB, Chen EY, Rodriguez-Menendez V,
+\nLipton JW, et al. Nigrostriatal dysfunction in familial Alzheimer’s
+\ndisease-linked APPswe/PS1DeltaE9 transgenic mice. J Neurosci 2005;
+\n25: 10220–9.
+\nPfister KK, Benashski SE, Dillman JF III, Patel-King RS, King SM.
+\nIdentification and molecular characterization of the p24 dynactin
+\nlight chain. Cell Motil Cytoskeleton 1988; 41: 154–67.
+\nRaff MC, Whitmore AV, Finn JT. Axonal self-destruction and neurodegeneration.
+\n[Review]. Science 2002; 296: 868–71.
+\nRoy S, Zhang B, Lee VM, Trojanowski JQ. Axonal transport defects: a
+\ncommon theme in neurodegenerative diseases. [Review]. Acta
+\nNeuropathol 2005; 109: 5–13.
+\nScott DA, Tabarean I, Tang Y, Cartier A, Masliah E, Roy S. A pathologic
+\ncascade leading to synaptic dysfunction in alpha-synuclein-induced
+\nneurodegeneration. J Neurosci 2010; 30: 8083–95.
+\nSerulle Y, Morfini G, Pigino G, Moreira JE, Sugimori M, Brady ST, et al.
+\n1-Methyl-4-phenylpyridinium induces synaptic dysfunction through a
+\npathway involving caspase and PKCdelta enzymatic activities. Proc
+\nNatl Acad Sci USA 2007; 104: 2437–41.
+\nSiebert H, Kahle PJ, Kramer ML, Isik T, Schlu¨ ter OM, Schulz-
+\nSchaeffer WJ, et al. 2010) Over-expression of alpha-synuclein in the
+\nnervous system enhances axonal degeneration after peripheral nerve
+\nlesion in a transgenic mouse strain. J Neurochem 2010; 114: 1007–18.
+\nTomishige M, Stuurman N, Vale RD. Single-molecule observations of
+\nneck linker conformational changes in the kinesin motor protein. Nat
+\nStruct Mol Biol 2006; 13: 887–94.
+\nTowne C, Raoul C, Schneider BL, Aebischer P. Systemic AAV6 delivery
+\nmediating RNA interference against SOD1: neuromuscular transduction
+\ndoes not alter disease progression in fALS mice. Mol Ther 2008;
+\n16: 1018–25.
+\nUlusoy A, Decressac M, Kirik D, Bjo¨ rklund A. Viral vector-mediated overexpression
+\nof -synuclein as a progressive model of Parkinson’s disease.
+\n[Review]. Prog Brain Res 2010; 184: 89–111.
+\nUtton MA, Noble WJ, Hill JE, Anderton BH, Hanger DP. Molecular
+\nmotors implicated in the axonal transport of tau and alpha-synuclein.
+\nJ Cell Sci 2005; 118: 4645–54.
+\n
+\n
+\n
+\n## Table 1 Summary of case demographics
+\n
+\n
+\n## Table 2 Antibodies
+\n
+\n## Figure 1
+\nSections through the mid-substantia nigra show immunoreactivity patterns of KHC (A–D),
+\nKLC1 (E–H) and DYNLT3 (I–L) in age-matched controls (A, E and I), Hoehn and Yahr (H&Y) stage 1 Parkinson’s disease (PD; B, F and J), Hoehn and Yahr stage 3
+\nParkinson’s disease (C, G and K) and Hoehn and Yahr stage 5 Parkinson’s disease (D, H and L) cases. In age-matched controls, every neuromelanin-laden nigral neuron displayed intense KHC and KLC1 immunoreactivities in the soma and processes (A and E). In contrast, nigral neurons of Hoehn and Yahr stage 1 Parkinson’s disease cases display much lighter KHC- and KLC1-immunoreactive levels in neuronal somas, being hardly detected in some cells (arrows; B and F). KHC-labelling processes were severely reduced even when many neuromelanin-laden neurons remain present (B and F), compared with age-matched control (A and E). In Hoehn and Yahr stages 3 and 5 Parkinson’s disease cases, most of remaining neuromelanin-laden neurons showed no detectable KHC and KLC1 labelling (arrows; C, D, G and H). However, non-neuromelanin-laden cells exhibited strong KHC immunoreactivity in the soma and processes (arrowheads; C and
+\nD). DYNLT3 immunoreactivity extent and intensity were not obviously decreased in Hoehn and Yahr stage 1 Parkinson’s disease (J) but severely declined in Hoehn and Yahr 3 (K) and Hoehn and Yahr 5 (L) compared with age-matched controls (I). Some remaining
+\nneuromelanin-laden neurons exhibited no detectable DYNLT3 (arrows; K and L) but non-neuromelanin-laden neuron appeared DYNLT3-labelling soma and processes (arrowheads; K and L). Scale bar = 70 mm (applies to all).
+\n
+\n## Figure 2
+\nConfocal microscopy images of substantia nigra from age-matched control [A(i–iii)], Hoehn and Yahr (H&Y) stage 1 Parkinson’s
+\ndisease (PD) [B(i–iii)] and H&Y stage 4 Parkinson’s disease [C(i–iii)] show immunostaining patterns for KHC [green; A(i), B(i) and C(i)],
+\ntyrosine hydroxylase [TH; red; A(ii), B(ii) and C(ii)] and co-localization of KHC and tyrosine hydroxylase [merged; A(iii), B(iii) and C(iii)].
+\nThe extent and intensity of tyrosine hydroxylase immunoreactivity in both nigral neuronal soma and processes were similar between
+\nHoehn and Yahr stage 1 Parkinson’s disease [B(ii)] and age-matched control [A(ii)]. However, KHC immunofluorescence intensity
+\n[arrows; B(i and iii)] was markedly reduced in tyrosine hydroxylase-immunoreactive neurons [arrows; B(ii)] of Hoehn and Yahr stage 1
+\nParkinson’s disease cases. In Hoehn and Yahr stage 4 Parkinson’s disease, both tyrosine hydroxylase and KHC immunoreactivities were
+\nreduced in remaining neuromelanin-laden nigral neurons. Non-tyrosine hydroxylase-immunoreactive cells [arrowheads; C(i and iii)]
+\nexhibited intensive KHC-immunoreactive in neuronal soma and processes. Scale bar = 160 mm (applies to all).
+\n
+\n## Figure 3
+\nConfocal microscopy images of substantia nigra from age-matched control [A(i–iii)], Hoehn and Yahr (H&Y) stage 1 Parkinson’s disease (PD) [B(i–iii)] and Hoehn and Yahr stage 4 Parkinson’s disease [C(i–iii)] illustrating immunostaining for DYNLT3 [green; A(i), B(i) and C(i)], tyrosine hydroxylase [TH; red; A(ii), B(ii) and C(ii)] and co-localization of DYNLT3 and tyrosine hydroxylase [merged; A(iii),
+\nB(iii) and C(iii)]. Every tyrosine hydroxylase-immunoreactive neuron exhibited DYNLT3 immunostaining in neuronal soma and processes in age-matched control [A(iii)]. In Hoehn and Yahr stage 1 Parkinson’s disease cases, most tyrosine hydroxylase-immunoreactive nigral neurons exhibited DYNLT3 labelling in both soma and processes [arrows; B(i–iii)], whereas fewer neurons exhibited light DYNLT3 staining [arrowheads; B(i–iii)]. DYNLT3 immunofluorescence intensity was markedly reduced in tyrosine hydroxylase-immunoreactive neurons [arrowheads; C(i and iii)], but intensive DYNLT3 staining was observed in non-tyrosine hydroxylase-immunoreactive cells [arrow; C(i and
+\niii)] in Hoehn and Yahr stage 4 Parkinson’s disease. Scale bar = 120 mm (applies to all).
+\n
+\n## Figure 4
+\nHistograms showing optical density values for KHC
+\n(A), KLC1 (B), DYNLT3 (C) and tyrosine hydroxylase (TH; D)
+\nfluorescent intensity within nigral neurons of the age-matched
+\ncontrols (aged; n = 9), Hoehn and Yahr stages 1–2 Parkinson’s
+\ndisease (PD; n = 6) and Hoehn and Yahr stages 3–5 Parkinson’s
+\ndisease (n = 10). Optical density values for KHC and KLC1,
+\nbut not DYNLT3 and tyrosine hydroxylase, were significantly
+\nreduced in Hoehn and Yahr stages 1–2 Parkinson’s disease
+\ncompared with age-matched controls. In Hoehn and Yahr stages
+\n3–5 Parkinson’s disease, optical densities for KHC, KLC1,
+\nDYNLT3 and tyrosine hydroxylase were all significantly
+\ndecreased relative to age-matched controls. [***P50.001,
+\n*P50.05 compared with age-matched controls; #P50.05
+\ncompared with Parkinson’s disease (Hoehn and Yahr 1–2)]. Data
+\nare mean  SD. AFU = arbitrary fluorescence units.
+\n
+\n## Figure 5
+\nConfocal microscopic images of substantia nigra from age-matched control (A–C) and Hoehn and Yahr stage 3 Parkinson’s disease (PD) (D–F) illustrating immunostaining for KLC1 (green; A and D), -synuclein (-syn; red; B and E) and co-localization of KLC1
+\nand -synuclein (merged; C and F). Note that KLC1 immunofluorescence intensity was extensively reduced in both nigral neurons with
+\n(arrows, D–F) or without (arrowheads, D–F) -synuclein inclusions, relative to age-matched controls (B and C). Nigral neurons labelled
+\nwith cytoplasmic -synuclein (no inclusion; arrows, B) in age-matched controls exhibited intensive KLC1 labelling that was similar in
+\nintensity to that of neurons without -synuclein-immunoreactive cytoplasm. Scale bar = 80 mm (applies to all).
+\n
+\n## Figure 6
+\nConfocal microscopic images of putamen from age-matched control (A–C) and Hoehn and Yahr stage 3 Parkinson’s disease (PD) (D–I) illustrating fibres labelled with tyrosine hydroxylase (TH; green; A and D), KHC (green; G), serine129-phosphorylated
+\n-synuclein (s-129; red; B, E and H) and co-localization of tyrosine hydroxylase with s-129 (merged; C and F) and KHC with s-129 (merged; I). Note that processes featuring s-129 immunoreactivity (E and F) displayed light tyrosine hydroxylase labelling and swollen varicosities (arrows; D–F) compared with age-matched controls (A and C). Interestingly, there was no detectable KHC (arrowheads in I) in fibres filled with phosphorylated Ser-129 (arrowheads; H and I). Conversely, fibres stained with KHC (arrows; G and I) did not display detectable s-129 immunoreactivity. Scale bar = 20 mm (applies to all).
+\n
+\n## Figure 7
+\nHistograms showing optical density values of KLC1
+\n(A) and DYNLT3 (B) immunofluorescence intensity in nigral
+\nneurons with or without -synuclein inclusions in both sporadic
+\nParkinson’s disease (PD; n = 10) and age-matched control
+\n(n = 9) groups. Optical densities of KLC1 immunofluorescence
+\nintensity were significantly reduced in Parkinson’s disease neurons
+\nrelative to age-matched controls, regardless of -synuclein
+\nimmunoreactivity levels, but neurons with -synuclein inclusions
+\ndisplayed greater decreases of optical density of KLC1 immunofluorescence.
+\nThe optical density of DYNLT3 immunofluorescence
+\nintensity was significantly reduced only in neurons
+\nwith -synuclein inclusions (B). (***P50.001; compared with
+\nage-matched controls; ###P50.001; ##P50.05 related to
+\nneurons without -synuclein inclusion in Parkinson’s disease).
+\nData are means  SD. AFU = arbitrary fluorescence units.
+\n
+\n## Figure 8
+\nLaser confocal microscopy images of substantia nigra illustrating immunoreactivities for human -synuclein (-syn; green; A), KHC (red; B) and merged (C) from rats with targeted expression of human mutant (A30P) -synuclein and green fluorescence
+\nprotein (GFP; green; D), KHC (red; E) and merged (F) from rat with target expression GFP. Note that the KHC immunofluorescent intensity was diminished by targeting expression of -synuclein. KHC immunoreactivity was observed in the cells without
+\n-synuclein immunoreactivity (arrowheads; B and C) but not in cells with -synuclein immunoreactivity (arrows; A–C). In contrast, GFP-positive neurons displayed intensive KHC immunostaining (arrows; E and F) similar to the GFP-negative cells (arrowheads).
+\nScale bar = 110 mm (applies to all).
+\n
+\n# Figure 9
+\nConfocal microscopic images of putamen from rats with targeted expression of either green fluorescent protein (AAV-GFP; A–C) or human mutant (A30P) -synuclein (AAV--syn; D–I) illustrating fibres labelled with tyrosine hydroxylase (TH; red; A and D), KHC
+\n(green; G), phosphorylated Ser-129 -synuclein (s-129; green; B and E, red; H) and co-localization of s-129 with tyrosine hydroxylase (merge; C and F) or s-129 with KHC (merged; I). Note that axonal fibres filled with phosphorylated Ser-129 (arrows; E) displayed swollen varicosities (D and F; arrows). Interestingly, KHC was undetectable in axonal fibres filled with phosphorylated Ser-129 (G–I; arrowheads) but abundant in fibres where phosphorylated Ser-129 labelling was absent (G and I; arrows). There was no significant immunoreactivity for phosphorylated Ser-129 in rats with targeted expression of GFP (B). Scale bar = 20 mm (applies to all).
+\n
+\nFigure 10 Histogram showing optical density values of KHC (A)
+\nand DYNLT3 (B) immunofluorescence intensity within nigral
+\nneurons from uninjected rats (control; n = 8), rats with targeted
+\nexpression of GFP (n = 8) and rats with targeted expression of
+\nhuman mutant (A30P) -synuclein (-syn; n = 8). In rats with
+\ntargeted expression of human A30P -syn, optical density values
+\nof KHC (A) and DYNLT3 (B) immunofluorescence intensity were
+\nsignificantly reduced in neurons with -synuclein (-syn + ) and
+\nwithout -synuclein (-syn), relative to control rats. In rats
+\nwith targeted expression of human GFP, optical densities of KHC
+\nand DYNLT3 were unchanged in both GFP-positive (GFP+ ) and
+\n-negative (GFP) neurons, compared with control rats.
+\n(***P50.001; compared with controls; #P50.05 related to
+\nneurons without -synuclein). Data are means  SD.
+\nAFU = arbitrary fluorescence units.
+\n
+\n
+\n
+\n
+\n# Supplementary material
+\nSupplementary material is available at Brain online.
+\nReferences
+\nChu Y, Kordower JH. Age-associated increases of alpha-synuclein in
+\nmonkeys and humans are associated with nigrostriatal dopamine depletion:
+\nis this the target for Parkinson’s disease? Neurobiol Dis 2007;
+\n25: 134–49.
+\nChu Y, Dodiya H, Aebischer P, Olanow CW, Kordower JH. Alterations in
+\nlysosomal and proteasomal markers in Parkinson’s disease: relationship
+\nto alpha-synuclein inclusions. Neurobiol Dis 2009; 35: 385–98.
+\nChu Y, Le W, Kompoliti K, Jankovic J, Mufson EJ, Kordower JH. Nurr1 in
+\nParkinson’s disease and related disorders. J Comp Neurol 2006; 494:
+\n495–514.
+\nChu Y, Mickiewicz AL, Kordower JH. -Synuclein aggregation reduces
+\nnigral myocyte enhancer factor-2D in idiopathic and experimental
+\nParkinson’s disease. Neurobiol Dis 2011; 41: 71–82.
+\nChung CY, Koprich JB, Siddiqi H, Isacson O. Dynamic changes in presynaptic
+\nand axonal transport proteins combined with striatal
+\nneuroinflammation precede dopaminergic neuronal loss in a rat
+\nmodel of AAV alpha-synucleinopathy. J Neurosci 2009; 29: 3365–73.
+\nCross DJ, Flexman JA, Anzai Y, Maravilla KR, Minoshima S. Age-related
+\ndecrease in axonal transport measured by MR imaging in vivo.
+\nNeuroimage 2008; 39: 915–26.
+\nDauer W, Przedborski S. Parkinson’s disease: mechanisms and models.
+\n[Review]. Neuron 2003; 39: 889–909.
+\nFlavell SW, Cowan CW, Kim TK, Greer PL, Lin Y, Paradis S, et al.
+\nActivity-dependent regulation of MEF2 transcription factors suppresses
+\nexcitatory synapse number. Science 2006; 311: 1008–12.
+\nFlavell SW, Kim TK, Gray JM, Harmin DA, Hemberg M, Hong EJ, et al.
+\nGenome-wide analysis of MEF2 transcriptional program reveals synaptic
+\ntarget genes and neuronal activity-dependent polyadenylation site
+\nselection. Neuron 2008; 60: 1022–38.
+\nGorbatyuk OS, Li S, Sullivan LF, Chen W, Kondrikova G,
+\nManfredsson FP, et al. The phosphorylation state of Ser-129 in
+\nhuman alpha-synuclein determines neurodegeneration in a rat model
+\nof Parkinson disease. Proc Natl Acad Sci USA 2008; 105: 763–8.
+\nGyoeva FK, Bybikova EM, Minin AA. An isoform of kinesin light chain
+\nspecific for the Golgi complex. J Cell Sci 2000; 113: 2047–54.
+\nIseki E, Kato M, Marui W, Ue´ da K, Kosaka K. A neuropathological study
+\nof the disturbance of the nigro-amygdaloid connections in brains from
+\npatients with dementia with Lewy bodies. J Neurol Sci 2001; 185:
+\n129–34.
+\nIwai A, Masliah E, Yoshimoto M, Ge N, Flanagan L, de Silva HA, et al.
+\nThe precursor protein of non-A beta component of Alzheimer’s disease
+\namyloid is a presynaptic protein of the central nervous system. Neuron
+\n1995; 14: 467–75.
+\nJakes R, Crowther RA, Lee VM, Trojanowski JQ, Iwatsubo T, Goedert M.
+\nEpitope mapping of LB509, a monoclonal antibody directed against
+\nhuman alpha-synuclein. Neurosci Lett 1999; 269: 13–6.
+\nJensen PH, Li JY, Dahlstro¨m A, Dotti CG. Axonal transport of
+\nsynucleins is mediated by all rate components. Eur J Neurosci 1999;
+\n11: 3369–76.
+\nKanaan NM, Kordower JH, Collier TJ. Age-related accumulation of
+\nMarinesco bodies and lipofuscin in rhesus monkey midbrain dopamine
+\nneurons: relevance to selective neuronal vulnerability. J Comp Neurol
+\n2007; 502: 683–700.
+\nKirik D, Annett LE, Burger C, Muzyczka N, Mandel RJ, Bjo¨ rklund A.
+\nNigrostriatal alpha-synucleinopathy induced by viral vector-mediated
+\noverexpression of human alpha-synuclein: a new primate model of
+\nParkinson’s disease. Proc Natl Acad Sci USA 2003; 100: 2884–9.
+\nLi W, Hoffman PN, Stirling W, Price DL, Lee MK. Axonal transport of
+\nhuman alpha-synuclein slows with aging but is not affected by familial
+\nParkinson’s disease-linked mutations. J Neurochem 2004; 88: 401–10.
+\nLo KW, Kogoy JM, Pfister KK. The DYNLT3 light chain directly links
+\ncytoplasmic dynein to a spindle checkpoint protein, Bub3. J Biol
+\nChem 2007; 282: 11205–12.
+\nLykkebo S, Jensen PH. alpha-synuclein and presynaptic function: implications
+\nfor Parkinson’s disease.[Review]. Neuromol Med 2002; 2:
+\n115–29.
+\nMadine J, Doig AJ, Middleton DA. A study of the regional effects of
+\nalpha-synuclein on the organization and stability of phospholipid
+\nbilayers. Biochemistry 2006; 45: 5783–92.
+\nMbefo MK, Paleologou KE, Boucharaba A, Oueslati A, Schell H,
+\nFournier M, et al. Phosphorylation of synucleins by members of the
+\nPolo-like kinase family. J Biol Chem 2010; 285: 2807–22.
+\nMoran LB, Ko¨ sel S, Spitzer C, Schwaiger FW, Riess O, Kreutzberg GW,
+\net al. Expression of alpha-synuclein in non-apoptotic, slowly degenerating
+\nfacial motoneurones. J Neurocytol 2001; 30: 515–21.
+\nMorfini GA, Burns M, Binder LI, Kanaan NM, LaPointe N, Bosco DA,
+\net al. Axonal transport defects in neurodegenerative diseases.
+\n[Review]. J Neurosci 2009; 29: 12776–86.
+\nMorfini G, Pigino G, Opalach K, Serulle Y, Moreira JE, Sugimori M, et al.
+\n1-Methyl-4-phenylpyridinium affects fast axonal transport by activation
+\nof caspase and protein kinase C. Proc Natl Acad Sci USA 2007;
+\n104: 2442–47.
+\n
+\n
+\n
+\nEXTRACT
+\n
+\nFigure 9 Confocal microscopic images of putamen from rats with targeted expression of either green fluorescent protein (AAV-GFP;
+\nA–C) or human mutant (A30P) alpha-synuclein (AAV--syn; D–I) illustrating fibres labelled with tyrosine hydroxylase (TH; red; A and D), KHC
+\n(green; G), phosphorylated Ser-129 -synuclein (s-129; green; B and E, red; H) and co-localization of s-129 with tyrosine hydroxylase
+\n(merge; C and F) or s-129 with KHC (merged; I). Note that axonal fibres filled with phosphorylated Ser-129 (arrows; E) displayed swollen
+\nvaricosities (D and F; arrows). Interestingly, KHC was undetectable in axonal fibres filled with phosphorylated Ser-129 (G–I; arrowheads)
+\nbut abundant in fibres where phosphorylated Ser-129 labelling was absent (G and I; arrows). There was no significant immunoreactivity
+\nfor phosphorylated Ser-129 in rats with targeted expression of GFP (B). Scale bar = 20 mm (applies to all).Scale bar = 110 mm (applies to all).
+\n
+\n
+\n
+  `,
   3: `here is some text with a <Link>|/window2/2|[2] `,
   4:`# Curcumin Treatment Improves Motor Behavior in α-Synuclein Transgenic Mice
 \n
