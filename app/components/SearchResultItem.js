@@ -8,27 +8,25 @@ const converter = new showdown.Converter();
 class SearchResultItem extends Component {
   render() {
     const { id, title, previewText, authors, year, currentSearch} = this.props;
-    //const titleHtml = converter.makeHtml(title);
-    //const previewHtml = converter.makeHtml(previewText);
-    //const boldTerms = function(text, term){
-      //let i =0;
-      //return text.split(' ').map(function(word){
-          //if(word === term) {
-            //return (<b key={i++}>{word} </b>);
-          //} else {
-            //return (<span key={i++}>{word} </span>);
-          //}
-        //});
-    //}
-    //const boldedPreviewText = boldTerms(previewText, currentSearch);
-    //const boldedTitle = boldTerms(title, currentSearch);
+    const titleStyle = {
+      color:'turquoise'
+    }
+    const authorStyle= {
+      color:'#ffcc00'
+    }
+    const previewStyle= {
+      color:'gray'
+    }
+    const yearStyle= {
+      color:'blue'
+    }
     return (
       <div key={id} className="searchResultItem" >
         <Link to={'/window2/'+id}>
-          <span dangerouslySetInnerHTML={{__html: title}}></span><br/>
-          {authors.join(' ')}<br/>
-          {year}<br/>
-          <span dangerouslySetInnerHTML={{__html: previewText}}></span><br/>
+          <span style={titleStyle} dangerouslySetInnerHTML={{__html: title}}></span><br/>
+          <span style={authorStyle}>{authors.join(' ')}</span><br/>
+          <span style={yearStyle}>{year}</span><br/>
+          <span style={previewStyle} dangerouslySetInnerHTML={{__html: previewText}}></span><br/>
         </Link>
       </div>
     );
