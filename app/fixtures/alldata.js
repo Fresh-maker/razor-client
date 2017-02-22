@@ -71,7 +71,7 @@ const ALL_DATA = [
     title: "Alterations in axonal transport motor proteins in sporadic and experimental Parkinson’s disease",
     previewText: "Figure 9 Confocal microscopic images of putamen from rats with targeted expression of either green fluorescent protein (AAV-GFP; A–C) or human mutant (A30P) -synuclein (AAV--syn; D–I) illustrating fibres labelled with tyrosine hydroxylase (TH; red; A and D), KHC (green; G), <b>phosphorylated Ser-129 -synuclein (s-129; green;</b> B and E, red; H) and co- localization of s-129 with tyrosine hydroxylase (merge; C and F) or s-129 with KHC (merged; I). Note that axonal fibres filled with phosphorylated Ser-129 (arrows; E) displayed swollen varicosities (D and F; arrows). Interestingly, KHC was undetectable in axonal fibres filled with phosphorylated Ser-129 (G–I; arrowheads) but abundant in fibres where phosphorylated <b>Ser-129</b> labelling was absent (G and I; arrows).  There was no significant immunoreactivity for phosphorylated Ser-129 in rats with targeted expression of GFP (B). Scale bar = 20 mm (applies to all).Scale bar = 110 mm (applies to all).",
     authors: [
-      'TBD'
+      'Yaping Chu', 'Gerardo A. Morfini', 'Lori B. Langhamer', 'Yinzhen He', 'Scott T. Brady', 'Jeffrey H. Kordower'
     ],
     year: "",
     journal: "",
