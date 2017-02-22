@@ -9,7 +9,7 @@ import Window2Page from './containers/Window2Page';
 
 
 export default (
-  <Route path="/" component={Home}>
+  <Route path="/" component={HomePage}>
     <Route path="/window2/:id" component={Window2Page} />
   </Route>
 );
