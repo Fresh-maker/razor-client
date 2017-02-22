@@ -47,7 +47,7 @@ a:hover {
 
 .lookup{
     float: left;
-    width: 480px;
+    width: 615px;
     text-overflow: clip;
 border:none !important;
 background-color: black;
@@ -67,4 +67,11 @@ background-color: black;
   overflow:scroll;
   white-space:pre-wrap;
 
+}
+.facets{
+    border: 3px solid  rgba(143, 143, 143, 0.4);
+    padding: 30px;
+    margin: 15px;
+    width: inherit;
+    height: 700px;
 }

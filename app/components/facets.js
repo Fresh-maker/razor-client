@@ -6,6 +6,7 @@ class Facets extends Component {
     const { updateFacet, facets } = this.props;
     return (
       <div className="facets">
+        <div className="three columns">
         Journal:<br/>
         {
           ['Cell', 'Nature','Elsevier','Science'].map( (journal)=> {
@@ -24,7 +25,9 @@ class Facets extends Component {
         Original Research: <input onChange={updateFacet} value="originalResearch" name="publicationType" type="radio"/><br/>
         Review: <input onChange={updateFacet} value="review" name="publicationType" type="radio"/><br/>
         Patent: <input onChange={updateFacet} value="patent" name="publicationType" type="radio"/><br/>
+</div>
       </div>
+
     );
   }
 }
