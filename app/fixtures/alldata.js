@@ -36,7 +36,8 @@ const ALL_DATA = [
   {
     id: 4,
     title: "Targeted Overexpression of α-Synuclein by rAAV2/1 Vectors Induces Progressive Nigrostriatal Degeneration and Increases Vulnerability to MPTP in Mouse",
-    previewText: "Fig 1. Overexpression of α-syn in the SNpc after rAAV-α-syn transduction. Western blotting showed a significant expression of <b>human-α-syn</b> in HEK293 cells 96 hours after transduction (A). The position of SNpc was indicated (B) and TH positive staining (Red) indicated a loss of DA neurons in the SNpc 8 weeks after rAAV-α-syn injection, however, the co-staining of <<b>>human-αsyn (Green)</<b>> was also observed in the existing DA neurons (I-K). The overexpression of GFP was also detected in TH-positive neurons in the SNpc after rAAV2/1-GFP injection (F-H). And no <<b>>α-syn staining</<b>> was observed in the none-injected mouse (C-E). TH staining confirmed no loss of DA neurons in GFP and none injected group. <b>Antibody against human α-syn was used (CST)</b>. Scale bar: 100μm.",
+    searchTerm:"alpha-Synuclein, immunohistochemistry, human",
+    previewText: "Fig 1. Overexpression of α-syn in the SNpc after rAAV-α-syn transduction. Western blotting showed a significant expression of <b>human-α-syn</b> in HEK293 cells 96 hours after transduction (A). The position of SNpc was indicated (B) and TH positive staining (Red) indicated a loss of DA neurons in the SNpc 8 weeks after rAAV-α-syn injection, however, the co-staining of <b>human-αsyn (Green)</b> was also observed in the existing DA neurons (I-K). The overexpression of GFP was also detected in TH-positive neurons in the SNpc after rAAV2/1-GFP injection (F-H). And no <b>α-syn staining</b> was observed in the none-injected mouse (C-E). TH staining confirmed no loss of DA neurons in GFP and none injected group. <b>Antibody against human α-syn was used </b>(CST). Scale bar: 100μm.",
     authors: [
       'Lian-Kun Song1', 'Kai-Li Ma1','3', 'Yu-He Yuan1', 'Zheng Mu1', 'Xiu-Yun Song1', 'Fei Niu1', 'Ning Han1', 'Nai-Hong Chen1,2'
     ],
@@ -47,6 +48,7 @@ const ALL_DATA = [
   {
     id: 5,
     title: "Curcumin Treatment Improves Motor Behavior in α-Synuclein Transgenic Mice",
+    searchTerm:"alpha-Synuclein, immunohistochemistry, human",
     previewText: "Fig 1. Curcumin stains Lewy Bodies. (A) Individual fluorescence spectra of curcumin, Alexa-647 secondary antibody, and two autofluorescent components, defined by spectral imaging and linear unmixing. Autofluorescence components (B, C) were clearly separated from adjacent curcumin- positive (D) structures, which were defined as Lewy Bodies because they co-labeled with S129- <b>P-α-synuclein-A647 antibodies</b> (E, G). Minimal unassigned residual light (F) demonstrates a high efficiency of the unmixing technique for the defined spectra. (Scale bar = 10 μm)<br/><br/> Fig 4. Increased <b>S129-P-α-synuclein</b> in curcumin diet mice. <b>Immunohistochemical</b> detection of <b>S129-P-α-synuclein</b> in <b>cortical tissue</b> from control (A) and curcumin (B) diet mice. (C) Quantification of GFP and S129-P fluorescence at individual presynaptic terminals shows significant changes in S129-P puncta, but no change in GFP. (D) Analysis of GFP/S129-P colocalization (CoLoc channel), and quantification of the Pearson’s Colocalization Coefficient (E)",
     authors: [
       'Kateri J. Spinelli', 'Valerie R. Osterberg', 'Charles K. Meshul', 'Amala Soumyanath', 'Vivek K. Unni'
@@ -57,6 +59,7 @@ const ALL_DATA = [
   },
   {
     id: 6,
+    searchTerm:"alpha-Synuclein, immunohistochemistry, human",
     title: "Presynaptic Alpha-Synuclein Aggregation in a Mouse Model of Parkinson’s Disease",
     previewText: "Figure7. <b>Immunohistochemistry</b> of terminals.A,Top,Three panels showing Syn-GFP expression in axons and terminals(Left),staining for <b>serine-129 phosphorylated-synuclein (pSyn, Middle)</b>, and the overlay (Right). Middle, Three panels showing Syn-GFP expression in axons and terminals (Left), staining for oxidized-<b>synuclein (syn303</b>, Middle), and the overlay (Right). Bottom, Three panels showing Syn-GFP expression in axons and terminals (Left), staining for the synaptic vesicle protein synapsin (synapsin, Middle), and the overlay (Right). Individual terminals demonstrating colocalization of Syn-GFP and antibody are marked with arrows and lack of colocalization is marked with arrowheads. Scale bar, 5m.",
     authors: [

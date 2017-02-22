@@ -11,7 +11,7 @@ class SearchResults extends Component {
     const getFilteredResults = function(allTerms){
       let i=0;
         return allTerms.filter(
-          (el)=>(el.title.toLowerCase() + ' ' + el.previewText.toLowerCase()).indexOf(currentSearch.toLowerCase()) > -1
+          (el)=>((el.searchTerm || '').toLowerCase()+ ' ' + el.title.toLowerCase() + ' ' + el.previewText.toLowerCase()).indexOf(currentSearch.toLowerCase()) > -1
         ).filter(function(el){
           const facetCount = Object.keys(_.filter(facets,(f)=>f.length > 0)).length;
           if(facetCount < 1) {return true;}
