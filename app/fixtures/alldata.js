@@ -14,13 +14,14 @@ const ALL_DATA = [
   {
     id: 2,
     title: "Alpha-synuclein-induced neurodegeneration is exacerbated in PINK1 knockout mice",
+    searchTerm: 'PINK1 Knockout generation, mouse',
     previewText: "Abstract Loss-of-function mutations in the PINK1 gene lead to recessive forms of Parkinson's disease. Animal models with depleted PINK1 expression have failed to reproduce significant nigral dopaminergic neurodegeneration and clear alpha-synuclein pathology, main ",
     authors: [
       'Marusela Oliveras-Salvá', 'Francesca Macchi', 'Valérie Coessens', 'Angélique Deleersnijder', 'Melanie Gérard', 'Anke Van der Perren', 'Chris Van den Haute', 'Veerle Baekelandt'
     ],
     year: "2014",
     journal: "Elsevier",
-    fullText: FULLTEXT_BY_ID[0]
+    fullText: FULLTEXT_BY_ID[8]
   },
   {
     id: 3,

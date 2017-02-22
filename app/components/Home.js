@@ -42,7 +42,6 @@ export default class Home extends Component {
                 <button className="button-primary margin" >Mthd</button>
                 <button className="button-primary" >Tisu</button>
                 <button className="button-primary margin">Gene</button>
-                <button onClick={toggleModal}>Show Modal</button>
               </div>
             </div>
             <div className="row">
