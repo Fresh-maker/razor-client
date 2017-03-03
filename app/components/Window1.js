@@ -1,7 +1,6 @@
 // @flow
 import React, { Component } from 'react';
 import { Link } from 'react-router';
-import { Text } from 'react-dom';
 import styles from './Window1.css';
 import SearchResults from './SearchResults.js';
 import FacetPage from '../containers/FacetPage.js';

@@ -1,12 +1,13 @@
 // @flow
-import { UPDATE_SEARCH, INCREMENT_COUNTER, DECREMENT_COUNTER, UPDATE_FACETS } from '../actions/window1';
+import { UPDATE_SEARCH, UPDATE_FACETS } from '../actions/window1';
 
 export type window1StateType = {
   currentSearch: string
 };
 
 type actionType = {
-  type: string
+  type: string,
+  payload: Object
 };
 
 export default function facets(state: Object = {}, action: actionType) {

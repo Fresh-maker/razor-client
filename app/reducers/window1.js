@@ -1,5 +1,5 @@
 // @flow
-import { UPDATE_SEARCH, INCREMENT_COUNTER, DECREMENT_COUNTER, UPDATE_FACETS } from '../actions/window1';
+import { UPDATE_SEARCH, UPDATE_FACETS } from '../actions/window1';
 
 export type window1StateType = {
   currentSearch: string,
@@ -7,7 +7,8 @@ export type window1StateType = {
 };
 
 type actionType = {
-  type: string
+  type: string,
+  payload: string
 };
 
 export default function window1(state: Object = { currentSearch: 'Try Pink1 GENE', facets: {} }, action: actionType) {

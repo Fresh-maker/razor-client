@@ -1,7 +1,6 @@
 // @flow
 import React, { Component } from 'react';
 import { Link } from 'react-router';
-import { Text } from 'react-dom';
 import _ from 'underscore';
 import showdown from 'showdown';
 import styles from './Window2.css';
