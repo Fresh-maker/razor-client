@@ -10,21 +10,21 @@ const IMAGES_BY_PAPER_ID = [
     id: 10,
     directory: 'paper2',
     imageNames: [
-      'fig1.png','fig2.png'
+      'fig1.png', 'fig2.png'
     ]
   },
   {
     id: 2,
     directory: 'paper2',
     imageNames: [
-      'fig1.png','fig2.png'
+      'fig1.png', 'fig2.png'
     ]
   },
   {
     id: 4,
     directory: 'paper2',
     imageNames: [
-      'fig1.png','fig2.png'
+      'fig1.png', 'fig2.png'
     ]
   },
   {
@@ -41,8 +41,7 @@ const IMAGES_BY_PAPER_ID = [
       'fig1.png'
     ]
   },
-]
-
+];
 
 
 export default IMAGES_BY_PAPER_ID;

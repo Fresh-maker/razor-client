@@ -18,13 +18,13 @@ class Window2 extends Component {
     const html = converter.makeHtml(text);
     return (
       <div className="window2">
-      <div className="row">
-        <p>Window2</p>
-        <div className="fullDetails seven columns" dangerouslySetInnerHTML={{__html: html}} ></div>
-        <DetailMetadata paperId={id}></DetailMetadata>
-      </div>
+        <div className="row">
+          <p>Window2</p>
+          <div className="fullDetails seven columns" dangerouslySetInnerHTML={{ __html: html }} />
+          <DetailMetadata paperId={id} />
+        </div>
 
-    </div>
+      </div>
     );
   }
 }

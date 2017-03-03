@@ -16,26 +16,26 @@ class History extends Component {
 }
 export default class Home extends Component {
   render() {
-    //const { modalIsOpen, closeModal } =
+    // const { modalIsOpen, closeModal } =
     const { modal, showModal, toggleModal } = this.props;
-    const closeModal= function(){alert('close')};
-    const customStyles= { backgroundColor:'#222' };
+    const closeModal = function () { alert('close'); };
+    const customStyles = { backgroundColor: '#222' };
     const currentModal = 'history';
-    let currentModalJSX = (<div></div>)
-    if(currentModal === 'history'){
-      currentModalJSX = (<div>history</div>)
-    } else if(currentModal === 'images'){
-      currentModalJSX = (<div>images</div>)
+    let currentModalJSX = (<div />);
+    if (currentModal === 'history') {
+      currentModalJSX = (<div>history</div>);
+    } else if (currentModal === 'images') {
+      currentModalJSX = (<div>images</div>);
     }
     return (
       <div >
         <div className="home-page">
           <div className="styles.container">
-              <div className="row"> Hit &lt;HELP&gt; for more info,  &lt;MENU&gt; for list of Similar functions, &lt;HIST&gt; for last actions    </div>
+            <div className="row"> Hit &lt;HELP&gt; for more info,  &lt;MENU&gt; for list of Similar functions, &lt;HIST&gt; for last actions              </div>
             <div className="row">
               <div className="navBar">
-                  <button className="button-primary green">HELP</button>
-                    <button className="button-primary green">MENU</button>
+                <button className="button-primary green">HELP</button>
+                <button className="button-primary green">MENU</button>
                 <button className="button-primary green">HIST</button>
                 <button className="button-primary margin">Peop</button>
                 <button className="button-primary ">Anti</button>
@@ -46,7 +46,7 @@ export default class Home extends Component {
             </div>
             <div className="row">
               <div className="six columns"> <Window1Page /> </div>
-              <div className="six columns"> {(typeof this.props.children !== "undefined") && this.props.children} </div>
+              <div className="six columns"> {(typeof this.props.children !== 'undefined') && this.props.children} </div>
             </div>
             <Modal
               isOpen={modal.isOpen}
@@ -59,9 +59,9 @@ export default class Home extends Component {
               <button onClick={toggleModal}>close</button>
               <div>I am a modal</div>
             </Modal>
+          </div>
         </div>
       </div>
-    </div>
     );
   }
 }

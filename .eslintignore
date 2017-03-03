@@ -1,4 +1,11 @@
 flow-typed/
 app/dist/
 app/main.js
+app/fixtures/
+app/components/
+app/test/
+app/reducers/
+app/routes/
+app/containers/
+test/
 node_modules
