@@ -4,6 +4,7 @@ import { Link } from 'react-router';
 import styles from './Window1.css';
 import SearchResults from './SearchResults.js';
 import FacetPage from '../containers/FacetPage.js';
+import SearchBar from './SearchBar';
 
 
 class Window1 extends Component {
@@ -11,10 +12,7 @@ class Window1 extends Component {
     const { currentSearch, facets, updateSearch } = this.props;
     return (
       <div>
-        <div className="row">
-          <input className="lookup" type="text" defaultValue="Try Pink1 GENE" onChange={updateSearch} />
-        </div>
-
+        <SearchBar {...this.props}/>
         <div className="row">
           <p>RESULTS</p>
         </div>
