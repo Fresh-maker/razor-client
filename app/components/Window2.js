@@ -1,7 +1,6 @@
 // @flow
 import React, { Component } from 'react';
 import { Link } from 'react-router';
-import { Text } from 'react-dom';
 import _ from 'underscore';
 import showdown from 'showdown';
 import styles from './Window2.css';
@@ -18,13 +17,13 @@ class Window2 extends Component {
     const html = converter.makeHtml(text);
     return (
       <div className="window2">
-      <div className="row">
-        <p>Window2</p>
-        <div className="fullDetails seven columns" dangerouslySetInnerHTML={{__html: html}} ></div>
-        <DetailMetadata paperId={id}></DetailMetadata>
-      </div>
+        <div className="row">
+          <p>Window2</p>
+          <div className="fullDetails seven columns" dangerouslySetInnerHTML={{ __html: html }} />
+          <DetailMetadata paperId={id} />
+        </div>
 
-    </div>
+      </div>
     );
   }
 }

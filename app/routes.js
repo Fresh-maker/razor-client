@@ -1,10 +1,7 @@
 // @flow
 import React from 'react';
-import { Route, IndexRoute } from 'react-router';
-import App from './containers/App';
-import Home from './components/Home';
+import { Route } from 'react-router';
 import HomePage from './containers/HomePage';
-import Window1Page from './containers/Window1Page';
 import Window2Page from './containers/Window2Page';
 
 

@@ -5,17 +5,17 @@ type actionType = {
   type: string
 };
 
-export default function modal(state: Object = {isOpen: false}, action: actionType) {
+export default function modal(state: Object = { isOpen: false }, action: actionType) {
   switch (action.type) {
     case SHOW_MODAL:
-      let modalState = {
+      const modalState = {
         isOpen: true
-      }
+      };
       return Object.assign({}, state, modalState);
     case TOGGLE_MODAL:
-      let toggleModalState = {
+      const toggleModalState = {
         isOpen: !state.isOpen
-      }
+      };
       return Object.assign({}, state, toggleModalState);
     default:
       return state;

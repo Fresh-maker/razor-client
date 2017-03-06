@@ -1,6 +1,6 @@
 const FULLTEXT_BY_ID = {
-  0:`Article not yet imported`,
-  1:`# Efficient Generation of A9 Midbrain Dopaminergic Neurons by Lentiviral Delivery of LMX1A in Human Embryonic Stem Cells and Induced Pluripotent Stem Cells
+  0: 'Article not yet imported',
+  1: `# Efficient Generation of A9 Midbrain Dopaminergic Neurons by Lentiviral Delivery of LMX1A in Human Embryonic Stem Cells and Induced Pluripotent Stem Cells
 \n
 \n###  A. Sánchez-Dane, A. Consiglio, Y. Richaud, I. Rodrıguez-Piza, B.Dehay M. Edel, Bové M. Memo, M. Vila, A. Raya, and J.C.Izpisua Belmonte
 \n
@@ -1183,8 +1183,8 @@ const FULLTEXT_BY_ID = {
 \n
 \n
   `,
-  3: `here is some text with a <Link>|/window2/2|[2] `,
-  4:`# Curcumin Treatment Improves Motor Behavior in α-Synuclein Transgenic Mice
+  3: 'here is some text with a <Link>|/window2/2|[2] ',
+  4: `# Curcumin Treatment Improves Motor Behavior in α-Synuclein Transgenic Mice
 \n
 \n## Kateri J. Spinelli, Valerie R. Osterberg, Charles K. Meshul, Amala Soumyanath, Vivek K. Unni
 \n
@@ -1337,12 +1337,13 @@ const FULLTEXT_BY_ID = {
 \n35. Nübling GS, Levin J, Bader B, Lorenzl S, Hillmer A, Högen T, et al. (2014) Modelling Ser129 phosphory- lation inhibits membrane binding of pore-forming alpha-synuclein oligomers. PLoS ONE 9: e98906. doi: 10.1371/journal.pone.0098906 PMID: 24911099
 \n36. Giasson BI, Duda JE, Murray IV, Chen Q, Souza JM, Hurtig HI, et al. (2000) Oxidative damage linked to neurodegeneration by selective alpha-synuclein nitration in synucleinopathy lesions. Science 290: 985–989. doi: 10.1126/science.290.5493.985 PMID: 11062131
 `,
-  5:`# Generation of dopaminergic neurons and pigmented epithelia from primate ES cells by stromal cell-derived inducing activity
+  5: `# Generation of dopaminergic neurons and pigmented epithelia from primate ES cells by stromal cell-derived inducing activity
 \nProc Natl Acad Sci U S A. 2002 Feb 5;99(3):1580-5. Epub 2002 Jan 29.
 \n
 \n## Hiroshi Kawasaki, Hirofumi Suemori, enji Mizuseki, Kiichi Watanabe, Fumi Urano,Hiroshi Ichinose, Masatoshi Haruta, Masayo Takahashi, Kanako Yoshikawa, Shin-Ichi Nishikawa, Norio Nakatsuji,  and Yoshiki Sasai
 \nAuthor Affiliations
-\nCommunicated by Shigetada Nakanishi, Kyoto University, Kyoto, Japan (received for review November 19, 2001) 
+\nCommunicated by Shigetada Nakanishi, Kyoto University, Kyoto, Japan (received for review November 19, 2001)
+
 \n
 \n
 \n# Abstract
@@ -1438,35 +1439,77 @@ const FULLTEXT_BY_ID = {
 \n
 \n
 \n# References
-\n1. Hemmati-Brivanlou, A. & Melton, D. (1997) Annu. Rev. Neurosci. 20, 43–60.  
-\n2.	Sasai, Y. & De Robertis, E. M. (1997) Dev. Biol. 182, 5–20.  
-\n3.	Lamb, T. M., Knecht, A. K., Smith, W. C., Stachel, S. E., Economides, A. N.,  Stahl, N., Yancopolous, G. D. & Harland, R. M. (1993) Science 262, 713–718.  
-\n4.	Sasai, Y., Lu, B., Steinbeisser, H. & De Robertis, E. M. (1995) Nature (London)  376, 333–336.  
-\n5.	De Robertis, E. M. & Sasai, Y. (1996) Nature (London) 380, 37–40.  
-\n6.	Finley, M. F., Devata, S. & Huettner, J. E. (1999) J. Neurobiol. 40, 271–287.  
-\n7.	Kawasaki, H., Mizuseki, K., Nishikawa, S., Kaneko, S., Kuwana, Y., Nakanishi,  S., Nishikawa, S.-I. & Sasai, Y. (2000) Neuron 28, 31–40.  
-\n8.	Bain, G., Kitchens, D., Yao, M., Huettner, J. E. & Gottlieb, D. I. (1995) Dev.  Biol. 168, 342–357.  
-\n9.	Lee, S. H., Lumelsky, N., Studer, L., Auerbach, J. M. & McKay, R. D. (2000)  Nat. Biotechnol. 18, 675– 679.  
-\n10.	Suemori, H., Tada, T., Torii, R., Hosoi, Y., Kobayashi, K., Imahie, H., Kondo,  Y., Iritani, A. & Nakatsuji, N. (2001) Dev. Dyn. 222, 273–279.  
-\n11.	Thomson, J. A., Kalishman, J., Golos, T. G., Durning, M., Harris, C. P., Becker,  R. A. & Hearn, J. P. (1995) Proc. Natl. Acad. Sci. USA 92, 7844–7848.  
-\n12.	Thomson, J. A., Itskovitz-Eldor, J., Shapiro, S. S., Waknitz, M. A., Swiergiel,  J. J., Marshall, V. S. & Jones, J. M. (1998) Science 282, 1145–1147.  
-\n13.	Amit, M., Carpenter, M. K., Inokuma, M. S., Chiu, C. P., Harris, C. P., Waknitz,  M. A., Itskovitz-Eldor, J. & Thomson, J. A. (2000) Dev. Biol. 227, 271–278.  
-\n14.	Reubinoff, B. E., Pera, M. F., Fong, C. Y., Trounson, A. & Bongso, A. (2000)  Nat. Biotechnol. 18, 399 – 404.  
-\n15.	Kawasaki, H., Mizuseki, K. & Sasai, Y. (2001) in Methods in Molecular Biology,  ed. Turksen, K. (Humana, Totowa, NJ), Vol. 185, pp. 217–227.  
-\n16.	Mitsui, A., Nohta, H. & Ohkura, Y. (1985) J. Chromatogr. 344, 61–70.  
-\n17.	Schalling, M., Friberg, K., Seroogy, K., Riederer, P., Bird, E., Schiffmann, S. N.,  Mailleux, P., Vanderhaeghen, J. J., Kuga, S., Goldstein, M., et al. (1990) Proc.  Natl. Acad. Sci. USA 87, 8427– 8431.  
-\n18.	Kosaka, T., Hataguchi, Y., Hama, K., Nagatsu, I. & Wu, J. Y. (1985) Brain Res. 343, 166 –171. 
+\n1. Hemmati-Brivanlou, A. & Melton, D. (1997) Annu. Rev. Neurosci. 20, 43–60. 
+
+\n2.	Sasai, Y. & De Robertis, E. M. (1997) Dev. Biol. 182, 5–20. 
+
+\n3.	Lamb, T. M., Knecht, A. K., Smith, W. C., Stachel, S. E., Economides, A. N., 
+Stahl, N., Yancopolous, G. D. & Harland, R. M. (1993) Science 262, 713–718. 
+
+\n4.	Sasai, Y., Lu, B., Steinbeisser, H. & De Robertis, E. M. (1995) Nature (London) 
+376, 333–336. 
+
+\n5.	De Robertis, E. M. & Sasai, Y. (1996) Nature (London) 380, 37–40. 
+
+\n6.	Finley, M. F., Devata, S. & Huettner, J. E. (1999) J. Neurobiol. 40, 271–287. 
+
+\n7.	Kawasaki, H., Mizuseki, K., Nishikawa, S., Kaneko, S., Kuwana, Y., Nakanishi, 
+S., Nishikawa, S.-I. & Sasai, Y. (2000) Neuron 28, 31–40. 
+
+\n8.	Bain, G., Kitchens, D., Yao, M., Huettner, J. E. & Gottlieb, D. I. (1995) Dev. 
+Biol. 168, 342–357. 
+
+\n9.	Lee, S. H., Lumelsky, N., Studer, L., Auerbach, J. M. & McKay, R. D. (2000) 
+Nat. Biotechnol. 18, 675– 679. 
+
+\n10.	Suemori, H., Tada, T., Torii, R., Hosoi, Y., Kobayashi, K., Imahie, H., Kondo, 
+Y., Iritani, A. & Nakatsuji, N. (2001) Dev. Dyn. 222, 273–279. 
+
+\n11.	Thomson, J. A., Kalishman, J., Golos, T. G., Durning, M., Harris, C. P., Becker, 
+R. A. & Hearn, J. P. (1995) Proc. Natl. Acad. Sci. USA 92, 7844–7848. 
+
+\n12.	Thomson, J. A., Itskovitz-Eldor, J., Shapiro, S. S., Waknitz, M. A., Swiergiel, 
+J. J., Marshall, V. S. & Jones, J. M. (1998) Science 282, 1145–1147. 
+
+\n13.	Amit, M., Carpenter, M. K., Inokuma, M. S., Chiu, C. P., Harris, C. P., Waknitz, 
+M. A., Itskovitz-Eldor, J. & Thomson, J. A. (2000) Dev. Biol. 227, 271–278. 
+
+\n14.	Reubinoff, B. E., Pera, M. F., Fong, C. Y., Trounson, A. & Bongso, A. (2000) 
+Nat. Biotechnol. 18, 399 – 404. 
+
+\n15.	Kawasaki, H., Mizuseki, K. & Sasai, Y. (2001) in Methods in Molecular Biology, 
+ed. Turksen, K. (Humana, Totowa, NJ), Vol. 185, pp. 217–227. 
+
+\n16.	Mitsui, A., Nohta, H. & Ohkura, Y. (1985) J. Chromatogr. 344, 61–70. 
+
+\n17.	Schalling, M., Friberg, K., Seroogy, K., Riederer, P., Bird, E., Schiffmann, S. N., 
+Mailleux, P., Vanderhaeghen, J. J., Kuga, S., Goldstein, M., et al. (1990) Proc. 
+Natl. Acad. Sci. USA 87, 8427– 8431. 
+
+\n18.	Kosaka, T., Hataguchi, Y., Hama, K., Nagatsu, I. & Wu, J. Y. (1985) Brain Res. 343, 166 –171.
+
 \n19.	Troy, C. M., Brown, K., Greene, L. A. & Shelanski, M. L. (1990) Neuroscience 36, 217–237.
 \n20. Smidt, M. P., Asbreuk, C. H., Cox, J. J., Chen, H., Johnson, R. L. & Burbach, J. P. (2000) Nat. Neurosci. 3, 337–341.
 \n21. Keyoung, H. M., Roy, N. S., Benraiss, A., Louissaint, A., Jr., Suzuki, A., Hashimoto, M., Rashbaum, W. K., Okano, H. & Goldman, S. A. (2001) Nat. Biotechnol. 19, 843– 850.
 \n22. Foster, G. A., Schultzberg, M., Kokfelt, T., Goldstein, M., Hemmings, H. C., Jr., Ouimet, C. C., Walaas, S. I. & Greengard, P. (1988) Int. J. Dev. Neurosci. 6, 367–386.
 \n23. Kawano, H., Ohyama, K., Kawamura, K. & Nagatsu, I. (1995) Dev. Brain Res. 86, 101–113.
-\n24. Ronnekleiv, O. K. & Naylor, B. R. (1995) J. Neurosci. 15, 7330–7343. 25. Marmor, M. F. (1998) in The Retinal Pigment Epithelium, eds. Marmor, M. F. & Wolfensberger, T. J. (Oxford Univ. Press, New York), pp. 3–9. 26. Le Douarin, N. M. & Kalcheim, C. (1999) in The Neural Crest, eds. Le Douarin, N. M. & Kalcheim, C. (Cambridge Univ. Press, Cambridge, U.K.), pp. 252–303.
-\n27. Burke, J. M. (1998) in The Retinal Pigment Epithelium, eds. Marmor, M. F. & Wolfensberger, T. J. (Oxford Univ. Press, New York), pp. 86–102. 28. Scott, G., Cassidy, L. & Abdel-Malek, Z. (1997) Exp. Cell Res. 237, 19–28.
-\n29. Jean, D., Ewan, K. & Gruss, P. (1998) Mech. Dev. 76, 3–18. 30. Li, L. X. & Turner, J. E. (1988) Exp. Eye Res. 47, 911–917. 31. Lopez, R., Gouras, P., Kjeldbye, H., Sullivan, B., Reppucci, V., Brittis, M.,  Wapner, F. & Goluboff, E. (1989) Invest. Ophthalmol. Vis. Sci. 30, 586–588.
-\n32. Uchida, N., Buck, D. W., He, D., Reitsma, M. J., Masek, M., Phan, T. V., Tsukamoto, A. S., Gage, F. H. & Weissman, I. L. (2000) Proc. Natl. Acad. Sci. USA 97, 14720 –14725. 33. Rietze, R. L., Valcanis, H., Brooker, G. F., Thomas, T., Voss, A. K. & Bartlett, P. F. (2001) Nature (London) 412, 736–739. 34. Hynes, M. & Rosenthal, A. (2000) Neuron 28, 11–14. 35. Lindvall, O. (1999) Nat. Biotechnol. 17, 635–636. 36. Gage, F. H. (2000) Science 287, 1433–1438. 37. Betarbet, R., Sherer, T. B., MacKenzie, G., Garcia-Osuna, M., Panov, A. V. & Greenamyre, J. T. (2000) Nat. Neurosci. 3, 1301–1306. 38. Olanow, C. W., Kordower, J. H. & Freeman, T. B. (1996) Trends Neurosci. 19, 102–109.
+\n24. Ronnekleiv, O. K. & Naylor, B. R. (1995) J. Neurosci. 15, 7330–7343.
+25. Marmor, M. F. (1998) in The Retinal Pigment Epithelium, eds. Marmor, M. F. & Wolfensberger, T. J. (Oxford Univ. Press, New York), pp. 3–9.
+26. Le Douarin, N. M. & Kalcheim, C. (1999) in The Neural Crest, eds. Le Douarin, N. M. & Kalcheim, C. (Cambridge Univ. Press, Cambridge, U.K.), pp. 252–303.
+\n27. Burke, J. M. (1998) in The Retinal Pigment Epithelium, eds. Marmor, M. F. & Wolfensberger, T. J. (Oxford Univ. Press, New York), pp. 86–102.
+28. Scott, G., Cassidy, L. & Abdel-Malek, Z. (1997) Exp. Cell Res. 237, 19–28.
+\n29. Jean, D., Ewan, K. & Gruss, P. (1998) Mech. Dev. 76, 3–18.
+30. Li, L. X. & Turner, J. E. (1988) Exp. Eye Res. 47, 911–917.
+31. Lopez, R., Gouras, P., Kjeldbye, H., Sullivan, B., Reppucci, V., Brittis, M.,  Wapner, F. & Goluboff, E. (1989) Invest. Ophthalmol. Vis. Sci. 30, 586–588.
+\n32. Uchida, N., Buck, D. W., He, D., Reitsma, M. J., Masek, M., Phan, T. V., Tsukamoto, A. S., Gage, F. H. & Weissman, I. L. (2000) Proc. Natl. Acad. Sci. USA 97, 14720 –14725.
+33. Rietze, R. L., Valcanis, H., Brooker, G. F., Thomas, T., Voss, A. K. & Bartlett, P. F. (2001) Nature (London) 412, 736–739.
+34. Hynes, M. & Rosenthal, A. (2000) Neuron 28, 11–14.
+35. Lindvall, O. (1999) Nat. Biotechnol. 17, 635–636.
+36. Gage, F. H. (2000) Science 287, 1433–1438.
+37. Betarbet, R., Sherer, T. B., MacKenzie, G., Garcia-Osuna, M., Panov, A. V. & Greenamyre, J. T. (2000) Nat. Neurosci. 3, 1301–1306.
+38. Olanow, C. W., Kordower, J. H. & Freeman, T. B. (1996) Trends Neurosci. 19, 102–109.
 `,
-  6:`# Presynaptic Alpha-Synuclein Aggregation in a Mouse Model of Parkinson’s Disease
+  6: `# Presynaptic Alpha-Synuclein Aggregation in a Mouse Model of Parkinson’s Disease
 \n## Kateri J. Spinelli, Jonathan K. Taylor, Valerie R. Osterberg, Madeline J. Churchill, Eden Pollock, Cynthia Moore, Charles K. Meshul, and Vivek K. Unni
 \n
 \nJungers Center for Neurosciences Research, Oregon Health and Science University, Portland, Oregon 97239, Research Services, Neurocytology Laboratory, Veterans Affairs Medical Center, Portland, Oregon 97239, 3Departments of Behavioral Neuroscience and Pathology, Oregon Health and Science University, Portland, Oregon 97239, and 4Parkinson Center of Oregon, Department of Neurology, Oregon Health and Science University, Portland, Oregon 97239
@@ -2331,7 +2374,7 @@ const FULLTEXT_BY_ID = {
 
 
   `,
-  10:`# Alterations of mitochondrial dynamics allow retrograde propagation of locally initiated axonal insults
+  10: `# Alterations of mitochondrial dynamics allow retrograde propagation of locally initiated axonal insults
 \n## Benjamin Lassus1,2, Sebastien Magnifico1,2, Sandra Pignon1,2, Pascale Belenguer3, Marie-Christine Miquel3,* & Jean-Michel Peyrin1,2,*
 \n
 \n### In chronic neurodegenerative syndromes, neurons progressively die through a generalized retraction pattern triggering retrograde axonal degeneration toward the cell bodies, which molecular mechanisms remain elusive. Recent observations suggest that direct activation of pro-apoptotic signaling in axons triggers local degenerative events associated with early alteration of axonal mitochondrial dynamics. This raises the question of the role of mitochondrial dynamics on both axonal vulnerability stress and their implication in the spreading of damages toward unchallenged parts of the neuron. Here, using micro uidic chambers, we assessed the consequences of interfering with OPA1 and DRP1 proteins
@@ -3613,8 +3656,9 @@ const FULLTEXT_BY_ID = {
 \n*p < 0.05, **p < 0.01, ***p < 0.001.
 \n
   `,
-  12:` # Quantitative expression proteomics and phosphoproteomics profile of brain from PINK1 knockout mice: insights into mechanisms of familial Parkinson's disease
-\n## Judy C. Triplett, Zhaoshu Zhang, Rukhsana Sultana, Jian Cai, Jon B. Klein, Hansruedi Büeler, David Allan Butterfield 
+  12: ` # Quantitative expression proteomics and phosphoproteomics profile of brain from PINK1 knockout mice: insights into mechanisms of familial Parkinson's disease
+\n## Judy C. Triplett, Zhaoshu Zhang, Rukhsana Sultana, Jian Cai, Jon B. Klein, Hansruedi Büeler, David Allan Butterfield
+
 \n
 \n
 \n#Abstract
@@ -4342,8 +4386,7 @@ const FULLTEXT_BY_ID = {
 
   `
 
-}
-
+};
 
 
 export default FULLTEXT_BY_ID;
