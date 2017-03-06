@@ -11,7 +11,7 @@ type actionType = {
   payload: string
 };
 
-export default function window1(state: Object = { currentSearch: 'Try Pink1 GENE', facets: {} }, action: actionType) {
+export default function window1(state: Object = { currentSearch: 'Try Pink1 GENE', facets: {} },  action: Object = {type: '', payload: ''}) {
   switch (action.type) {
     case UPDATE_SEARCH:
       return Object.assign({}, state, { currentSearch: action.payload });

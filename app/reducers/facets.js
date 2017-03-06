@@ -6,11 +6,10 @@ export type window1StateType = {
 };
 
 type actionType = {
-  type: string,
-  payload: Object
+  type: string
 };
 
-export default function facets(state: Object = {}, action: actionType) {
+export default function facets(state: Object = {}, action: actionType = {type: '', payload: {}}) {
   switch (action.type) {
     case UPDATE_FACETS:
       const newFacets = state;
