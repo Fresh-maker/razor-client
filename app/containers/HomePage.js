@@ -6,7 +6,6 @@ import Home from '../components/Home';
 import * as HomePageActions from '../actions/homepage';
 
 function mapStateToProps(state) {
-  console.log('state', state);
   return {
     modal: state.modal
   };

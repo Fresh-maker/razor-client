@@ -9,7 +9,6 @@ class SearchResults extends Component {
   render() {
     const { currentSearch, facets } = this.props;
     const getFilteredResults = function (allTerms) {
-      let i = 0;
       return allTerms.filter(
           (el) => (`${(el.searchTerm || '').toLowerCase()} ${el.title.toLowerCase()} ${el.previewText.toLowerCase()}`).indexOf(currentSearch.toLowerCase()) > -1
         ).filter((el) => {
@@ -19,14 +18,14 @@ class SearchResults extends Component {
           for (const key in facets) {
             if (facets[key].length > 0) {
               if (_.contains(facets[key], el[key])) {
-                console.log('returning false');
                 return true;
               }
             }
           }
           return false;
         }).map(
-          (el) => <div><SearchResultItem currentSearch={currentSearch} key={i++} {...el} /><br /></div>);
+          (el,i) => <SearchResultItem currentSearch={currentSearch} key={i} {...el} />
+        );
     };
     const filteredResults = getFilteredResults(ALL_DATA);
     return (

@@ -4,10 +4,10 @@ import type { window1StateType } from '../reducers/window1';
 export const UPDATE_SEARCH = 'UPDATE_SEARCH';
 export const UPDATE_FACETS = 'UPDATE_FACET';
 
-export function updateSearch(e:Object) {
+export function updateSearch(searchText:string) {
   return {
     type: UPDATE_SEARCH,
-    payload: e.target.value
+    payload: searchText
   };
 }
 
