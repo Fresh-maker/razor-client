@@ -6,7 +6,7 @@ import * as actions from '../../app/actions/window1';
 
 describe('actions', () => {
   it('should create update search action', () => {
-    expect(actions.updateSearch({target:{value: 'test'}}))
+    expect(actions.updateSearch('test'))
       .to.deep.equal({ type: actions.UPDATE_SEARCH, payload: 'test' });
   });
 
