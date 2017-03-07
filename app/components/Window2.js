@@ -6,6 +6,7 @@ import showdown from 'showdown';
 import styles from './Window2.css';
 import DetailMetadata from './DetailMetadata.js';
 import ALL_DATA from '../fixtures/alldata.js';
+import DetailActionDropdown from './DetailActionDropdown.js';
 const ALL_DATA_BY_ID = _.indexBy(ALL_DATA, 'id');
 const converter = new showdown.Converter();
 
@@ -17,6 +18,7 @@ class Window2 extends Component {
     const html = converter.makeHtml(text);
     return (
       <div className="window2">
+        <DetailActionDropdown {...this.props}/>
         <div className="row">
           <p>Window2</p>
           <div className="fullDetails seven columns" dangerouslySetInnerHTML={{ __html: html }} />
