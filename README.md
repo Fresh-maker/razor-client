@@ -1,4 +1,8 @@
-# electron-react-boilerplate
+Occamzrazor Client project - Codename "Razor"
+
+* Build status:  [![CircleCI](https://circleci.com/gh/occamzrazor/razor-client.svg?style=svg)](https://circleci.com/gh/occamzrazor/razor-client)
+
+# Adapted from electron-react-boilerplate, see docs:
 
 [![Build Status][travis-image]][travis-url]
 [![Appveyor Build Status][appveyor-image]][appveyor-url]
