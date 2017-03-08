@@ -8,13 +8,13 @@ class SearchBar extends Component {
     updateSearch(`${currentSearch} [${e.target.name}]`);
   }
   render() {
-    const { currentSearch, updateSearch } = this.props;
+    const { currentSearch, updateSearch, showModal } = this.props;
     return (
       <div>
         <div className="row"> Hit &lt;HELP&gt; for more info,  &lt;MENU&gt; for list of Similar functions, &lt;HIST&gt; for last actions              </div>
         <div className="row">
           <div className="navBar">
-            <button className="button-primary green">HELP</button>
+            <button onClick={()=>showModal((<div>test</div>))} className="button-primary green">HELP</button>
             <button className="button-primary green">MENU</button>
             <button className="button-primary green">HIST</button>
             <button name="PEOP" onClick={this.addPill} className="button-primary margin">Peop</button>

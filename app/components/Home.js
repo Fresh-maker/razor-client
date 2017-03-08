@@ -12,6 +12,11 @@ class Images extends Component {
 }
 class History extends Component {
   render() {
+    return (
+      <div>
+        History Component
+      </div>
+    );
   }
 }
 export default class Home extends Component {
@@ -23,7 +28,6 @@ export default class Home extends Component {
     const currentModal = 'history';
     let currentModalJSX = (<div />);
     if (currentModal === 'history') {
-      currentModalJSX = (<div>history</div>);
     } else if (currentModal === 'images') {
       currentModalJSX = (<div>images</div>);
     }
@@ -32,19 +36,19 @@ export default class Home extends Component {
         <div className="home-page">
           <div className="styles.container">
             <div className="row">
-              <div className="six columns"> <Window1Page /> </div>
+              <div className="six columns"> <Window1Page showModal={showModal} toggleModal={toggleModal}/> </div>
               <div className="six columns"> {(typeof this.props.children !== 'undefined') && this.props.children} </div>
             </div>
             <Modal
+              className={styles.modal}
               isOpen={modal.isOpen}
               onRequestClose={closeModal}
               style={customStyles}
               contentLabel="Razor"
             >
               <h2 ref="subtitle">Hello</h2>
-              { currentModalJSX }
+              <History/>
               <button onClick={toggleModal}>close</button>
-              <div>I am a modal</div>
             </Modal>
           </div>
         </div>
