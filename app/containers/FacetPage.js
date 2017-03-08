@@ -1,6 +1,6 @@
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
-import Facets from '../components/Facets';
+import Facets from '../components/facets';
 import * as Window1Actions from '../actions/window1';
 
 function mapStateToProps(state) {
