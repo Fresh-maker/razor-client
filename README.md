@@ -28,7 +28,7 @@ Occamzrazor Client project - Codename "Razor"
 First, clone the repo via git:
 
 ```bash
-git clone https://github.com/chentsulin/electron-react-boilerplate.git your-project-name
+git clone --depth=1 https://github.com/chentsulin/electron-react-boilerplate.git your-project-name
 ```
 
 And then install dependencies.
@@ -60,6 +60,15 @@ $ npm run dev
 ```bash
 apm install editorconfig es6-javascript atom-ternjs javascript-snippets linter linter-eslint language-babel autocomplete-modules file-icons
 ```
+
+**VSCode**
+* [Editorconfig](https://github.com/editorconfig/editorconfig-vscode)
+* [ESLint](https://github.com/Microsoft/vscode-eslint)
+* [Flow](https://github.com/flowtype/flow-for-vscode)
+* [Jest](https://github.com/orta/vscode-jest)
+* [ES6 Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+* [React Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+:bulb: *If you are using the `flow-for-vscode` plugin, make sure to disable the `flowtype-errors/show-errors` eslint rule in the `.eslintrc` by setting it to `0`*
 
 **Sublime**
 * [Editorconfig Integration](https://github.com/sindresorhus/editorconfig-sublime#readme)
