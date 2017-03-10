@@ -28,6 +28,9 @@ describe('main window', function spec() {
     return value.map(btn => btn.ELEMENT);
   };
 
+  it('should perform other arithmetic', () => {
+    expect(1 + 2).toBe(3);
+  });
   //it('should open window', async () => {
     //const { client, browserWindow } = this.app;
 
