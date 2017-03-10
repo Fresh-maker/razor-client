@@ -1,6 +1,7 @@
-machine:
-  node:
-    version: 6.1.0
+# setting node version not supported on osx build
+#machine:
+  #node:
+    #version: 6.1.0
 general:
   artifacts:
     - "release" # relative to the build directory
