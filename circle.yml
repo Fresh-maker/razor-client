@@ -5,3 +5,7 @@
 general:
   artifacts:
     - "release" # relative to the build directory
+test:
+  override:
+    - npm run test
+    - npm run build
