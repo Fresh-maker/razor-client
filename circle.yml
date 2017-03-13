@@ -8,4 +8,4 @@ general:
 test:
   override:
     - npm run test
-    - npm run package && pwd && cp ./release $CIRCLE_ARTIFACTS
+    - npm run package && mv ./release $CIRCLE_ARTIFACTS
