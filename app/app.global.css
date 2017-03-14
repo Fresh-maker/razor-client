@@ -46,16 +46,22 @@ a:hover {
 
 .barContainer{
   display:table;
+  background-color: white;
+}
+.barContainer input, .barContainer input:focus {
+  border: 0px solid white;
 }
 .searchPair{
   display:table-cell;
+  color:black;
+  white-space: nowrap;
 }
 .lookup{
   width:100%;
   display:table-cell;
   text-overflow: clip;
   border:none !important;
-  background-color: black;
+  background-color: white;
   font-size:24px;
   font-style: normal;
 

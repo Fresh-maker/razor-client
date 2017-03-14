@@ -39,7 +39,7 @@ class SearchBar extends Component {
             <button name="GENE" onClick={this.addPill} className="button-primary margin">Gene</button>
           </div>
         </div>
-        <div className="row barContainer">
+        <label className="row barContainer">
           <PillRow {...this.props}/>
           <div className="lookup">
             <input type="text"
@@ -47,7 +47,7 @@ class SearchBar extends Component {
                onKeyDown={this.onKeyDown}
                onChange={this.onChange} />
           </div>
-        </div>
+        </label>
         <div className="row">
         </div>
       </div>
