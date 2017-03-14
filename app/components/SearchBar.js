@@ -1,13 +1,28 @@
 // @flow
 import React, { Component } from 'react';
+import PillRow from './PillRow';
 
 
 class SearchBar extends Component {
   addPill = (e)=> {
-    const { updateSearch, currentSearch } = this.props;
-    updateSearch(`${currentSearch} [${e.target.name}]`);
+    const { updateSearch, currentSearch, addSearchPair, popSearchPair } = this.props;
+    addSearchPair({
+      term: currentSearch,
+      category: e.target.name
+    });
+    updateSearch('');
   }
-  render() {
+  onKeyDown = (e)=> {
+    const { popSearchPair } = this.props;
+    if(e.target.selectionStart === 0 && e.key === "Backspace"){
+      popSearchPair();
+    }
+  }
+  onChange = (e)=> {
+    const { updateSearch } = this.props;
+    updateSearch(e.target.value)
+  }
+  render = ()=> {
     const { currentSearch, updateSearch } = this.props;
     return (
       <div>
@@ -24,8 +39,16 @@ class SearchBar extends Component {
             <button name="GENE" onClick={this.addPill} className="button-primary margin">Gene</button>
           </div>
         </div>
+        <div className="row barContainer">
+          <PillRow {...this.props}/>
+          <div className="lookup">
+            <input type="text"
+               value={currentSearch}
+               onKeyDown={this.onKeyDown}
+               onChange={this.onChange} />
+          </div>
+        </div>
         <div className="row">
-          <input className="lookup" type="text" value={currentSearch} onChange={(e)=>updateSearch(e.target.value)} />
         </div>
       </div>
     );

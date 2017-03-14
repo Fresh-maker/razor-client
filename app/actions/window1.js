@@ -1,6 +1,7 @@
 // @flow
 import type { window1StateType } from '../reducers/window1';
 
+export const UPDATE_SEARCH_PAIRS = 'UPDATE_SEARCH_PAIRS';
 export const UPDATE_SEARCH = 'UPDATE_SEARCH';
 export const UPDATE_FACETS = 'UPDATE_FACET';
 
@@ -28,6 +29,51 @@ export function updateFacet(e:Object) {
   }
   return {
     type: UPDATE_FACETS,
+    payload
+  };
+}
+
+export function addSearchPair({term, category}) {
+  const payload = {
+    term,
+    category,
+    action: 'add'
+  };
+  return {
+    type: UPDATE_SEARCH_PAIRS,
+    payload
+  };
+}
+
+export function replaceSearchPair({term, category}) {
+  const payload = {
+    term,
+    category,
+    action: 'replace'
+  };
+  return {
+    type: UPDATE_SEARCH_PAIRS,
+    payload
+  };
+}
+export function removeSearchPair({term, category}) {
+  const payload = {
+    term,
+    category,
+    action: 'remove'
+  };
+  return {
+    type: UPDATE_SEARCH_PAIRS,
+    payload
+  };
+}
+
+export function popSearchPair() {
+  const payload = {
+    action: 'pop'
+  };
+  return {
+    type: UPDATE_SEARCH_PAIRS,
     payload
   };
 }

@@ -5,6 +5,7 @@ import * as Window1Actions from '../actions/window1';
 
 function mapStateToProps(state) {
   return {
+    searchpairs: state.searchpairs,
     currentSearch: state.window1.currentSearch,
     facets: state.facets
   };
