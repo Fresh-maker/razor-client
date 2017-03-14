@@ -13,8 +13,20 @@ class SearchBar extends Component {
     updateSearch('');
   }
   onKeyDown = (e)=> {
-    const { popSearchPair } = this.props;
-    if(e.target.selectionStart === 0 && e.key === "Backspace"){
+    const { updateSearch, addSearchPair, popSearchPair } = this.props;
+    if(e.key === "]"){
+      e.preventDefault();
+      const inputVal=e.target.value;
+      const lastStartBracketPos = inputVal.lastIndexOf('[');
+      if(lastStartBracketPos > 0 && lastStartBracketPos < e.target.selectionStart){
+        console.log(addSearchPair({
+          term: inputVal.substring(0,lastStartBracketPos),
+          category: inputVal.substring(lastStartBracketPos+1,e.target.selectionStart)
+        }));
+        updateSearch('');
+      }
+    }
+    else if(e.target.selectionStart === 0 && e.key === "Backspace"){
       popSearchPair();
     }
   }
