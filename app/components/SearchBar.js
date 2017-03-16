@@ -5,11 +5,12 @@ import PillRow from './PillRow';
 
 class SearchBar extends Component {
   addPill = (e)=> {
-    const { updateSearch, currentSearch, addSearchPair, popSearchPair } = this.props;
+    const { updateSearch, currentSearch, addSearchPair, popSearchPair, fetchSearchResults } = this.props;
     addSearchPair({
       term: currentSearch,
       category: e.target.name
     });
+    fetchSearchResults('');
     updateSearch('');
   }
   onKeyDown = (e)=> {
@@ -19,10 +20,10 @@ class SearchBar extends Component {
       const inputVal=e.target.value;
       const lastStartBracketPos = inputVal.lastIndexOf('[');
       if(lastStartBracketPos > 0 && lastStartBracketPos < e.target.selectionStart){
-        console.log(addSearchPair({
+        addSearchPair({
           term: inputVal.substring(0,lastStartBracketPos),
           category: inputVal.substring(lastStartBracketPos+1,e.target.selectionStart)
-        }));
+        });
         updateSearch('');
       }
     }

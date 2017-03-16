@@ -9,7 +9,7 @@ import SearchBar from './SearchBar';
 
 class Window1 extends Component {
   render() {
-    const { currentSearch, facets, updateSearch } = this.props;
+    const { currentSearch, facets, updateSearch, searchResults } = this.props;
     return (
       <div>
         <SearchBar {...this.props}/>
@@ -17,7 +17,9 @@ class Window1 extends Component {
           <p>RESULTS</p>
         </div>
         <div className="row">
-          <div className="eight columns"> <SearchResults currentSearch={currentSearch} facets={facets} /> </div>
+          <div className="eight columns">
+            <SearchResults currentSearch={currentSearch} facets={facets} searchResults={searchResults}/>
+          </div>
           <div className="four columns"> <FacetPage /> </div>
         </div>
 
