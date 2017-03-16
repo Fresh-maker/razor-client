@@ -35,7 +35,8 @@ export function fetchSearchResults(searchText:string) {
       let values = Array.isArray(state.facets[facet]) ? state.facets[facet].join(',') : state.facets[facet];
       facetString +=`&${facet}=${values}`;
     }
-    fetch(`${BASE_SEARCH_URL}/search?q=${state.currentSearch||''}${facetString}`)
+    const query = state.searchpairs.map((pair)=>`${pair.term} [${pair.category}]`).join(' ');
+    fetch(`${BASE_SEARCH_URL}/search?q=${query}${facetString}`)
       .then(response => response.json())
       .then(json => {
         dispatch(setSearchResultsRequested(false));
