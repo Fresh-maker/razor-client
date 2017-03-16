@@ -44,15 +44,32 @@ a:hover {
 
 }
 
+.barContainer{
+  display:table;
+  background-color: white;
+  width:100%;
+  padding: 0 8px;
+}
+.barContainer input, .barContainer input:focus {
+  border: 0px solid white;
+}
+.searchPair{
+  display:table-cell;
+  color:black;
+  white-space: nowrap;
+}
 .lookup{
-  float: left;
-  width: 783px;
+  width:100%;
+  display:table-cell;
   text-overflow: clip;
   border:none !important;
-  background-color: black;
+  background-color: white;
   font-size:24px;
   font-style: normal;
 
+}
+.lookup input {
+  width:100%;
 }
 
 .navBar .green{

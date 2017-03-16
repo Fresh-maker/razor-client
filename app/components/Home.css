@@ -12,3 +12,7 @@
 .container a {
   font-size: 1.4rem;
 }
+
+.modal {
+  background-color:salmon;
+}
