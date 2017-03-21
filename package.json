@@ -1,7 +1,7 @@
 {
   "name": "razor-client",
   "productName": "RazorClient",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "Razor client application",
   "main": "main.js",
   "scripts": {
