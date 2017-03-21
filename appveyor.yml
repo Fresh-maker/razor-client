@@ -51,7 +51,7 @@ test_script:
 # - npm run test-e2e
   - npm run package
   - ls release
-  - ls release/Electron*
+  - ls release/Razor*
   - ls release/win-ia32-unpacked
   - cat release/latest.yml
 
