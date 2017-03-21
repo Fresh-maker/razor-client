@@ -3,7 +3,7 @@ os: unstable
 environment:
   matrix:
     - nodejs_version: 7
-    - nodejs_version: 6
+    #- nodejs_version: 6
 
 cache:
   - node_modules -> package.json
@@ -51,3 +51,7 @@ test_script:
 # - npm run test-e2e
   - npm run package
   - ls release
+  - ls release/Electron*
+  - ls release/win-ia32-unpacked
+  - cat release/latest.yml
+
