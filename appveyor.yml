@@ -54,4 +54,5 @@ test_script:
   - ls release/Razor*
   - ls release/win-ia32-unpacked
   - cat release/latest.yml
-
+artifacts:
+  - path: release
