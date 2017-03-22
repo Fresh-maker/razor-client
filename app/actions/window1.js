@@ -6,6 +6,7 @@ export const SET_SEARCH_RESULTS = 'SET_SEARCH_RESULTS';
 export const UPDATE_SEARCH_PAIRS = 'UPDATE_SEARCH_PAIRS';
 export const UPDATE_SEARCH = 'UPDATE_SEARCH';
 export const UPDATE_FACETS = 'UPDATE_FACET';
+const BASE_SEARCH_URL="https://razor-middleware-161518.appspot.com/"
 
 export function updateSearch(searchText:string) {
   return {
@@ -28,7 +29,14 @@ export function setSearchResults(results:Array<Object>) {
 export function fetchSearchResults(searchText:string) {
   return function(dispatch, getState){
     dispatch(setSearchResultsRequested(true));
-    fetch('https://razor-middleware-161518.appspot.com/search?q=meow')
+    const state=getState();
+    let facetString = '';
+    for(let facet in state.facets){
+      let values = Array.isArray(state.facets[facet]) ? state.facets[facet].join(',') : state.facets[facet];
+      facetString +=`&${facet}=${values}`;
+    }
+    const query = state.searchpairs.map((pair)=>`${pair.term} [${pair.category}]`).join(' ');
+    fetch(`${BASE_SEARCH_URL}/search?q=${query}${facetString}`)
       .then(response => response.json())
       .then(json => {
         dispatch(setSearchResultsRequested(false));
